@@ -1,21 +1,31 @@
 ---
-author: linaro
-date: 2018-03-19 0:00:00.000
-title: Linaro Announces OpenDataPlane Tiger Moth LTS Software 
-description: >-
-    Linaro Ltd, the open source collaborative engineering organization developing software for the Arm ecosystem, today announced the availability of the
-    second Long Term Support (LTS) release of OpenDataPlane
+title: Linaro Announces OpenDataPlane Tiger Moth LTS Software
+date: 2018-03-19 00:00:00 Z
 categories:
-  - News
-published: true
-tags: Linaro, Connect, HKG18, OpenDataPlane, New Release, LTS, Tiger, Moth, Software
+- News
+tags:
+- Linaro,
+- Connect,
+- HKG18,
+- OpenDataPlane,
+- New
+- Release,
+- LTS,
+- Tiger,
+- Moth,
+- Software
+author: linaro
+description: Linaro Ltd, the open source collaborative engineering organization developing
+  software for the Arm ecosystem, today announced the availability of the second Long
+  Term Support (LTS) release of OpenDataPlane
 keywords: Linaro, Connect, HKG18, OpenDataPlane, New Release, LTS, Tiger, Moth, Software
 image:
   featured: true
-  path: /assets/images/blog/odp-press-release-hkg18.png
+  path: "/assets/images/blog/odp-press-release-hkg18.png"
   name: odp-press-release-hkg18.png
 layout: post
 ---
+
 ## Linaro Announces OpenDataPlane Tiger Moth LTS Software Release with Support for Arm and x86
 **Software Defined Data Plane Supports SoCs, SmartNICs, and Servers**
 **With Full Support for Accelerated IPsec Processing**

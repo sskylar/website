@@ -1,18 +1,28 @@
---- 
+---
+title: Linaro at ELC
+date: 2018-03-09 14:50:00 Z
+categories:
+- blog
+tags:
+- ELC,
+- LKFT,
+- Linux,
+- Kernel,
+- Android,
+- I/O,
+- Linaro,
+- Open
+- Source,
+- Arm
 author: linaro
-categories: 
-  - blog
-date: 2018-03-09 14:50:00 +00:00
-description: "Find out who from Linaro will be presenting at ELC 2018 in Portland this week 12th 14th March 2018"
-image: 
+description: Find out who from Linaro will be presenting at ELC 2018 in Portland this
+  week 12th 14th March 2018
+image:
   featured: true
   name: ELC-Image.png
-  path: /assets/images/blog/ELC-Image.png
-keywords: "ELC, LKFT, Linux, Kernel, Android, I/O, Linaro, Open Source, Arm"
+  path: "/assets/images/blog/ELC-Image.png"
+keywords: ELC, LKFT, Linux, Kernel, Android, I/O, Linaro, Open Source, Arm
 layout: post
-published: true
-tags: "ELC, LKFT, Linux, Kernel, Android, I/O, Linaro, Open Source, Arm"
-title: "Linaro at ELC"
 ---
 
 # Don't miss Linaro at ELC this week

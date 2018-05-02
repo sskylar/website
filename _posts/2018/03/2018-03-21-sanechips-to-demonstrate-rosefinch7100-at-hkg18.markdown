@@ -1,19 +1,29 @@
 ---
-author: linaro
-date: 2018-03-21 09:00:00.000
 title: Sanechips to demonstrate RoseFinch7100 at Linaro Connect
-description: Sanechips Technology will demonstrate the RoseFinch7100 NB-IoT chip at HKG18.
+date: 2018-03-21 09:00:00 Z
 categories:
-  - blog
-published: true
-tags: 'HKG18, Arm, Linux, Kernel, Linaro, Open Source, RoseFinch7100, HKG18'
-keywords: 'HKG18, Arm, Linux, Kernel, Linaro, Open Source, RoseFinch7100, HKG18'
+- blog
+tags:
+- HKG18,
+- Arm,
+- Linux,
+- Kernel,
+- Linaro,
+- Open
+- Source,
+- RoseFinch7100,
+- HKG18
+author: linaro
+description: Sanechips Technology will demonstrate the RoseFinch7100 NB-IoT chip at
+  HKG18.
+keywords: HKG18, Arm, Linux, Kernel, Linaro, Open Source, RoseFinch7100, HKG18
 image:
-    featured: true
-    path: /assets/images/blog/rosefinch7100.jpg
-    name: rosefinch7100.jpg
+  featured: true
+  path: "/assets/images/blog/rosefinch7100.jpg"
+  name: rosefinch7100.jpg
 layout: post
 ---
+
 # Sanechips to demonstrate RoseFinch7100 at Linaro Connect
 
 At the Linaro Connect Demo Friday in Hong Kong (HKG18) on 23 March, Sanechips Technology will demonstrate the RoseFinch7100 NB-IoT (narrow band Internet of things) chip. This is the first NB-IoT secure chip independently developed in China. Announced on 28 September 2017, The RoseFinch7100 has passed the certification of China Mobile and China Telecom, and it has been widely deployed in gas meters, household appliances, municipal management (parking, manhole cover, street lamp, environmental monitoring) and other industries.

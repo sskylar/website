@@ -1,19 +1,23 @@
 ---
-author: linaro
-date: 2018-01-26 11:00:00
 title: Linaro at FOSDEM 2018
-description: "FOSDEM is a two-day event organised by volunteers to promote the widespread use of free and open source software. Find our more about Linaro Engineers attending FOSDEM 2018"
+date: 2018-01-26 11:00:00 Z
 categories:
 - blog
-published: true
-tags: Event, FOSDEM, OpenSource
-keywords: FOSDEM, software developers, collaborate, open source, devroom, dev conf, foss conference
+tags:
+- Event,
+- FOSDEM,
+- OpenSource
+author: linaro
+description: FOSDEM is a two-day event organised by volunteers to promote the widespread
+  use of free and open source software. Find our more about Linaro Engineers attending
+  FOSDEM 2018
+keywords: FOSDEM, software developers, collaborate, open source, devroom, dev conf,
+  foss conference
 image:
-    featured: true
-    path: /assets/images/blog/linaro-fosdem-2018.jpg
-    name: linaro-fosdem-2018.jpg
+  featured: true
+  path: "/assets/images/blog/linaro-fosdem-2018.jpg"
+  name: linaro-fosdem-2018.jpg
 layout: post
-
 ---
 
 Don’t miss FOSDEM 2018 where Linaro will be presenting. See below abstracts of their talks and click on the links to find out where you can attend the sessions.
