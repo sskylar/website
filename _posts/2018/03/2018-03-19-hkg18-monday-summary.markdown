@@ -1,20 +1,39 @@
 ---
-author: linaro
-date: 2018-03-19 14:50:00.000
 title: Highlights of Day One at HKG18
-description: >-
-    Here is a brief summary of the key announcements made in Linaro CEO George Grey's keynote at HKG18. 
+date: 2018-03-19 14:50:00 Z
 categories:
-  - blog
-published: true
-tags: 'HKG18, Arm, Linux, Kernel, Linaro, Open Source, Machine Learning, AI, 96Boards, HiSilicon, Xilinx, Socionext, Qualcomm, Rockchip, Zephyr, CEC'
-keywords: HKG18, Arm, Linux, Kernel, Linaro, Open Source, Machine Learning, AI, 96Boards, HiSilicon, Xilinx, Socionext, Qualcomm, Rockchip, Zephyr, CEC
+- blog
+tags:
+- HKG18,
+- Arm,
+- Linux,
+- Kernel,
+- Linaro,
+- Open
+- Source,
+- Machine
+- Learning,
+- AI,
+- 96Boards,
+- HiSilicon,
+- Xilinx,
+- Socionext,
+- Qualcomm,
+- Rockchip,
+- Zephyr,
+- CEC
+author: linaro
+description: 'Here is a brief summary of the key announcements made in Linaro CEO
+  George Grey''s keynote at HKG18. '
+keywords: HKG18, Arm, Linux, Kernel, Linaro, Open Source, Machine Learning, AI, 96Boards,
+  HiSilicon, Xilinx, Socionext, Qualcomm, Rockchip, Zephyr, CEC
 image:
-    featured: true
-    path: /assets/images/blog/hkg18-group-photo-optimized.jpg
-    name: hkg18-group-photo-optimized.jpg
+  featured: true
+  path: "/assets/images/blog/hkg18-group-photo-optimized.jpg"
+  name: hkg18-group-photo-optimized.jpg
 layout: post
 ---
+
 # Highlights of the first day at Linaro Connect HKG18
 
 Linaro Connect HKG18 has begun!

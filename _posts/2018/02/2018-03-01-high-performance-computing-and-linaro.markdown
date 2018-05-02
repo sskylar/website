@@ -1,20 +1,31 @@
 ---
-author: kanta.vekaria
-date: 2018-03-01 09:00:00.000
 title: High Performance Computing and Linaro
-description: >-
-    Supercomputing has been around for decades and hardware for High Performance Computing (HPC) has traditionally been provided by Intel. Well, things are changing and changing fast they are.
+date: 2018-03-01 09:00:00 Z
 categories:
-  - blog
-published: true
-tags: 'High Performance Computing, HPC, Linaro, Open Source, Arm, SVE, HKG18'
+- blog
+tags:
+- High
+- Performance
+- Computing,
+- HPC,
+- Linaro,
+- Open
+- Source,
+- Arm,
+- SVE,
+- HKG18
+author: kanta.vekaria
+description: Supercomputing has been around for decades and hardware for High Performance
+  Computing (HPC) has traditionally been provided by Intel. Well, things are changing
+  and changing fast they are.
 keywords: High Performance Computing, HPC, Linaro, Open Source, Arm, SVE, HKG18
 image:
-    featured: true
-    path: /assets/images/blog/hpc-and-linaro-blog-image.png 
-    name: hpc-and-linaro-blog-image.png 
+  featured: true
+  path: "/assets/images/blog/hpc-and-linaro-blog-image.png"
+  name: hpc-and-linaro-blog-image.png
 layout: post
 ---
+
 Supercomputing has been around for decades and hardware for High Performance Computing (HPC) has traditionally been provided by Intel. Well, things are changing and changing fast they are.
 
 In 2011 Arm made its first step into HPC via the Mont Blanc Project. This project tackled the initial work of building test systems and porting software for Arm HPC test systems. Since then, and from work involving the Department of Energy’s Fast Forward-2 project, this has demonstrated the competitiveness of AArch64 on a per core per socket basis. [Results published at SC17 are further proof.][1]
