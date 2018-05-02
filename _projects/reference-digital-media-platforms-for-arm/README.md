@@ -1,22 +1,25 @@
 ---
-project_id: "8"
 title: Reference Digital Media Platforms for ARM
-permalink: /projects/reference-digital-media-platforms-for-arm/
-description: |-
-    The goal of the Reference Platforms Lead Project is to create reference end to end open source software releases for ARM SoCs in applications ranging from the Embedded to Enterprise segments.
-keywords: reference, releases, socs, source, hardware, tested, code, other, their, details
+permalink: "/projects/reference-digital-media-platforms-for-arm/"
+project_id: '8'
+description: The goal of the Reference Platforms Lead Project is to create reference
+  end to end open source software releases for ARM SoCs in applications ranging from
+  the Embedded to Enterprise segments.
+keywords: reference, releases, socs, source, hardware, tested, code, other, their,
+  details
 related_jira_projects:
- - name: LHG Overview
-   url: https://projects.linaro.org/secure/Dashboard.jspa?selectPageId=10203
+- name: LHG Overview
+  url: https://projects.linaro.org/secure/Dashboard.jspa?selectPageId=10203
 governance:
-  - name: Linaro Technical Steering Committee
-    url: https://wiki.linaro.org/Internal/TSC
-  - name: Linaro Home Group Steering Committee
-    url: https://wiki.linaro.org/Internal/LHG-SC
+- name: Linaro Technical Steering Committee
+  url: https://wiki.linaro.org/Internal/TSC
+- name: Linaro Home Group Steering Committee
+  url: https://wiki.linaro.org/Internal/LHG-SC
 engineering:
-  - name: Developer Resources and Documentation
-    url: https://wiki.linaro.org/LHG
+- name: Developer Resources and Documentation
+  url: https://wiki.linaro.org/LHG
 ---
+
 # Reference Digital Media Platforms for ARM
 
 This project has been defined to address the problem of defragmenting the media framework and associated security solutions that are currently found in the market.

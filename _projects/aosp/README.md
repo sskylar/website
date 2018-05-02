@@ -1,23 +1,24 @@
 ---
-project_id: "1"
 title: Mobile AOSP Optimization
-description: |-
-    The Android Open Source Project (AOSP) is the foundation for Android based devices.
+permalink: "/projects/aosp/"
+project_id: '1'
+description: The Android Open Source Project (AOSP) is the foundation for Android
+  based devices.
 keywords: mobile, android, aosp, project, linaro, engineering, group, devices, Optimizations
-permalink: /projects/aosp/
 related_groups:
- - "lmg"
+- lmg
 governance:
-  - name: Linaro Mobile Group Steering Committee (MEMBERS ONLY)
-    url: https://wiki.linaro.org/Internal/LMGSC
+- name: Linaro Mobile Group Steering Committee (MEMBERS ONLY)
+  url: https://wiki.linaro.org/Internal/LMGSC
 engineering:
-  - name: Linaro Mobile Group Engineering Wiki
-    url: https://wiki.linaro.org/LMG
+- name: Linaro Mobile Group Engineering Wiki
+  url: https://wiki.linaro.org/LMG
 related_jira_projects:
-  - name: LMG Overview
-    url: https://projects.linaro.org/projects/LMG/summary
+- name: LMG Overview
+  url: https://projects.linaro.org/projects/LMG/summary
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsMzB6auo_XJTwWeO20xyrDo
 ---
+
 # Mobile AOSP Optimization
 
 The Android Open Source Project (AOSP) is the foundation for Android based devices. It is a central goal to Linaro that the ARM based mobile ecosystem through AOSP, and more directly Android products, have a more superior user experience than Android products based on other CPU architectures.

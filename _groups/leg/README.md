@@ -1,38 +1,38 @@
 ---
-group_id: 1
 title: Linaro Enterprise Group (LEG)
-description: |-
-    The purpose of the Linaro Enterprise Group (LEG) is to collaborate and accelerate the development of foundational software for ARM Server Linux.
-keywords: ARM, Server, Linux, ecosystem, silicon, Virtualization, Power Management, Security, Toolchain, Big Data, Software Defined Infrastructure
-permalink: /groups/leg/
+permalink: "/groups/leg/"
+group_id: 1
+description: The purpose of the Linaro Enterprise Group (LEG) is to collaborate and
+  accelerate the development of foundational software for ARM Server Linux.
+keywords: ARM, Server, Linux, ecosystem, silicon, Virtualization, Power Management,
+  Security, Toolchain, Big Data, Software Defined Infrastructure
 group_short_name: leg
 group_long_name: Linaro Enterprise Group
 icon: leg_icon.png
 icon_hd: leg_icon_hd.png
 director: Martin Stadtler
 related_projects:
-  - "3"
-  - "10"
-#related_initiatives:
+- '3'
+- '10'
 related_sig:
-  - /sig/hpc/
+- "/sig/hpc/"
 other_projects:
-  - name: Docker
-  - name: OpenJDK
-    url: http://openjdk.linaro.org/
-  - name: OpenStack
-    url: https://wiki.linaro.org/OpenStack
+- name: Docker
+- name: OpenJDK
+  url: http://openjdk.linaro.org/
+- name: OpenStack
+  url: https://wiki.linaro.org/OpenStack
 related_tags:
-  - leg
-  - LEG
-  - Linaro Enterprise Group
+- leg
+- LEG
+- Linaro Enterprise Group
 related_jira_project: https://projects.linaro.org/projects/LEG/summary
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNtWUBuB2DcSEADXqJm6r12
 members_key: leg_members
-# Temporary Redirecs
 redirect_from:
-- /leg/
+- "/leg/"
 ---
+
 # Linaro Enterprise Group (LEG)
 
 The purpose of the Linaro Enterprise Group (LEG) is to collaborate and accelerate the development of foundational software for ARM Server Linux. LEG benefits have broad industry implications, including time to market acceleration, lower development costs, and access to innovative and differentiated systems, fundamental to the ARM ecosystem.

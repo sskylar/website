@@ -1,10 +1,10 @@
 ---
-layout: container-breadcrumb
 title: Sitemap
-description: |-
-    Listing of all the sections and links of the Linaro website.
-permalink: /sitemap/
+permalink: "/sitemap/"
+layout: container-breadcrumb
+description: Listing of all the sections and links of the Linaro website.
 ---
+
 <div class="row">
 <div class="col-xs-12 col-sm-6" markdown="1">
 # Authors

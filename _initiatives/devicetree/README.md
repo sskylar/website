@@ -1,13 +1,14 @@
 ---
-initiative_id: "5"
 title: DeviceTree
-description: |-
-    Devicetree.org is a community effort by many companies and individuals to facilitate the future evolution of the Devicetree Standard.
+permalink: "/initiatives/devicetree/"
+initiative_id: '5'
+description: Devicetree.org is a community effort by many companies and individuals
+  to facilitate the future evolution of the Devicetree Standard.
 keywords: data, structure, hardware, OpenPOWER, OPAL, FDT, PAPR, specification, standards
-permalink: /initiatives/devicetree/
 icon: devicetree-logo.webp
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsOAkIuQvhfHTO_01iljXDxG&playnext=1
 ---
+
 # DeviceTree
 
 Devicetree.org is a community effort by many companies and individuals to facilitate the future evolution of the Devicetree Standard.

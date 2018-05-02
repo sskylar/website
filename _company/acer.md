@@ -1,4 +1,5 @@
 ---
-title: Acer    
+title: Acer
 company_image: acer.png
 ---
+

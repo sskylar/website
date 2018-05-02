@@ -1,28 +1,29 @@
 ---
-project_id: "4"
 title: Mobile Power Management
-permalink: /projects/mobile-power-management/
-description: |-
-    ARM SoCs expose a lot of information to software about Hardware knobs for controlling power consumption.
-keywords: power, management, working, kernel, hardware, group, jira, tools, differences, project
+permalink: "/projects/mobile-power-management/"
+project_id: '4'
+description: ARM SoCs expose a lot of information to software about Hardware knobs
+  for controlling power consumption.
+keywords: power, management, working, kernel, hardware, group, jira, tools, differences,
+  project
 governance:
-  - name: Linaro Technical Steering Committee (MEMBERS ONLY)
-    url: https://wiki.linaro.org/Internal/TSC
+- name: Linaro Technical Steering Committee (MEMBERS ONLY)
+  url: https://wiki.linaro.org/Internal/TSC
 engineering:
-  - name: Power Management Engineering Wiki
-    url: https://wiki.linaro.org/WorkingGroups/PowerManagement
+- name: Power Management Engineering Wiki
+  url: https://wiki.linaro.org/WorkingGroups/PowerManagement
 related_jira_projects:
-  - name: Project Summary
-    url: https://projects.linaro.org/projects/PMWG/summary
-  - name: JIRA Board
-    url: https://projects.linaro.org/secure/RapidBoard.jspa?projectKey=PMWG&rapidView=30
-  - name: JIRA Structure
-    url: https://projects.linaro.org/secure/StructureBoard.jspa?s=100
+- name: Project Summary
+  url: https://projects.linaro.org/projects/PMWG/summary
+- name: JIRA Board
+  url: https://projects.linaro.org/secure/RapidBoard.jspa?projectKey=PMWG&rapidView=30
+- name: JIRA Structure
+  url: https://projects.linaro.org/secure/StructureBoard.jspa?s=100
 mailing_lists:
-  - name: EAS Dev
-    url: https://lists.linaro.org/mailman/listinfo/eas-dev
-  - name: Sched-Tools
-    url: https://lists.linaro.org/mailman/listinfo/sched-tools
+- name: EAS Dev
+  url: https://lists.linaro.org/mailman/listinfo/eas-dev
+- name: Sched-Tools
+  url: https://lists.linaro.org/mailman/listinfo/sched-tools
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsPdiaNrIkWgl-x-fg48gJYV
 ---
 

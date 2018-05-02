@@ -1,9 +1,8 @@
 ---
 title: Executive Team at Linaro
-description: |-
-    Listing of Linaro's management team members and biographies
+permalink: "/about/executive/"
+description: Listing of Linaro's management team members and biographies
 layout: container-breadcrumb
-permalink: /about/executive/
 js-package: extended
 css-package: about
 ---

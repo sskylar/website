@@ -1,7 +1,7 @@
 ---
-sig_id: 1
 title: High Performance Computing (HPC)
-permalink: /sig/hpc/
+permalink: "/sig/hpc/"
+sig_id: 1
 director: Martin Stadtler
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsMFnRpO8jCzyXpH7J8IgCXv
 members_key: hpc_members
@@ -9,6 +9,7 @@ group_long_name: High Performance Computing (HPC)
 group_short_name: HPC
 icon: hpc-icon.svg
 ---
+
 # High Performance Computing (HPC)
 
 {% include media.html media_url="//www.slideshare.net/slideshow/embed_code/key/ztRPGcumfeBoru" %}

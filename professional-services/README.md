@@ -1,11 +1,13 @@
 ---
-layout: container-breadcrumb
 title: Professional Services
-permalink: /professional-services/
-description: |-
-    Core engineering in Linaro is all about collaborative engineering that is shared through open source projects.
-keywords: work, members, professional, projects, these, open, source, engineering, engineers, linaro
+permalink: "/professional-services/"
+layout: container-breadcrumb
+description: Core engineering in Linaro is all about collaborative engineering that
+  is shared through open source projects.
+keywords: work, members, professional, projects, these, open, source, engineering,
+  engineers, linaro
 ---
+
 # Professional Services
 
 Core engineering in Linaro is all about collaborative engineering that is shared through open source projects. When that work needs to be used in products, there may be a certain amount of vendor-specific work that is not appropriate to be done with other companies or training required - these are two of the functions that Linaro's Professional Services serves. 

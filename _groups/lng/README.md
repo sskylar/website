@@ -1,26 +1,28 @@
 ---
-group_id: 2
 title: Linaro Networking Group (LNG)
-description: |-
-    The Linaro Networking Group (LNG) is an autonomous segment focused group that is responsible for engineering development in the networking space.
-keywords: Linux, ARM, LNG, networking, IoT, virtualization, Cloud, Infrastructure, OpenDataPlane, servers, initiatives
-permalink: /groups/lng/
+permalink: "/groups/lng/"
+group_id: 2
+description: The Linaro Networking Group (LNG) is an autonomous segment focused group
+  that is responsible for engineering development in the networking space.
+keywords: Linux, ARM, LNG, networking, IoT, virtualization, Cloud, Infrastructure,
+  OpenDataPlane, servers, initiatives
 group_short_name: lng
 group_long_name: Linaro Networking Group
 icon: lng_icon.png
 director: Francois Ozog
 related_projects:
-  - "6"
+- '6'
 related_tags:
-  - lng
-  - LNG
-  - Linaro Networking Group
+- lng
+- LNG
+- Linaro Networking Group
 related_jira_project: https://projects.linaro.org/projects/LNG/summary
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsN0Hx7wRWQEbRfzb0D1ms-8
 members_key: lng_members
 redirect_from:
-- /lng/
+- "/lng/"
 ---
+
 # Linaro Networking Group (LNG)
 
 The Linaro Networking Group (LNG) is an autonomous segment focused group that is responsible for engineering development in the networking space. Some activities of this group may be of shared interest with other segments and conducted by another working group, e.g. much virtualization work is of interest to mobile, servers and networking and is conducted by the Virtualization working group. The LNG engineering team is divided into two groups: (Cloud) Infrastructure and OpenDataPlane.

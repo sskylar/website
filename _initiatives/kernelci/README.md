@@ -1,12 +1,14 @@
 ---
-initiative_id: "6"
 title: KernelCI
-description: |-
-    Devicetree.org is a community effort by many companies and individuals to facilitate the future evolution of the Devicetree Standard.
-keywords: LAVA, KernelCI, Linux, Kernel, CI, Continuous, Integration, specification, standards, upstream, rebuild, check
-permalink: /initiatives/kernelci/
+permalink: "/initiatives/kernelci/"
+initiative_id: '6'
+description: Devicetree.org is a community effort by many companies and individuals
+  to facilitate the future evolution of the Devicetree Standard.
+keywords: LAVA, KernelCI, Linux, Kernel, CI, Continuous, Integration, specification,
+  standards, upstream, rebuild, check
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsMsm3BVTtpDdRHUmeZTOSiW&playnext=1
 ---
+
 # KernelCI
 
 The importance of testing and continuous integration was recognized in the first year of Linaro. A team was established to build [Linaro's Automated Validation Architecture (LAVA)](/initiatives/lava/) and the engineering teams have used member hardware, virtual models and cloud services in this framework to test their work from the beginning.

@@ -1,25 +1,25 @@
 ---
-group_id: 5
 title: Linaro IoT & Embedded Group (LITE)
-description: |-
-    The Linaro IoT and Embedded Group (LITE) was launched at Linaro Connect LAS16 in September 2016.
+permalink: "/groups/lite/"
+group_id: 5
+description: The Linaro IoT and Embedded Group (LITE) was launched at Linaro Connect
+  LAS16 in September 2016.
 keywords: Linux, ARM, LITE, Android, IoT, Kernel, ecosystem, tinification
-permalink: /groups/lite/
 group_short_name: lite
 group_long_name: Linaro IoT and Embedded
 icon: lite_icon.png
 director: Matt Locke
-#related_initiatives:
 related_tags:
-  - lite
-  - LITE
-  - Linaro IoT and Embedded
+- lite
+- LITE
+- Linaro IoT and Embedded
 related_jira_project: https://projects.linaro.org/projects/LITE/summary
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsMjCTIdpvcX5ePMBl4rXS5R
 members_key: lite_members
 redirect_from:
-- /lite/
+- "/lite/"
 ---
+
 # Linaro IoT and Embedded (LITE)
 
 The Linaro IoT and Embedded Group (LITE) was launched at Linaro Connect LAS16 in September 2016. Companies interested in working together on common open source software foundations for IoT and embedded applications are invited to contact Linaro with the form below.

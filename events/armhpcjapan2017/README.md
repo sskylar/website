@@ -1,9 +1,10 @@
 ---
 title: Arm HPC Japan 2017
+permalink: "/events/armhpcjapan2017/"
 layout: default
-permalink: /events/armhpcjapan2017/
 css-package: arm-hpc
 ---
+
 {% include breadcrumb.html %}
 
 <div class="container-fluid" id="content-container">

@@ -2,6 +2,7 @@
 title: Kernel and Power Management
 future: true
 ---
+
 ## Kernel and Power management
 
 **Linaro Community Board Group (LCG)**  

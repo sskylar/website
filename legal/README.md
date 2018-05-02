@@ -1,10 +1,10 @@
 ---
-layout: container-breadcrumb
 title: Legal
-description: |-
-    Information about the legal policies of Linaro's website
-permalink: /legal/
+permalink: "/legal/"
+layout: container-breadcrumb
+description: Information about the legal policies of Linaro's website
 ---
+
 <ul class="nav nav-tabs" role="tablist" id="tabbed_nav">
 
   <li role="presentation" class="active">

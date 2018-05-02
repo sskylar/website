@@ -1,11 +1,12 @@
 ---
+title: Open Source Consultancy and Licensing
+permalink: "/services/open-source-consultancy/"
 service_id: 8
 layout: developer-services
-title: Open Source Consultancy and Licensing
 short_name: Open Source Consultancy
-permalink: /services/open-source-consultancy/
 keywords: open source, consulting, community, licensing, training
 ---
+
 Developer Services has extensive experience successfully building working relationships with open source communities.
 
 - We provide advice and training to customers to help them significantly improve their working relationship with open source communities and successfully achieve their goals

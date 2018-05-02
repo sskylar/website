@@ -1,9 +1,8 @@
 ---
 title: Resources for Press
-description: |-
-    Information for the press including links to logos and images
+permalink: "/press/"
+description: Information for the press including links to logos and images
 layout: container-breadcrumb
-permalink: /press/
 js-package: extended
 css-package: press
 ---

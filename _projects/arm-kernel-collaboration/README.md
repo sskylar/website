@@ -1,30 +1,33 @@
 ---
-project_id: "2"
 title: ARM Kernel Collaboration
-permalink: /projects/arm-kernel-collaboration/
-description: |-
-    Collaboration with Linaro and Member companies on upstreaming key common kernel features beneficial to the ARM Ecosystem.
-keywords: kernel, code, linaro, common, engineering, jira, member, upstream, deliverables, product
+permalink: "/projects/arm-kernel-collaboration/"
+project_id: '2'
+description: Collaboration with Linaro and Member companies on upstreaming key common
+  kernel features beneficial to the ARM Ecosystem.
+keywords: kernel, code, linaro, common, engineering, jira, member, upstream, deliverables,
+  product
 related_jira_projects:
-  - name: Project Summary
-    url: https://projects.linaro.org/projects/KWG/summary
-  - name: JIRA Board
-    url: https://projects.linaro.org/secure/RapidBoard.jspa?projectKey=KWG&rapidView=30
-  - name: JIRA Structure
-    url: https://projects.linaro.org/secure/StructureBoard.jspa?s=101
+- name: Project Summary
+  url: https://projects.linaro.org/projects/KWG/summary
+- name: JIRA Board
+  url: https://projects.linaro.org/secure/RapidBoard.jspa?projectKey=KWG&rapidView=30
+- name: JIRA Structure
+  url: https://projects.linaro.org/secure/StructureBoard.jspa?s=101
 engineering:
-  - name: Kernel Engineering Wiki
-    url: https://wiki.linaro.org/WorkingGroups/Kernel
+- name: Kernel Engineering Wiki
+  url: https://wiki.linaro.org/WorkingGroups/Kernel
 mailing_lists:
-  - name:  Linaro Kernel for any internal Linaro discussion, upstream engineering on Device Mainlining
-    url: http://lists.linuxfoundation.org/mailman/listinfo/device-mainlining
+- name: Linaro Kernel for any internal Linaro discussion, upstream engineering on
+    Device Mainlining
+  url: http://lists.linuxfoundation.org/mailman/listinfo/device-mainlining
 governance:
-  - name: Linaro Technical Steering Committee (MEMBERS ONLY)
-    url: https://wiki.linaro.org/Internal/TSC
+- name: Linaro Technical Steering Committee (MEMBERS ONLY)
+  url: https://wiki.linaro.org/Internal/TSC
 related_core_groups:
-  - "1"
+- '1'
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNnMSv7VFoaeZ1COZsx_-1v
 ---
+
 # ARM Kernel Collaboration
 
 Collaboration with Linaro and Member companies on upstreaming key common kernel features beneficial to the ARM Ecosystem.

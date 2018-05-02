@@ -1,9 +1,9 @@
 ---
 title: Technical Steering Committee
-description: |-
-     Listing of the members of the Technical Steering Committee (TSC) at Linaro. The many functions of the TSC to help oversee projects and determine direction.
+permalink: "/about/tsc/"
+description: Listing of the members of the Technical Steering Committee (TSC) at Linaro.
+  The many functions of the TSC to help oversee projects and determine direction.
 layout: container-breadcrumb
-permalink: /about/tsc/
 js-package: extended
 css-package: about
 ---

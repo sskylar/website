@@ -1,10 +1,12 @@
 ---
 title: Segment Groups
-description: |-
-    Linaro was established in 2010 to reduce fragmentation and redundant effort in open source software for mobile applications.
-keywords: Linaro, mobile, toolchain, middleware, open source, Android, code, validation, testing, Boards
-permalink: /groups/
+permalink: "/groups/"
+description: Linaro was established in 2010 to reduce fragmentation and redundant
+  effort in open source software for mobile applications.
+keywords: Linaro, mobile, toolchain, middleware, open source, Android, code, validation,
+  testing, Boards
 ---
+
 <div class="col-xs-12 group_icon_col">
 {% assign groups_list = site.groups | sort: 'group_id' %}
 {% for group in groups_list %}

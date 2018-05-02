@@ -1,11 +1,12 @@
 ---
 title: Hub
-description: |-
-     All the latest news including press releases, blogs and social media as well as Linaro events.
+permalink: "/hub/"
+description: All the latest news including press releases, blogs and social media
+  as well as Linaro events.
 layout: container-breadcrumb
-permalink: /hub/
 css-package: hub
 ---
+
 <div class="row hub-row">
 
 <div class="col-sm-3 hub-block">

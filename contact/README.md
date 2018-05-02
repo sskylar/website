@@ -1,9 +1,9 @@
 ---
 title: Contact
-description: |-
-     All the latest news including press releases, blogs and social media as well as Linaro events.
+permalink: "/contact/"
+description: All the latest news including press releases, blogs and social media
+  as well as Linaro events.
 layout: default
-permalink: /contact/
 css-package: contact
 ---
 

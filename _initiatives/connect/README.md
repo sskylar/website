@@ -1,16 +1,18 @@
 ---
-initiative_id: "4"
 title: Linaro Connect
-description: |-
-    Linaro Connect brings together engineers and industry experts to discuss, learn, network and push forward new technologies in some of the most interesting cities around the world.
+permalink: "/initiatives/connect/"
+initiative_id: '4'
+description: Linaro Connect brings together engineers and industry experts to discuss,
+  learn, network and push forward new technologies in some of the most interesting
+  cities around the world.
 keywords: Linaro, Connect, ARM, Engineering, technology, Linux, ecosystems, development
-permalink: /initiatives/connect/
 icon: connect-logo.png
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsOraJTlqS_UDhS0zX1YxntL&playnext=1
 image:
-    path: /assets/images/content/yvr18-banner.png
-    name: yvr18-banner.png
+  path: "/assets/images/content/yvr18-banner.png"
+  name: yvr18-banner.png
 ---
+
 # Linaro Connect
 
 Attracting 500+ attendees, Linaro Connect is a bi-annual event that brings together engineers and industry experts to discuss, learn, network and push forward new technologies for five days in some of the most interesting cities around the world. For the past five years, Linaro Connect has been the event to attend if you are interested in Linux development and related ecosystems on ARM. While the event continues to evolve, one thing stays the same – it is all about Engineering.

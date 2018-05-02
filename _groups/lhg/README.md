@@ -1,32 +1,33 @@
 ---
-group_id: 3
 title: Linaro Home Group (LHG)
+permalink: "/groups/lhg/"
+group_id: 3
 description: |-
-    The mission of the Linaro Digital Home Group (LHG) is to accelerate the adoption of ARM-based
-    architectures in the digital home (entertainment) segment by working collaboratively on core Linux-based software platforms.
-keywords: Linux, ARM, digital home, Android, User Interface, Kernel, Media Framework, Test and validation
-permalink: /groups/lhg/
+  The mission of the Linaro Digital Home Group (LHG) is to accelerate the adoption of ARM-based
+  architectures in the digital home (entertainment) segment by working collaboratively on core Linux-based software platforms.
+keywords: Linux, ARM, digital home, Android, User Interface, Kernel, Media Framework,
+  Test and validation
 group_short_name: lhg
 group_long_name: Linaro Home Group
 icon: lhg_icon.png
 related_projects:
-  - "8"
-#related_initiatives:
+- '8'
 other_projects:
-  - name: RDK (login required)
-    url: https://wiki.linaro.org/Internal/LHG-RDKLicensee
-  - name: Android TV
-  - name: TVOS
+- name: RDK (login required)
+  url: https://wiki.linaro.org/Internal/LHG-RDKLicensee
+- name: Android TV
+- name: TVOS
 related_tags:
-  - lhg
-  - LHG
-  - Linaro Home Group
+- lhg
+- LHG
+- Linaro Home Group
 related_jira_project: https://projects.linaro.org/projects/LHG/summary
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNM2Muw_4qDSB8hvqfQZGWX
 members_key: lhg_members
 redirect_from:
-- /lhg/
+- "/lhg/"
 ---
+
 # Linaro Home Group (LHG)
 
 The mission of the Linaro Digital Home Group (LHG) is to accelerate the adoption of ARM-based architectures in the digital home (entertainment) segment by working collaboratively on core Linux-based software platforms and delivering media via optimized and secure video frameworks. LHG works on solutions common to its members, namely those related to open source software for ARM-based set top boxes, smart TVs, media boxes, TV dongles and home gateway products.

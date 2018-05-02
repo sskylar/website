@@ -1,12 +1,12 @@
 ---
 title: Search
-permalink: /search/
+permalink: "/search/"
 layout: container-breadcrumb
 js-package: search
 css-package: search
-description: |-
-    Search the Linaro Website.
+description: Search the Linaro Website.
 ---
+
 <script>
   (function() {
     var fess = document.createElement('script');

@@ -1,13 +1,15 @@
 ---
+title: Hands on Training
+permalink: "/services/hands-on-training/"
 service_id: 10
 layout: developer-services
-title: Hands on Training
 short_name: BSP’s, Builds and Support
-permalink: /services/hands-on-training/
-keywords: training, Linux, ARM, open source, onsite, remote, mentoring, tailored to needs
+keywords: training, Linux, ARM, open source, onsite, remote, mentoring, tailored to
+  needs
 redirect_from:
-- /training/
+- "/training/"
 ---
+
 Linaro Developer Services provides customized training on a variety of topics.
 
 - Expert Instructors who are real world engineers

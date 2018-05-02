@@ -1,7 +1,7 @@
 ---
-layout: container-breadcrumb
 title: Community Projects
-permalink: /communityprojects/
+permalink: "/communityprojects/"
+layout: container-breadcrumb
 ---
 
 - View the [Antitrust Policy](/communityprojects/antitrust-policy/)

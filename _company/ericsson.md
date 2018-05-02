@@ -1,9 +1,10 @@
 ---
 title: Ericsson
-description: |-
-    Enea is a global software and services company focused on solutions for communication-driven products.
+description: Enea is a global software and services company focused on solutions for
+  communication-driven products.
 company_image: ericsson.jpg
 ---
+
 Ericsson is the driving force behind the Networked Society – a world leader in communications technology and services. Our long-term relationships with every major telecom operator in the world allow people, business and society to fulfill their potential and create a more sustainable future.
 
 Our services, software and infrastructure – especially in mobility, broadband and the cloud – are enabling the telecom industry and other sectors to do better business, increase efficiency, improve the user experience and capture new opportunities.

@@ -1,8 +1,9 @@
 ---
-layout: container-breadcrumb
 title: Linaro Community Projects Antitrust Compliance Policy
-permalink: /communityprojects/antitrust-policy/
+permalink: "/communityprojects/antitrust-policy/"
+layout: container-breadcrumb
 ---
+
 ## LINARO COMMUNITY PROJECTS ANTITRUST COMPLIANCE POLICY
 
 **I. Introduction**

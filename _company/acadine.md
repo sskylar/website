@@ -1,9 +1,10 @@
 ---
 title: Acadine Technologies
-description: |-
-    Acadine™ Technologies is a startup company specializing in innovative mobile operating systems for mobile, wearable, and IoT devices.
+description: Acadine™ Technologies is a startup company specializing in innovative
+  mobile operating systems for mobile, wearable, and IoT devices.
 company_image: acadine.jpg
 ---
+
 Acadine™ Technologies is a startup company specializing in innovative mobile operating systems for mobile, wearable, and IoT devices. Acadine is based in Hong Kong, with operations in Beijing, Taipei, Palo Alto, and London. For more information, please contact press@acadine.com.
 
 A completely web-centric operating system, H5OS eliminates the native APIs that give the conventional mobile OS owners full business control over other mobile industry participants. As a result, H5OS offers the huge potential of a simpler technical architecture, more efficient memory and power consumption, and completely dynamic and seamless interactions between the mobile operating system, on-device applications, and the millions of web apps and services on the Internet at large.

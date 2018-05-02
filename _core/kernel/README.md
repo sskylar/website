@@ -1,18 +1,21 @@
 ---
-core_id: "2"
 title: Kernel
-description: |-
-    The Kernel Working Group’s primary focus is to be an active contributor to the upstream community and facilitate acceptance of ARM code into the Linux mainline kernel.
-keywords: linux, ARM, kernel,upstream, coresight, MMC, LSK, kexec, kdump,storage,memory management,device tree
-permalink: /core/kernel/
+permalink: "/core/kernel/"
+core_id: '2'
+description: The Kernel Working Group’s primary focus is to be an active contributor
+  to the upstream community and facilitate acceptance of ARM code into the Linux mainline
+  kernel.
+keywords: linux, ARM, kernel,upstream, coresight, MMC, LSK, kexec, kdump,storage,memory
+  management,device tree
 tech-lead: Mark Brown
 related_projects:
-  - "2"
+- '2'
 related_initiatives:
-  - "6"
-  - "8"
+- '6'
+- '8'
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNcK4cX5OS6d4--lQdz6Zws
 ---
+
 # Kernel
 
 The Kernel Working Group’s (KWG) primary focus is to be an active contributor to the upstream community and facilitate acceptance of our code into the Linux mainline kernel. Our goal is kernel consolidation - a single source tree with integrated support for multiple ARM SoCs and ARM-based platforms.

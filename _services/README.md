@@ -1,10 +1,11 @@
 ---
-layout: developer-services
 title: Developer Services
-permalink: /services/
-redirect_from: 
-- /linaro-developer-services-datacenteranddevelopercloud/
+permalink: "/services/"
+layout: developer-services
+redirect_from:
+- "/linaro-developer-services-datacenteranddevelopercloud/"
 ---
+
 <div class="services-home-content" markdown="1">
 
 We at Linaro Developer Services are ARM software engineering experts. We pride ourselves on the breadth of our hands-on experience and knowledge, depth of our capabilities, quality of our work and professionalism of the engagements with our customers.

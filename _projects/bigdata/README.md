@@ -1,14 +1,16 @@
 ---
-project_id: "3"
 title: Big Data
-permalink: /projects/bigdata/
-description: |-
-    Big Data Analytics is a pretty wide area that is experiencing a 100% growth rate every year, according to the keynotes from the last Hadoop Summit event
-keywords: hadoop, spark, data, java, openjdk, representative, class, workloads, optimise, architecture
+permalink: "/projects/bigdata/"
+project_id: '3'
+description: Big Data Analytics is a pretty wide area that is experiencing a 100%
+  growth rate every year, according to the keynotes from the last Hadoop Summit event
+keywords: hadoop, spark, data, java, openjdk, representative, class, workloads, optimise,
+  architecture
 related_groups:
-  - "lmg"
+- lmg
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNS43x2SWtSDsNrA1M4eEXq
 ---
+
 # Big Data
 
 Big Data Analytics is a pretty wide area that is experiencing a 100% growth rate every year, according to the keynotes from the last Hadoop Summit event. Big Data will continue growing as IoT gets closer to production deployment. The two main components are Hadoop and Spark. They fit the vision of scaling out the processing on as many compute nodes as available nicely, and are a perfect match to explore with ARM servers and a potential killer app. LEG Members have agreed to put together resources and focus on making AArch64 a first class citizen in the Hadoop / Spark community, and a well supported architecture for scale-out analytics.

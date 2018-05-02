@@ -1,12 +1,13 @@
 ---
-layout: container-breadcrumb
 title: Social
-description: |-
-    Listing of all social media for Linaro. See twitter posts, facebook, blogs, and images.
-permalink: /social/
+permalink: "/social/"
+layout: container-breadcrumb
+description: Listing of all social media for Linaro. See twitter posts, facebook,
+  blogs, and images.
 facebook: true
 css-package: social
 ---
+
 <div class="col-sm-4 social-col">
 <div class="row icon-row">
 <div class="col-xs-12 text-center social-media-icon-col">

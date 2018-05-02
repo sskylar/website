@@ -1,12 +1,13 @@
 ---
 title: Blog
-permalink: /authors/
+permalink: "/authors/"
 layout: author-layout
 css-package: blog
-pagination: 
+pagination:
   enabled: true
   collection: authors
 ---
+
 {% for post in paginator.posts %}
     {% if post.author == page.username %}
         <div class="row blog_post">

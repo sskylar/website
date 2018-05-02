@@ -1,14 +1,17 @@
 ---
-project_id: "10"
 title: SDI (Docker, Ceph, OpenStack, KVM, Xen)
-permalink: /projects/sdi/
-description: |-
-    SDI is the enabler for the cloud revolution and the fundamental building block for richer services like Platform As A Service (PaaS), Software As A Service (SaaS), Data Base As A Service (DBaaS), etc.
-keywords: openstack, performance, scaling, linaro, containers, service, aarch64, optimizations, storage, testing
+permalink: "/projects/sdi/"
+project_id: '10'
+description: SDI is the enabler for the cloud revolution and the fundamental building
+  block for richer services like Platform As A Service (PaaS), Software As A Service
+  (SaaS), Data Base As A Service (DBaaS), etc.
+keywords: openstack, performance, scaling, linaro, containers, service, aarch64, optimizations,
+  storage, testing
 related_groups:
-  - "leg"
+- leg
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsOUcnuLbqQzJsbeJe5wFQN0
 ---
+
 # SDI
 
 SDI is the enabler for the cloud revolution and the fundamental building block for richer services like Platform As A Service (PaaS), Software As A Service (SaaS), Data Base As A Service (DBaaS), etc. LEG Members have agreed to put together resources and focus on making Aarch64 a best in class citizen in the SDI communities and a well supported architecture from booting up to running a wide range of workloads at scale.

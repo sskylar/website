@@ -1,12 +1,13 @@
 ---
-core_id: "5"
 title: Virtualization
-description: |-
-    The Linaro Virtualization team is aimed at providing virtualization (KVM, Xen) and emulation (QEMU) solutions for ARM hardware.
+permalink: "/core/virtualization/"
+core_id: '5'
+description: The Linaro Virtualization team is aimed at providing virtualization (KVM,
+  Xen) and emulation (QEMU) solutions for ARM hardware.
 keywords: KVM, QEMU, ARM, SVE, GIGv3
-permalink: /core/virtualization/
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsNoPiBTZxdyLtPPJDMQmztZ
 ---
+
 # Virtualization
 
 The Linaro Virtualization team spans across several Linaro groups and is aimed at providing virtualization (KVM, Xen) and emulation (QEMU) solutions for ARMv7 and ARMv8 hardware as requested by Linaro Members. Primary customers for Virtualization project are LEG and LNG. The direction is set by the Linaro Steering Committee. The team’s work is done by a group of engineers distributed across the world. They are a part of Linaro’s Core Development Engineering Team.

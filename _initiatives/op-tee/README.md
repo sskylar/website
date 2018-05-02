@@ -1,15 +1,17 @@
 ---
-initiative_id: "9"
 title: OP-TEE
+permalink: "/initiatives/op-tee/"
+initiative_id: '9'
 description: |-
-    OP-TEE stands for Open Portable Trusted Execution Environment. The project has
-    roots in a proprietary solution, initially created by ST-Ericsson and then ownedand maintained by STMicroelectronics.
-keywords: Trusted, Execution, source code, TEE Client API, Security, Android, Linux, Arm
-permalink: /initiatives/op-tee/
+  OP-TEE stands for Open Portable Trusted Execution Environment. The project has
+  roots in a proprietary solution, initially created by ST-Ericsson and then ownedand maintained by STMicroelectronics.
+keywords: Trusted, Execution, source code, TEE Client API, Security, Android, Linux,
+  Arm
 icon: op-tee-logo.png
 icon_hd: op-tee-logo-hd.webp
 youtube_playlist: https://www.youtube.com/playlist?list=PLKZSArYQptsM311TZC_fVQRDEUuE6anPo&playnext=1
 ---
+
 # OP-TEE
 
 OP-TEE stands for Open Portable Trusted Execution Environment. The project has

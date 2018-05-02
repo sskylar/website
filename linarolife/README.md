@@ -1,12 +1,13 @@
 ---
 title: Linaro Life
+permalink: "/linarolife/"
 layout: linaro-life
-permalink: /linarolife/
 image:
-    path: /assets/images/content/linarolife2.jpg
-    name: linarolife2.jpg
+  path: "/assets/images/content/linarolife2.jpg"
+  name: linarolife2.jpg
 css-package: life
 ---
+
 <div class="row" class="linaro-life" style="height: 1000px; background-color: white;">
         <div class="cover-image" style="background: linear-gradient(
                      rgba(20,20,20, .5),

@@ -1,7 +1,9 @@
 ---
+title: Shovan
 name: Shovan Sargunam
 username: shovan
 image:
-    path: /assets/images/people/shovan.jpg
-    name: shovan.jpg
+  path: "/assets/images/people/shovan.jpg"
+  name: shovan.jpg
 ---
+
