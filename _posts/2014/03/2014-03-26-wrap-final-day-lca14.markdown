@@ -1,13 +1,12 @@
 ---
-author: jennifer.castelino
+title: Wrap-up of the final day of LCA14
+date: 2014-03-26 15:30:47 Z
 categories:
 - blog
-date: 2014-03-26 15:30:47
+author: jennifer.castelino
 description: Wrap-up of the LCA14 final days activities and awards
 layout: post
-link: /blog/wrap-final-day-lca14/
-slug: wrap-final-day-lca14
-title: Wrap-up of the final day of LCA14
+link: "/blog/wrap-final-day-lca14/"
 wordpress_id: 5414
 ---
 

@@ -1,18 +1,17 @@
 ---
-author: bernhard.rosenkranzer
+title: Linaro Android gets ready for gcc 4.7
+date: 2012-03-06 23:11:07 Z
 categories:
 - blog
-date: 2012-03-06 23:11:07
-description: Linaro Android gets ready for gcc 4.7 - announcing the latest patchset.
-keywords: linaro,android,linaro-android,ics,gcc,gcc 4.7,4.7,compiler
-layout: post
-link: /blog/community-blog/linaro-android-gets-ready-for-gcc-4-7/
-slug: linaro-android-gets-ready-for-gcc-4-7
 tags:
 - Android
 - Community
 - Patch-Highlights
-title: Linaro Android gets ready for gcc 4.7
+author: bernhard.rosenkranzer
+description: Linaro Android gets ready for gcc 4.7 - announcing the latest patchset.
+keywords: linaro,android,linaro-android,ics,gcc,gcc 4.7,4.7,compiler
+layout: post
+link: "/blog/community-blog/linaro-android-gets-ready-for-gcc-4-7/"
 wordpress_id: 1351
 ---
 

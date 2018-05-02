@@ -1,11 +1,6 @@
 ---
-author: tony.mansson
-date: 2011-12-22 14:57:48+00:00
-layout: post
-link: /blog/releases-blog/the-linaro-android-platform-team-period-dec-14-to-dec-20/
-slug: the-linaro-android-platform-team-period-dec-14-to-dec-20
 title: The Linaro Android Platform Team, Period Dec. 14 to Dec. 20
-wordpress_id: 1108
+date: 2011-12-22 14:57:48 Z
 categories:
 - blog
 tags:
@@ -16,6 +11,10 @@ tags:
 - Linaro
 - Linux
 - release
+author: tony.mansson
+layout: post
+link: "/blog/releases-blog/the-linaro-android-platform-team-period-dec-14-to-dec-20/"
+wordpress_id: 1108
 ---
 
 As you may have already heard, some great things are coming out of Linaro this week. Hardware accellerated graphics in Linaro Evaluation Builds! Incredible. My awesome collegues in Linaro worked together with member companies and communities in a focused effort, and it paid off! Here's what the Linaro Android Team did last week.

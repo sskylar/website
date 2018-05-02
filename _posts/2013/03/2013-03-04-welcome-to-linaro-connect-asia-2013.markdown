@@ -1,15 +1,14 @@
 ---
-author: linaro
+title: Welcome to Linaro Connect Asia 2013
+date: 2013-03-04 02:50:19 Z
 categories:
 - blog
-date: 2013-03-04 02:50:19
+author: linaro
 description: See the sessions that are happening today, tips and tricks for staying
   connected to the days events, and how attendees can share their experiences through
   social media.
 layout: post
-link: /blog/welcome-to-linaro-connect-asia-2013/
-slug: welcome-to-linaro-connect-asia-2013
-title: Welcome to Linaro Connect Asia 2013
+link: "/blog/welcome-to-linaro-connect-asia-2013/"
 wordpress_id: 2490
 ---
 

@@ -1,13 +1,8 @@
 ---
-author: alan.bennett
+title: 29 Aug 2013 - LAVA Team meeting - LIVE Demos
+date: 2013-08-31 16:00:09 Z
 categories:
 - blog
-date: 2013-08-31 16:00:09
-description: Recap of the weekly LAVA team meeting and summary of the LIVE demos
-keywords: Linaro, Linux, LAVA, opensource, multi-node, kvm
-layout: post
-link: /blog/lava-blog/29-aug-2013-lava-team-meeting-live-demos/
-slug: 29-aug-2013-lava-team-meeting-live-demos
 tags:
 - LAVA
 - arm
@@ -15,7 +10,11 @@ tags:
 - Linaro
 - Linux
 - Opensource
-title: 29 Aug 2013 - LAVA Team meeting - LIVE Demos
+author: alan.bennett
+description: Recap of the weekly LAVA team meeting and summary of the LIVE demos
+keywords: Linaro, Linux, LAVA, opensource, multi-node, kvm
+layout: post
+link: "/blog/lava-blog/29-aug-2013-lava-team-meeting-live-demos/"
 wordpress_id: 2985
 ---
 

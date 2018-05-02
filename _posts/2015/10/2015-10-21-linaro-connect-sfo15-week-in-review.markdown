@@ -1,15 +1,8 @@
 ---
-author: linaro
+title: Linaro Connect SFO15 week in review
+date: 2015-10-21 19:46:53 Z
 categories:
 - blog
-date: 2015-10-21 19:46:53
-description: Overview of the keynotes, sessions and activities that took place during
-  the week of Linaro Connect SFO15.
-excerpt: Overview of the keynotes, sessions and activities that took place during
-  the week of Linaro Connect SFO15.
-layout: post
-link: /blog/linaro-connect-sfo15-week-in-review/
-slug: linaro-connect-sfo15-week-in-review
 tags:
 - conference
 - connect
@@ -20,7 +13,13 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Linaro Connect SFO15 week in review
+author: linaro
+description: Overview of the keynotes, sessions and activities that took place during
+  the week of Linaro Connect SFO15.
+excerpt: Overview of the keynotes, sessions and activities that took place during
+  the week of Linaro Connect SFO15.
+layout: post
+link: "/blog/linaro-connect-sfo15-week-in-review/"
 wordpress_id: 9565
 ---
 

@@ -1,19 +1,8 @@
 ---
-author: zoran.markovic
+title: Converting Code Implementing Suspend Blockers
+date: 2013-08-26 13:33:07 Z
 categories:
 - blog
-date: 2013-08-26 13:33:07
-description: "This article discusses the issues of suspend blockers originally implemented
-  in the Android kernel and similar functionality merged upstream in the Linux kernel,
-  termed \xE2\x80\x9Cwake locks\xE2\x80\x9D and \xE2\x80\x9Cwakeup sources\xE2\x80\x9D,
-  respectively. The author points out the analogy between the two implementations
-  and, in conclusion, proposes an approach for converting older code from using wake
-  locks to use wakeup sources."
-keywords: Linaro, Android, Linux, Opensource, Android Kernel, Linux kernel, wake locks,
-  wakeup sources
-layout: post
-link: /blog/android-blog/converting-code-implementing-suspend-blockers/
-slug: converting-code-implementing-suspend-blockers
 tags:
 - Android
 - android
@@ -21,7 +10,17 @@ tags:
 - Linaro
 - Linux
 - linux kernel
-title: Converting Code Implementing Suspend Blockers
+author: zoran.markovic
+description: "This article discusses the issues of suspend blockers originally implemented
+  in the Android kernel and similar functionality merged upstream in the Linux kernel,
+  termed â\x80\x9Cwake locksâ\x80\x9D and â\x80\x9Cwakeup sourcesâ\x80\x9D, respectively.
+  The author points out the analogy between the two implementations and, in conclusion,
+  proposes an approach for converting older code from using wake locks to use wakeup
+  sources."
+keywords: Linaro, Android, Linux, Opensource, Android Kernel, Linux kernel, wake locks,
+  wakeup sources
+layout: post
+link: "/blog/android-blog/converting-code-implementing-suspend-blockers/"
 wordpress_id: 2883
 ---
 

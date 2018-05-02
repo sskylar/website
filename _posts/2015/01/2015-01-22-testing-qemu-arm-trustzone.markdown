@@ -1,9 +1,16 @@
 ---
-author: greg.bellows
+title: Testing QEMU ARM TrustZone
+date: 2015-01-22 10:57:37 Z
 categories:
 - blog
+tags:
+- Core Dump
+- arm
+- qemu
+- testing
+- TrustZone
+author: greg.bellows
 comments: true
-date: 2015-01-22 10:57:37
 description: Since the last post, the bulk of the ARM CPU Security Extension support
   has made it to upstream QEMU. Although the functional support is now available upstream,
   it is currently disabled while the details of the usage are ironed out
@@ -11,14 +18,6 @@ excerpt: Since the last post, the bulk of the ARM CPU Security Extension support
   made it to upstream QEMU. Although the functional support is now available upstream,
   it is currently disabled while the details of the usage are ironed out
 layout: post
-slug: testing-qemu-arm-trustzone
-tags:
-- Core Dump
-- arm
-- qemu
-- testing
-- TrustZone
-title: Testing QEMU ARM TrustZone
 wordpress_id: 7787
 ---
 

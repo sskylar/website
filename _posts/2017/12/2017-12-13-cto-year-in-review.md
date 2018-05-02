@@ -1,17 +1,27 @@
 ---
-author: david.rusling
-date: 2017-12-13 8:00:00+00:00
-layout: post
 title: CTO Year in Review
+date: 2017-12-13 08:00:00 Z
 categories:
 - blog
-tags: Arm, Automotive, Ecosystem, Hardware, 96boards, 2017, CTO, CTO Blog
+tags:
+- Arm,
+- Automotive,
+- Ecosystem,
+- Hardware,
+- 96boards,
+- '2017,'
+- CTO,
+- CTO
+- Blog
+author: david.rusling
+layout: post
 keywords: Arm, Automotive, Ecosystem, Hardware, 96boards, 2017, CTO, CTO Blog
 image:
-    featured: true
-    path: /assets/images/blog/cto-2017-end-of-year.jpg
-    name: cto-2017-end-of-year.jpg
+  featured: true
+  path: "/assets/images/blog/cto-2017-end-of-year.jpg"
+  name: cto-2017-end-of-year.jpg
 ---
+
 ## What happened this year? 
 
 First of all, Linaro is 7. I find it hard to believe as it has been quite a journey and (as usual) has consumed all of my work energies. From a single issue organisation (the Linux kernel code base for the ARM architecture is a mess) Linaro has evolved into an organisation of over [30 members](https://www.linaro.org/members/) contributing to almost all areas of the Arm ecosystem’s activities. More on ‘almost’ later.

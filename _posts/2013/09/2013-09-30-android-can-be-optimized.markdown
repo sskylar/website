@@ -1,13 +1,8 @@
 ---
-author: khasim.mohammed
+title: Android Can Be Optimized
+date: 2013-09-30 19:16:47 Z
 categories:
 - blog
-date: 2013-09-30 19:16:47
-description: Blog on how Linaro is analyzing and working on ways to optimize Android.
-keywords: Linaro, Android, Linaro Connect, LCU13, Linux, opensource, Google, Linux
-  on ARM, Android community, opensource software
-layout: post
-slug: android-can-be-optimized
 tags:
 - Community
 - android
@@ -18,7 +13,11 @@ tags:
 - Linaro Connect
 - Open Source
 - software
-title: Android Can Be Optimized
+author: khasim.mohammed
+description: Blog on how Linaro is analyzing and working on ways to optimize Android.
+keywords: Linaro, Android, Linaro Connect, LCU13, Linux, opensource, Google, Linux
+  on ARM, Android community, opensource software
+layout: post
 wordpress_id: 3082
 ---
 

@@ -1,16 +1,15 @@
 ---
-author: loic.minier
+title: Linaro ARMv8 Downloads Now Available
+date: 2012-10-25 11:48:00 Z
 categories:
 - blog
-date: 2012-10-25 11:48:00
+tags:
+- Releases
+author: loic.minier
 description: New ARMv8 downloads are now available from Linaro!
 keywords: Linaro, Linux on ARM, Open Source, Release, ARMV8, AArch64, Downloads,  ARM
 layout: post
-link: /blog/releases-blog/linaro-armv8-downloads-now-available/
-slug: linaro-armv8-downloads-now-available
-tags:
-- Releases
-title: Linaro ARMv8 Downloads Now Available
+link: "/blog/releases-blog/linaro-armv8-downloads-now-available/"
 wordpress_id: 1947
 ---
 

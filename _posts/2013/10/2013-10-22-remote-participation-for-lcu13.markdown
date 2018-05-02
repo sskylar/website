@@ -1,15 +1,8 @@
 ---
-author: steve.taylor
+title: Remote Participation for LCU13
+date: 2013-10-22 18:34:39 Z
 categories:
 - blog
-date: 2013-10-22 18:34:39
-description: Information on how to attend Linaro Connect USA 2013 remotely by going
-  to Google events and YouTube to watch videos
-keywords: Linaro, Linaro Connect, Linaro Connect USA, LCU13, ARM, ARM TechCon, Linux,
-  Open source software
-layout: post
-link: /blog/connect-update/remote-participation-for-lcu13/
-slug: remote-participation-for-lcu13
 tags:
 - Connect Events
 - conference
@@ -20,7 +13,13 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Remote Participation for LCU13
+author: steve.taylor
+description: Information on how to attend Linaro Connect USA 2013 remotely by going
+  to Google events and YouTube to watch videos
+keywords: Linaro, Linaro Connect, Linaro Connect USA, LCU13, ARM, ARM TechCon, Linux,
+  Open source software
+layout: post
+link: "/blog/connect-update/remote-participation-for-lcu13/"
 wordpress_id: 3098
 ---
 

@@ -1,15 +1,14 @@
 ---
+title: LHG Sprint Report
+date: 2016-07-25 16:20:26 Z
+categories:
+- blog
 author: mark.gregotski
-date: 2016-07-25 16:20:26+00:00
 excerpt: 'Read the latest update from the LHG sprint held at the Huawei/Hisilicon
   facilities in Shenzhen, China on July 11-14.  '
 layout: post
-link: /blog/lhg-sprint-report/
-slug: lhg-sprint-report
-title: LHG Sprint Report
+link: "/blog/lhg-sprint-report/"
 wordpress_id: 11201
-categories:
-- blog
 ---
 
 {% include image.html name="board-picture.png" alt="Board Picture" class="medium-inline right"%}

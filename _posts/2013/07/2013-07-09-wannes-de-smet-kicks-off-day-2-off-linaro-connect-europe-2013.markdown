@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Wannes De Smet Kicks Off Day 2 Of Linaro Connect Europe 2013
+date: 2013-07-09 07:56:15 Z
 categories:
 - blog
-date: 2013-07-09 07:56:15
+tags:
+- Community
+- Connect Events
+author: linaro
 description: Engineers at Linaro Connect Europe 2013 iron out the plans for the future
   of Linux on ARM in over 14 sessions on Day 1 and 16 sessions on Day 2.
 keywords: Linaro, Linux on ARM, Linux, ARM, Open Source, Linaro Connect Europe 2013,
   LCE13, Dublin, George Grey, Wannes De Smet, Video, Linaro OnAir, Day 1, Day 2
 layout: post
-link: /blog/community-blog/wannes-de-smet-kicks-off-day-2-off-linaro-connect-europe-2013/
-slug: wannes-de-smet-kicks-off-day-2-off-linaro-connect-europe-2013
-tags:
-- Community
-- Connect Events
-title: Wannes De Smet Kicks Off Day 2 Of Linaro Connect Europe 2013
+link: "/blog/community-blog/wannes-de-smet-kicks-off-day-2-off-linaro-connect-europe-2013/"
 wordpress_id: 2808
 ---
 

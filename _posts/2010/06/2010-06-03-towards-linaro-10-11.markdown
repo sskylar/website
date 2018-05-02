@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2010-06-03 21:26:00+00:00
-layout: post
-link: /blog/towards-linaro-10-11/
-slug: towards-linaro-10-11
 title: Towards Linaro 10.11
-wordpress_id: 4112
+date: 2010-06-03 21:26:00 Z
 categories:
 - blog
 tags:
@@ -14,6 +9,10 @@ tags:
 - Linux
 - release
 - ubuntu
+author: linaro
+layout: post
+link: "/blog/towards-linaro-10-11/"
+wordpress_id: 4112
 ---
 
 > "Any intelligent fool can make things bigger and more complex... It takes a touch of genius - and a lot of courage to move in the opposite direction". - ** Albert Einstein **

@@ -1,13 +1,9 @@
 ---
-author: linaro
+title: Linaro announces Marvell as a founding member of the Linaro Community Boards
+  Group
+date: 2015-02-09 12:58:09 Z
 categories:
 - News
-date: 2015-02-09 12:58:09
-description: Marvell invests in enabling the open source development community with
-  the development of a new cost-effective quad-core ARM 64-bit development board
-layout: post
-link: /news/linaro-announces-marvell-founding-member-linaro-community-boards-group/
-slug: linaro-announces-marvell-founding-member-linaro-community-boards-group
 tags:
 - connect
 - Linaro
@@ -16,8 +12,11 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Linaro announces Marvell as a founding member of the Linaro Community Boards
-  Group
+author: linaro
+description: Marvell invests in enabling the open source development community with
+  the development of a new cost-effective quad-core ARM 64-bit development board
+layout: post
+link: "/news/linaro-announces-marvell-founding-member-linaro-community-boards-group/"
 wordpress_id: 7930
 ---
 

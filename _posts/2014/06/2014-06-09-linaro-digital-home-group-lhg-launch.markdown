@@ -1,21 +1,20 @@
 ---
-author: mark.gregotski
+title: Linaro Digital Home Group (LHG) Launch
+date: 2014-06-09 19:48:48 Z
 categories:
 - blog
-date: 2014-06-09 19:48:48
-description: Linaro publicly announced the formation of LHG with the founding member
-  companies. LHG will focus on supporting the proliferation of ARM processors and
-  open source software in digital home applications, including IP/Cable set-top boxes,
-  televisions, media boxes and home gateway devices.
-layout: post
-link: /blog/linaro-digital-home-group-lhg-launch/
-slug: linaro-digital-home-group-lhg-launch
 tags:
 - arm
 - digital home
 - Digital Home group
 - Linaro
-title: Linaro Digital Home Group (LHG) Launch
+author: mark.gregotski
+description: Linaro publicly announced the formation of LHG with the founding member
+  companies. LHG will focus on supporting the proliferation of ARM processors and
+  open source software in digital home applications, including IP/Cable set-top boxes,
+  televisions, media boxes and home gateway devices.
+layout: post
+link: "/blog/linaro-digital-home-group-lhg-launch/"
 wordpress_id: 5986
 ---
 

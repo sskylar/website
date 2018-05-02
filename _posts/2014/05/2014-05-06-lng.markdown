@@ -1,8 +1,12 @@
 ---
-author: bill.fischofer
+title: OpenDataPlane project releases v0.2 development release
+date: 2014-05-06 19:13:45 Z
 categories:
 - blog
-date: 2014-05-06 19:13:45
+tags:
+- ODP
+- OpenDataPlane
+author: bill.fischofer
 description: OpenDataPlane continues its progress towards a stable ODP v1.0 release
   via the v0.2 development release.
 excerpt: OpenDataPlane continues its progress towards a stable ODP v1.0 release via
@@ -11,12 +15,7 @@ excerpt: OpenDataPlane continues its progress towards a stable ODP v1.0 release 
   and basic timer management functions. Also included is netmap acceleration of packet
   I/O on x86 platforms.
 layout: post
-link: /blog/lng/
-slug: lng
-tags:
-- ODP
-- OpenDataPlane
-title: OpenDataPlane project releases v0.2 development release
+link: "/blog/lng/"
 wordpress_id: 5770
 ---
 

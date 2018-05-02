@@ -1,13 +1,12 @@
 ---
-author: linaro
-date: 2017-07-11 10:59:13+00:00
-layout: post
-link: /blog/lhg-updates-w3c-eme-solution-96boards-hikey-platform/
-slug: lhg-updates-w3c-eme-solution-96boards-hikey-platform
 title: LHG updates W3C EME solution for 96Boards HiKey platform
-wordpress_id: 12583
+date: 2017-07-11 10:59:13 Z
 categories:
 - blog
+author: linaro
+layout: post
+link: "/blog/lhg-updates-w3c-eme-solution-96boards-hikey-platform/"
+wordpress_id: 12583
 ---
 
 **_Authors: Mark Gregotski and Peter Griffin_**

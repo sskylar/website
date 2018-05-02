@@ -1,21 +1,20 @@
 ---
-author: linaro
+title: Day 4 of Linaro Connect SFO15
+date: 2015-09-25 00:20:25 Z
 categories:
 - blog
-date: 2015-09-25 00:20:25
-description: Overview of the keynotes and sessions that took place during day 4 of
-  Linaro Connect San Francisco 2015.
-excerpt: Overview of the keynotes, announcement and sessions that took place during
-  day 4 of Linaro Connect San Francisco 2015.
-layout: post
-link: /blog/day-4-of-linaro-connect-sfo15/
-slug: day-4-of-linaro-connect-sfo15
 tags:
 - connect
 - Connect Events
 - Linaro
 - Linaro Connect
-title: Day 4 of Linaro Connect SFO15
+author: linaro
+description: Overview of the keynotes and sessions that took place during day 4 of
+  Linaro Connect San Francisco 2015.
+excerpt: Overview of the keynotes, announcement and sessions that took place during
+  day 4 of Linaro Connect San Francisco 2015.
+layout: post
+link: "/blog/day-4-of-linaro-connect-sfo15/"
 wordpress_id: 9459
 ---
 

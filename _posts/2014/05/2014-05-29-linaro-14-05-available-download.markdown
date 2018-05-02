@@ -1,13 +1,8 @@
 ---
-author: koen.kooi
+title: Linaro 14.05 Available for Download!
+date: 2014-05-29 17:52:04 Z
 categories:
 - blog
-date: 2014-05-29 17:52:04
-description: The Linaro 14.05 release is now available for immediate download. Here
-  you will find links to all the products in this release.
-layout: post
-link: /blog/linaro-14-05-available-download/
-slug: linaro-14-05-available-download
 tags:
 - android
 - connect
@@ -26,7 +21,11 @@ tags:
 - software
 - toolchain
 - tools
-title: Linaro 14.05 Available for Download!
+author: koen.kooi
+description: The Linaro 14.05 release is now available for immediate download. Here
+  you will find links to all the products in this release.
+layout: post
+link: "/blog/linaro-14-05-available-download/"
 wordpress_id: 5912
 ---
 

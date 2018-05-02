@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Videos - Opening Linaro Connect Q4.11 in Orlando
+date: 2011-11-01 14:09:28 Z
 categories:
 - blog
-date: 2011-11-01 14:09:28
-description: Two first videos from the opening session of Linaro Connect, Oct. 31-Nov.
-  4 in Orlando, Florida. Practical details and technical goals for the week.
-layout: post
-link: /blog/connect-opening-videos/
-slug: connect-opening-videos
 tags:
 - connect
 - Linaro
 - video
-title: Videos - Opening Linaro Connect Q4.11 in Orlando
+author: linaro
+description: Two first videos from the opening session of Linaro Connect, Oct. 31-Nov.
+  4 in Orlando, Florida. Practical details and technical goals for the week.
+layout: post
+link: "/blog/connect-opening-videos/"
 wordpress_id: 758
 ---
 

@@ -1,23 +1,22 @@
 ---
-author: linaro
+title: Linaro 12.09 Release Now Available
+date: 2012-09-27 14:57:38 Z
 categories:
 - blog
-date: 2012-09-27 14:57:38
-description: The Linaro 12.09 release cycle highlights the combined work and enthusiasm
-  of all the Linaro Teams and is now available for download.
-keywords: Linaro, Linux on ARM, Open Source, Releases, Working Group, Landing Teams,
-  Community, Ubuntu, Android, 12.09. Linaro 12.09, Linaro Connect, Bella Center, Copenhagen,
-  Demo Friday
-layout: post
-link: /blog/industry-blog/linaro-12-09-release-now-available/
-slug: linaro-12-09-release-now-available
 tags:
 - Android
 - Community
 - Connect Events
 - Industry
 - Releases
-title: Linaro 12.09 Release Now Available
+author: linaro
+description: The Linaro 12.09 release cycle highlights the combined work and enthusiasm
+  of all the Linaro Teams and is now available for download.
+keywords: Linaro, Linux on ARM, Open Source, Releases, Working Group, Landing Teams,
+  Community, Ubuntu, Android, 12.09. Linaro 12.09, Linaro Connect, Bella Center, Copenhagen,
+  Demo Friday
+layout: post
+link: "/blog/industry-blog/linaro-12-09-release-now-available/"
 wordpress_id: 1920
 ---
 

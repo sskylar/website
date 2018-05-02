@@ -1,14 +1,8 @@
 ---
-author: edmund.szeto
+title: 'Optimizing SQLite database in Android '
+date: 2014-06-04 14:35:37 Z
 categories:
 - blog
-date: 2014-06-04 14:35:37
-description: Android supports SQLite, a lighter weight database management system
-  that does not require a server backend. SQLite is very useful for smaller collections
-  of data, such as application settings, bookmarks in browsers, high scores in games,
-layout: post
-link: /blog/android-blog/optimizing-sqlite-database-android/
-slug: optimizing-sqlite-database-android
 tags:
 - Android
 - android
@@ -18,7 +12,12 @@ tags:
 - Open Source
 - Opensource
 - software
-title: 'Optimizing SQLite database in Android '
+author: edmund.szeto
+description: Android supports SQLite, a lighter weight database management system
+  that does not require a server backend. SQLite is very useful for smaller collections
+  of data, such as application settings, bookmarks in browsers, high scores in games,
+layout: post
+link: "/blog/android-blog/optimizing-sqlite-database-android/"
 wordpress_id: 5963
 ---
 

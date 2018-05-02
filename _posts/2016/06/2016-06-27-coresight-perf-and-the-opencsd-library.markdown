@@ -1,8 +1,17 @@
 ---
-author: mathieu.poirier
+title: CoreSight, Perf and the OpenCSD Library
+date: 2016-06-27 22:45:43 Z
 categories:
 - blog
-date: 2016-06-27 22:45:43
+tags:
+- Core Dump
+- CoreSight
+- kernel
+- Linux
+- Linux on ARM
+- OpenCSD library
+- Perf
+author: mathieu.poirier
 description: How the CoreSight framework found in the Linux kernel has been integrated
   with the standard Perf core, both at the kernel and user space level.
 excerpt: 'Learn how the CoreSight framework found in the Linux kernel has been integrated
@@ -14,17 +23,7 @@ excerpt: 'Learn how the CoreSight framework found in the Linux kernel has been i
 '
 keywords: CoreSight, Perf, OpenCSD Library
 layout: post
-link: /blog/core-dump/coresight-perf-and-the-opencsd-library/
-slug: coresight-perf-and-the-opencsd-library
-tags:
-- Core Dump
-- CoreSight
-- kernel
-- Linux
-- Linux on ARM
-- OpenCSD library
-- Perf
-title: CoreSight, Perf and the OpenCSD Library
+link: "/blog/core-dump/coresight-perf-and-the-opencsd-library/"
 wordpress_id: 10726
 ---
 

@@ -1,13 +1,8 @@
 ---
-author: jennifer.castelino
+title: LCU14 Monday Wrap-up
+date: 2014-09-16 21:26:20 Z
 categories:
 - blog
-date: 2014-09-16 21:26:20
-description: Linaro Connect USA 2014 began today Monday September 15, 2014 in Burlingame,
-  California. Here is a recap of what took place the first day of the event.
-layout: post
-link: /blog/lcu14-monday-wrap/
-slug: lcu14-monday-wrap
 tags:
 - Connect Events
 - android
@@ -16,7 +11,6 @@ tags:
 - ARMv8
 - conference
 - connect
-- Connect Events
 - embedded
 - kernel
 - lava
@@ -26,7 +20,11 @@ tags:
 - Open Source
 - Opensource
 - toolchain
-title: LCU14 Monday Wrap-up
+author: jennifer.castelino
+description: Linaro Connect USA 2014 began today Monday September 15, 2014 in Burlingame,
+  California. Here is a recap of what took place the first day of the event.
+layout: post
+link: "/blog/lcu14-monday-wrap/"
 wordpress_id: 6682
 ---
 

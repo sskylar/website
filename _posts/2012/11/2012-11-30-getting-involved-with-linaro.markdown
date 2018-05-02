@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Getting Involved with Linaro
+date: 2012-11-30 20:17:55 Z
 categories:
 - blog
-date: 2012-11-30 20:17:55
+tags:
+- Community
+author: linaro
 description: Whether you are an individual or an employee of a organization it is
   easy to get involved with Linaro. Find out how in this post.
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, Android,
   Developer Platform, LAVA, Infrastructure, Kernel, Toolchain, Power Management, Graphics,
   Linaro Enterprise Group (LEG)
 layout: post
-link: /blog/community-blog/getting-involved-with-linaro/
-slug: getting-involved-with-linaro
-tags:
-- Community
-title: Getting Involved with Linaro
+link: "/blog/community-blog/getting-involved-with-linaro/"
 wordpress_id: 2054
 ---
 

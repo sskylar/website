@@ -1,21 +1,20 @@
 ---
-author: linaro
+title: 'Video - Zach Pfeffer: Android platform development'
+date: 2011-09-22 13:57:21 Z
 categories:
 - blog
-date: 2011-09-22 13:57:21
-description: 'Linaro Connect Q3.11 video: Zach Pfeffer explains what Android is, how
-  the project works and how to make it work on a new board.'
-keywords: linaro,connect,android,arm,video
-layout: post
-link: /blog/android-platform-development/
-slug: android-platform-development
 tags:
 - android
 - arm
 - connect
 - Linaro
 - video
-title: 'Video - Zach Pfeffer: Android platform development'
+author: linaro
+description: 'Linaro Connect Q3.11 video: Zach Pfeffer explains what Android is, how
+  the project works and how to make it work on a new board.'
+keywords: linaro,connect,android,arm,video
+layout: post
+link: "/blog/android-platform-development/"
 wordpress_id: 550
 ---
 

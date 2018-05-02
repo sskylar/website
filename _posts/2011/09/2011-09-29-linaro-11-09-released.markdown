@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
+title: Linaro 11.09 released
+date: 2011-09-29 19:31:40 Z
 categories:
 - blog
-date: 2011-09-29 19:31:40
-description: Links to all the downloads for the Linaro 11.09 release
-layout: post
-link: /blog/releases-blog/linaro-11-09-released/
-slug: linaro-11-09-released
 tags:
 - Releases
-title: Linaro 11.09 released
+author: fathi.boudra
+description: Links to all the downloads for the Linaro 11.09 release
+layout: post
+link: "/blog/releases-blog/linaro-11-09-released/"
 ---
 
 The Linaro Team is pleased to announce the release of Linaro 11.09, the Linaro’s fourth release delivered on a monthly cadence.

@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: ArcherMind Joins 96Boards and Launches Deca-Core ARMv8 Product
+date: 2016-08-16 16:39:55 Z
 categories:
 - News
-date: 2016-08-16 16:39:55
+author: linaro
 description: 'Cambridge, UK: 16 August 2016'
 layout: post
-link: /news/archermind-joins-96boards-launches-deci-core-armv8-product/
-slug: archermind-joins-96boards-launches-deci-core-armv8-product
-title: ArcherMind Joins 96Boards and Launches Deca-Core ARMv8 Product
+link: "/news/archermind-joins-96boards-launches-deci-core-armv8-product/"
 wordpress_id: 11328
 ---
 

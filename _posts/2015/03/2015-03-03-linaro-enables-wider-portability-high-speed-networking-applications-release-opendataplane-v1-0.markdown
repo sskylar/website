@@ -1,14 +1,9 @@
 ---
-author: linaro
+title: Linaro Enables Wider Portability of High Speed Networking Applications with
+  Release of OpenDataPlane v1.0
+date: 2015-03-03 14:00:23 Z
 categories:
 - News
-date: 2015-03-03 14:00:23
-description: OpenDataPlane (ODP) enables proven software portability between network
-  compute platforms, regardless of the underlying instruction set architecture (ISA),
-  as well as transparent support for any hardware or software acceleration capability.
-layout: post
-link: /news/linaro-enables-wider-portability-high-speed-networking-applications-release-opendataplane-v1-0/
-slug: linaro-enables-wider-portability-high-speed-networking-applications-release-opendataplane-v1-0
 tags:
 - connect
 - Data Plane
@@ -23,8 +18,12 @@ tags:
 - OpenDataPlane
 - Opensource
 - SDN
-title: Linaro Enables Wider Portability of High Speed Networking Applications with
-  Release of OpenDataPlane v1.0
+author: linaro
+description: OpenDataPlane (ODP) enables proven software portability between network
+  compute platforms, regardless of the underlying instruction set architecture (ISA),
+  as well as transparent support for any hardware or software acceleration capability.
+layout: post
+link: "/news/linaro-enables-wider-portability-high-speed-networking-applications-release-opendataplane-v1-0/"
 wordpress_id: 8220
 ---
 

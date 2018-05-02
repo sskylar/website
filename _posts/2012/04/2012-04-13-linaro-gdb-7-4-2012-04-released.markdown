@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
+title: Linaro GDB 7.4 2012.04 released
+date: 2012-04-13 06:24:19 Z
 categories:
 - blog
-date: 2012-04-13 06:24:19
-description: Announcements and release notes for Linaro GDB 7.4 2012.04
-layout: post
-link: /blog/releases-blog/linaro-gdb-7-4-2012-04-released/
-slug: linaro-gdb-7-4-2012-04-released
 tags:
 - Releases
-title: Linaro GDB 7.4 2012.04 released
+author: fathi.boudra
+description: Announcements and release notes for Linaro GDB 7.4 2012.04
+layout: post
+link: "/blog/releases-blog/linaro-gdb-7-4-2012-04-released/"
 wordpress_id: 1563
 ---
 

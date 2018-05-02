@@ -1,13 +1,12 @@
 ---
-author: steve.taylor
-date: 2011-05-23 11:27:53+00:00
-layout: post
-link: /blog/highlights-from-linaro-technical-showcase/
-slug: highlights-from-linaro-technical-showcase
 title: Highlights from Linaro Technical Showcase
-wordpress_id: 201
+date: 2011-05-23 11:27:53 Z
 categories:
 - blog
+author: steve.taylor
+layout: post
+link: "/blog/highlights-from-linaro-technical-showcase/"
+wordpress_id: 201
 ---
 
 During the [Linaro Developer Summit (9-13 May 2011)](https://wiki.linaro.org/Events/2011-05-LDS), we held a superb [showcase](https://wiki.linaro.org/Events/2011-05-LDS/Showcase) of the 20 best demonstrations of Linaro engineering and of companies using our output.

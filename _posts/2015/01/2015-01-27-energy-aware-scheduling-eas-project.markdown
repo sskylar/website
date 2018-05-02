@@ -1,23 +1,22 @@
 ---
-author: amit.kucheria
+title: Energy-Aware Scheduling (EAS) Project
+date: 2015-01-27 17:40:39 Z
 categories:
 - blog
-comments: true
-date: 2015-01-27 17:40:39
-description: "The energy-aware scheduling (EAS) project is trying to solve a long-standing
-  design limitation of two key power-management subsystems (CPUFreq and CPUIdle) -
-  they don\xE2\x80\x99t coordinate their decisions with task scheduling decisions."
-excerpt: "The energy-aware scheduling (EAS) project is trying to solve a long-standing
-  design limitation of two key power-management subsystems (CPUFreq and CPUIdle) -
-  they don\u2019t coordinate their decisions with task scheduling decisions."
-layout: post
-slug: energy-aware-scheduling-eas-project
 tags:
 - Core Dump
 - EAS
 - Energy-Aware
 - Scheduling
-title: Energy-Aware Scheduling (EAS) Project
+author: amit.kucheria
+comments: true
+description: "The energy-aware scheduling (EAS) project is trying to solve a long-standing
+  design limitation of two key power-management subsystems (CPUFreq and CPUIdle) -
+  they donâ\x80\x99t coordinate their decisions with task scheduling decisions."
+excerpt: The energy-aware scheduling (EAS) project is trying to solve a long-standing
+  design limitation of two key power-management subsystems (CPUFreq and CPUIdle) -
+  they don’t coordinate their decisions with task scheduling decisions.
+layout: post
 wordpress_id: 7809
 ---
 

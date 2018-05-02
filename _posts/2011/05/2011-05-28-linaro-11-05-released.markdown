@@ -1,18 +1,17 @@
 ---
-author: fathi.boudra
+title: Linaro 11.05 released
+date: 2011-05-28 22:11:09 Z
 categories:
 - blog
-date: 2011-05-28 22:11:09
-description: Links to all the downloads for the Linaro 11.05 release
-layout: post
-link: /blog/releases-blog/linaro-11-05-released/
-slug: linaro-11-05-released
 tags:
 - Releases
 - '11.05'
 - Linaro
 - release
-title: Linaro 11.05 released
+author: fathi.boudra
+description: Links to all the downloads for the Linaro 11.05 release
+layout: post
+link: "/blog/releases-blog/linaro-11-05-released/"
 wordpress_id: 3385
 ---
 

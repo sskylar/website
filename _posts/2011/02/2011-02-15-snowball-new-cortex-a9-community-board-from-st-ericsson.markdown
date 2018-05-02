@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2011-02-15 18:00:00+00:00
-layout: post
-link: /blog/hardware-update/snowball-new-cortex-a9-community-board-from-st-ericsson/
-slug: snowball-new-cortex-a9-community-board-from-st-ericsson
 title: Snowball - New Cortex A9 community board from ST-Ericsson
-wordpress_id: 3373
+date: 2011-02-15 18:00:00 Z
 categories:
 - blog
 tags:
@@ -14,7 +9,12 @@ tags:
 - community
 - CortexA9
 - ST-Ericsson
+author: linaro
+layout: post
+link: "/blog/hardware-update/snowball-new-cortex-a9-community-board-from-st-ericsson/"
+wordpress_id: 3373
 ---
+
 Barcelona, Mobile World Congress, Feb. 15, 2011
 
 At Linaro, we are pleased to relay the announcement by ST-Ericsson of the Snowball board, a new low cost, low power and high performance board for the embedded Linux community, based on their Nova A9500 dual Cortex A9 processor and the MALI 400 GPU from ARM.

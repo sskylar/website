@@ -1,14 +1,8 @@
 ---
-author: bill.fletcher
+title: Open source continuous integration (CI) for Zephyr at ELC
+date: 2016-11-18 14:46:19 Z
 categories:
 - blog
-date: 2016-11-18 14:46:19
-description: Overview of the Zephyr demo shown at ELC last month. Demo showed how
-  open the source code, tooling, and configuration could be, and how transparent collaboration
-  could flow from the engineering behind the deeply embedded RTOS code.
-layout: post
-link: /blog/open-source-continuous-integration-ci-for-zephyr-at-elc/
-slug: open-source-continuous-integration-ci-for-zephyr-at-elc
 tags:
 - IoT
 - Linaro
@@ -17,7 +11,12 @@ tags:
 - Open Source
 - Opensource
 - Zephyr
-title: Open source continuous integration (CI) for Zephyr at ELC
+author: bill.fletcher
+description: Overview of the Zephyr demo shown at ELC last month. Demo showed how
+  open the source code, tooling, and configuration could be, and how transparent collaboration
+  could flow from the engineering behind the deeply embedded RTOS code.
+layout: post
+link: "/blog/open-source-continuous-integration-ci-for-zephyr-at-elc/"
 wordpress_id: 11886
 ---
 

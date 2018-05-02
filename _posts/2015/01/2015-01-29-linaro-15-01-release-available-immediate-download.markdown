@@ -1,13 +1,8 @@
 ---
-author: koen.kooi
+title: Linaro 15.01 Release Available for Immediate Download!
+date: 2015-01-29 19:29:22 Z
 categories:
 - blog
-date: 2015-01-29 19:29:22
-description: The Linaro 15.01 software release is available for immediate download.
-  All related links can be found here.
-layout: post
-link: /blog/linaro-15-01-release-available-immediate-download/
-slug: linaro-15-01-release-available-immediate-download
 tags:
 - android
 - arm
@@ -21,7 +16,11 @@ tags:
 - release cycle
 - software
 - toolchain
-title: Linaro 15.01 Release Available for Immediate Download!
+author: koen.kooi
+description: The Linaro 15.01 software release is available for immediate download.
+  All related links can be found here.
+layout: post
+link: "/blog/linaro-15-01-release-available-immediate-download/"
 wordpress_id: 7829
 ---
 

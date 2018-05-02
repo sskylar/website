@@ -1,9 +1,14 @@
 ---
-author: nicolas.pitre
+title: The Road to Energy-Aware Scheduling
+date: 2015-01-27 17:26:36 Z
 categories:
 - blog
+tags:
+- Core Dump
+- Energy-Aware
+- Scheduling
+author: nicolas.pitre
 comments: true
-date: 2015-01-27 17:26:36
 description: Hardware became much less energy hungry while providing increased performance
   of many orders of magnitude.
 excerpt: 'The computing industry has gone through multiple "power" phases since its
@@ -12,13 +17,7 @@ excerpt: 'The computing industry has gone through multiple "power" phases since 
   that followed, the hardware became much less energy hungry while providing increased
   performance of many orders of magnitude. '
 layout: post
-link: /blog/core-dump/road-energy-aware-scheduling/
-slug: road-energy-aware-scheduling
-tags:
-- Core Dump
-- Energy-Aware
-- Scheduling
-title: The Road to Energy-Aware Scheduling
+link: "/blog/core-dump/road-energy-aware-scheduling/"
 wordpress_id: 7806
 ---
 

@@ -1,16 +1,15 @@
 ---
-author: fathi.boudra
+title: Linaro QEMU 2011.09 released
+date: 2011-09-16 11:05:37 Z
 categories:
 - blog
-date: 2011-09-16 11:05:37
+tags:
+- Releases
+author: fathi.boudra
 description: Announcement of the Linaro QEMU 2011.09 release. New features and known
   issues.
 layout: post
-link: /blog/releases-blog/linaro-qemu-2011-09-released/
-slug: linaro-qemu-2011-09-released
-tags:
-- Releases
-title: Linaro QEMU 2011.09 released
+link: "/blog/releases-blog/linaro-qemu-2011-09-released/"
 wordpress_id: 505
 ---
 

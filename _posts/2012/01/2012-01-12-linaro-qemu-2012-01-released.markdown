@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Linaro QEMU 2012.01 released
+date: 2012-01-12 17:41:24 Z
 categories:
 - blog
-date: 2012-01-12 17:41:24
-description: Announcement of the Linaro QEMU 2012.01 release. New features and known
-  issues.
-keywords: Linaro, Linux on ARM, Toolchain, QEMU, Open Source
-layout: post
-link: /blog/releases-blog/linaro-qemu-2012-01-released/
-slug: linaro-qemu-2012-01-released
 tags:
 - Releases
 - Linaro
 - qemu
 - release
-title: Linaro QEMU 2012.01 released
+author: linaro
+description: Announcement of the Linaro QEMU 2012.01 release. New features and known
+  issues.
+keywords: Linaro, Linux on ARM, Toolchain, QEMU, Open Source
+layout: post
+link: "/blog/releases-blog/linaro-qemu-2012-01-released/"
 wordpress_id: 1173
 ---
 

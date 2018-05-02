@@ -1,21 +1,20 @@
 ---
-author: linaro
+title: Andrea Gallo of Linaro Explains LEG
+date: 2012-11-16 04:32:47 Z
 categories:
 - blog
-date: 2012-11-16 04:32:47
+tags:
+- Community
+- Connect Events
+- Hardware
+author: linaro
 description: Find out more about the newly formed Linaro Enterprise Group (LEG) from
   Amber Graner's interview with the group's director, Andrea Gallo.
 keywords: Linaro, Linaro Connect, LCE12-Copenhagen, LCA13-Hong Kong, LEG, Linaro Enterprise
   Group, ARM Servers, Linux on ARM, ARM, Open Source, Andrea Gallo, Amber Graner,
   Interview
 layout: post
-link: /blog/community-blog/andrea-gallo-of-linaro-explains-leg/
-slug: andrea-gallo-of-linaro-explains-leg
-tags:
-- Community
-- Connect Events
-- Hardware
-title: Andrea Gallo of Linaro Explains LEG
+link: "/blog/community-blog/andrea-gallo-of-linaro-explains-leg/"
 wordpress_id: 1995
 ---
 

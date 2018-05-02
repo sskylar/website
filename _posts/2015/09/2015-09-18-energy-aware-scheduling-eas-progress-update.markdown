@@ -1,8 +1,14 @@
 ---
-author: linaro
+title: Energy Aware Scheduling (EAS) progress update
+date: 2015-09-18 19:01:52 Z
 categories:
 - blog
-date: 2015-09-18 19:01:52
+tags:
+- Core Dump
+- arm
+- Linux
+- Linux on ARM
+author: linaro
 description: ARM and Linaro are jointly developing "Energy Aware Scheduling", a technique
   that improves power management on Linux by making it more central and easier to
   tune. See the latest update.
@@ -10,14 +16,7 @@ excerpt: ARM and Linaro are jointly developing "Energy Aware Scheduling", a tech
   that improves power management on Linux by making it more central and easier to
   tune. See the latest update.
 layout: post
-link: /blog/core-dump/energy-aware-scheduling-eas-progress-update/
-slug: energy-aware-scheduling-eas-progress-update
-tags:
-- Core Dump
-- arm
-- Linux
-- Linux on ARM
-title: Energy Aware Scheduling (EAS) progress update
+link: "/blog/core-dump/energy-aware-scheduling-eas-progress-update/"
 wordpress_id: 9319
 ---
 

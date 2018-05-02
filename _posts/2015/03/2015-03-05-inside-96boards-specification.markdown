@@ -1,17 +1,15 @@
 ---
-author: george.grey
-date: 2015-03-05 14:52:40+00:00
-excerpt: 'The Linaro 96Boards initiative announced at the recent Linaro Connect conference
-  in Hong Kong on February 9th is an industry-first, establishing an open standard
-  for low cost developer hardware from multiple SoC vendors.
-  '
-layout: post
-link: /blog/inside-96boards-specification/
-slug: inside-96boards-specification
 title: Inside the 96Boards Specification
-wordpress_id: 8232
+date: 2015-03-05 14:52:40 Z
 categories:
 - blog
+author: george.grey
+excerpt: 'The Linaro 96Boards initiative announced at the recent Linaro Connect conference
+  in Hong Kong on February 9th is an industry-first, establishing an open standard
+  for low cost developer hardware from multiple SoC vendors. '
+layout: post
+link: "/blog/inside-96boards-specification/"
+wordpress_id: 8232
 ---
 
 # Inside the 96Boards Specification

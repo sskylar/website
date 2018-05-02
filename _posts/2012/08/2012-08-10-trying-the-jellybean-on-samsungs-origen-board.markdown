@@ -1,16 +1,16 @@
 ---
-author: zach.pfeffer
-date: 2012-08-10 21:52:32+00:00
-layout: post
-link: /blog/android-blog/trying-the-jellybean-on-samsungs-origen-board/
-slug: trying-the-jellybean-on-samsungs-origen-board
 title: Trying Linaro Jellybean Android on Samsung's Origen board
-wordpress_id: 1769
+date: 2012-08-10 21:52:32 Z
 categories:
 - blog
 tags:
 - Android
+author: zach.pfeffer
+layout: post
+link: "/blog/android-blog/trying-the-jellybean-on-samsungs-origen-board/"
+wordpress_id: 1769
 ---
+
 ## Overview
 
 This post takes you through trying a prebuilt build on a Samsung Origen and then reproducing that exact build.

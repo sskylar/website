@@ -1,19 +1,18 @@
 ---
-author: alan.bennett
+title: Automated Validation with LAVA
+date: 2011-11-07 20:52:50 Z
 categories:
 - blog
-date: 2011-11-07 20:52:50
+tags:
+- Community
+- Hardware
+- LAVA
+author: alan.bennett
 description: Discussion on Linaro's LAVA efforts including Android testing, visualization
   and reporting as well as links to project updates and source code.
 keywords: Linaro, linux, linux on ARM, ARM SOCs, opensource software, LAVA, Validation,
   Android
 layout: post
-slug: automated-validation-with-lava
-tags:
-- Community
-- Hardware
-- LAVA
-title: Automated Validation with LAVA
 wordpress_id: 842
 ---
 

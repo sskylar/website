@@ -1,16 +1,15 @@
 ---
-author: deepak.saxena
+title: The Evolution of the Linaro Kernel
+date: 2011-09-09 14:17:05 Z
 categories:
 - blog
-date: 2011-09-09 14:17:05
+tags:
+- Industry
+author: deepak.saxena
 description: Discusses the changes in the Linaro Kernel
 keywords: Linaro, Linux, kernel, ARM,
 layout: post
-link: /blog/industry-blog/the-evolution-of-the-linaro-kernel/
-slug: the-evolution-of-the-linaro-kernel
-tags:
-- Industry
-title: The Evolution of the Linaro Kernel
+link: "/blog/industry-blog/the-evolution-of-the-linaro-kernel/"
 wordpress_id: 4126
 ---
 

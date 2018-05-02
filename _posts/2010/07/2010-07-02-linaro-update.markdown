@@ -1,16 +1,14 @@
 ---
-author: steve.taylor
-
-date: 2010-07-02 23:05:00+00:00
-layout: post
-link: /blog/linaro-update/
-slug: linaro-update
 title: Linaro update
-wordpress_id: 4110
+date: 2010-07-02 23:05:00 Z
 categories:
 - blog
 tags:
 - launch
+author: steve.taylor
+layout: post
+link: "/blog/linaro-update/"
+wordpress_id: 4110
 ---
 
 As head of Linaro's Head of Operations I've been working behind the scenes to get Linaro up and running and delivering great code as soon as we can.

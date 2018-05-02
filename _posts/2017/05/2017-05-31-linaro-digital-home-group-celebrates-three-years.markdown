@@ -1,11 +1,6 @@
 ---
-author: mark.gregotski
-date: 2017-05-31 17:27:29+00:00
-layout: post
-link: /blog/linaro-digital-home-group-celebrates-three-years/
-slug: linaro-digital-home-group-celebrates-three-years
 title: The Linaro Digital Home Group celebrates three years
-wordpress_id: 12408
+date: 2017-05-31 17:27:29 Z
 categories:
 - blog
 tags:
@@ -17,6 +12,10 @@ tags:
 - Linaro
 - multimedia
 - RDK
+author: mark.gregotski
+layout: post
+link: "/blog/linaro-digital-home-group-celebrates-three-years/"
+wordpress_id: 12408
 ---
 
 By Mark Gregotski, Director of the Linaro Digital Home Group (LHG)

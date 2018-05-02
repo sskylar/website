@@ -1,14 +1,13 @@
 ---
-author: linaro
-date: 2015-09-22 03:25:57+00:00
-excerpt: 'See a re-cap of the first day of Linaro Connect San Francisco 2015.  '
-layout: post
-link: /blog/linaro-connect-2015-kicks-off-in-san-francisco/
-slug: linaro-connect-2015-kicks-off-in-san-francisco
 title: Linaro Connect 2015 Kicks Off in San Francisco
-wordpress_id: 9371
+date: 2015-09-22 03:25:57 Z
 categories:
 - blog
+author: linaro
+excerpt: 'See a re-cap of the first day of Linaro Connect San Francisco 2015.  '
+layout: post
+link: "/blog/linaro-connect-2015-kicks-off-in-san-francisco/"
+wordpress_id: 9371
 ---
 
 {% include image.html name="SFO15-Linaro-Banner-Monday-Group.jpg" alt="Linaro Connect SFO15 banner" %}

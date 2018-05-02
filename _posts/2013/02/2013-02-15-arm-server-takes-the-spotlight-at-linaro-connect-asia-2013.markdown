@@ -1,8 +1,13 @@
 ---
-author: linaro
+title: ARM Server takes the spotlight at Linaro Connect Asia 2013
+date: 2013-02-15 15:56:10 Z
 categories:
 - blog
-date: 2013-02-15 15:56:10
+tags:
+- Community
+- Connect Events
+- Hangouts on Air
+author: linaro
 description: The ARM Server is taking a front row seat at Linaro Connect Asia 2013
   in Hong Kong as Andrea Gallo, Director of the Linaro Enterprise Group (LEG) and
   his team host an ARM Server Mini-Summit.
@@ -10,13 +15,7 @@ keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, LCA13-H
   Kong, Lars Kurth, Mark Heath, Citrix, ARM Server Mini-Summit, Andrea Gallo, LEG,
   Linaro Enterprise Group
 layout: post
-link: /blog/community-blog/arm-server-takes-the-spotlight-at-linaro-connect-asia-2013/
-slug: arm-server-takes-the-spotlight-at-linaro-connect-asia-2013
-tags:
-- Community
-- Connect Events
-- Hangouts on Air
-title: ARM Server takes the spotlight at Linaro Connect Asia 2013
+link: "/blog/community-blog/arm-server-takes-the-spotlight-at-linaro-connect-asia-2013/"
 wordpress_id: 2364
 ---
 

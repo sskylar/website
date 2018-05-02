@@ -1,13 +1,12 @@
 ---
-author: zach.pfeffer
-date: 2012-03-12 02:06:15+00:00
-layout: post
-link: /blog/linaro-android-12-03-preview-release-candidate-1/
-slug: linaro-android-12-03-preview-release-candidate-1
 title: Linaro Android 12.03 Preview Release Candidate 1
-wordpress_id: 1357
+date: 2012-03-12 02:06:15 Z
 categories:
 - blog
+author: zach.pfeffer
+layout: post
+link: "/blog/linaro-android-12-03-preview-release-candidate-1/"
+wordpress_id: 1357
 ---
 
 The first Linaro Android 12.03 preview releases have been completed. All of these boot and do generally useful things. Enjoy!

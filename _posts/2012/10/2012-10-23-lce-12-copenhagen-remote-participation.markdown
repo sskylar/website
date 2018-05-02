@@ -1,8 +1,12 @@
 ---
-author: linaro
+title: 'LCE 12 - Copenhagen: Remote Participation'
+date: 2012-10-23 23:34:00 Z
 categories:
 - blog
-date: 2012-10-23 23:34:00
+tags:
+- Community
+- Connect Events
+author: linaro
 description: Can't make it to LCE 12 - Copenhagen on 29 Oct to 3 November; find out
   how you can help shape the future of Linux on ARM through Remote Participation.
 keywords: Remote, Participation, Linaro, Linux on ARM, Open Source, Community, Linaro
@@ -10,12 +14,7 @@ keywords: Remote, Participation, Linaro, Linux on ARM, Open Source, Community, L
   Schedule, Andy Doan, Jesse Barker, Mark Orvek, Michael Hope, Vicky Janicki, Zach
   Pfeffer, Amber Graner
 layout: post
-link: /blog/community-blog/lce-12-copenhagen-remote-participation/
-slug: lce-12-copenhagen-remote-participation
-tags:
-- Community
-- Connect Events
-title: 'LCE 12 - Copenhagen: Remote Participation'
+link: "/blog/community-blog/lce-12-copenhagen-remote-participation/"
 wordpress_id: 1936
 ---
 

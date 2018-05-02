@@ -1,17 +1,16 @@
 ---
-author: steve.taylor
+title: Linaro Connect USA 2013 Begins- Monday Recap
+date: 2013-10-29 12:47:32 Z
 categories:
 - blog
-date: 2013-10-29 12:47:32
+tags:
+- Connect Events
+author: steve.taylor
 description: Recap of events that took place on Monday October 28th 2013 at Linaro
   Connect 2013
 keywords: Linaro, opensource, ARM, OCP, open compute project, Linux
 layout: post
-link: /blog/connect-update/linaro-connect-usa-2013-begins-monday-recap/
-slug: linaro-connect-usa-2013-begins-monday-recap
-tags:
-- Connect Events
-title: Linaro Connect USA 2013 Begins- Monday Recap
+link: "/blog/connect-update/linaro-connect-usa-2013-begins-monday-recap/"
 wordpress_id: 3115
 ---
 

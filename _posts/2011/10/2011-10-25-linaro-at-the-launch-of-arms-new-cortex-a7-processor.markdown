@@ -1,17 +1,16 @@
 ---
-author: jesse.barker
+title: Linaro at the launch of ARM's new Cortex-A7 processor
+date: 2011-10-25 02:20:14 Z
 categories:
 - blog
-date: 2011-10-25 02:20:14
+tags:
+- Industry
+author: jesse.barker
 description: Description of Linaro's participation in the ARM Cortex-A7 launch event
   and how Linaro is contributing to the success of this product.
 keywords: Linaro, ARM, Cortex A7, Linux, Linux kernel, Samsung, TI, ST-Ericsson, IBM
 layout: post
-link: /blog/industry-blog/linaro-at-the-launch-of-arms-new-cortex-a7-processor/
-slug: linaro-at-the-launch-of-arms-new-cortex-a7-processor
-tags:
-- Industry
-title: Linaro at the launch of ARM's new Cortex-A7 processor
+link: "/blog/industry-blog/linaro-at-the-launch-of-arms-new-cortex-a7-processor/"
 wordpress_id: 725
 ---
 

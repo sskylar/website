@@ -1,13 +1,8 @@
 ---
-author: christoffer.dall
+title: Ensuring Bootable ARM VM Images
+date: 2016-12-20 16:39:41 Z
 categories:
 - blog
-comments: true
-date: 2016-12-20 16:39:41
-keywords: virtualization, kvm, xen, arm, aarch64, qemu, cross-distro, standards
-layout: post
-link: /blog/core-dump/ensuring-bootable-arm-vm-images/
-slug: ensuring-bootable-arm-vm-images
 tags:
 - Core Dump
 - AArch64
@@ -17,7 +12,11 @@ tags:
 - qemu
 - standards
 - virtualization
-title: Ensuring Bootable ARM VM Images
+author: christoffer.dall
+comments: true
+keywords: virtualization, kvm, xen, arm, aarch64, qemu, cross-distro, standards
+layout: post
+link: "/blog/core-dump/ensuring-bootable-arm-vm-images/"
 wordpress_id: 11992
 ---
 

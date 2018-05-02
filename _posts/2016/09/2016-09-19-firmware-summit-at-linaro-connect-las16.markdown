@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2016-09-19 03:21:27+00:00
-layout: post
-link: /blog/firmware-summit-at-linaro-connect-las16/
-slug: firmware-summit-at-linaro-connect-las16
 title: Firmware Summit at Linaro Connect LAS16
-wordpress_id: 11577
+date: 2016-09-19 03:21:27 Z
 categories:
 - blog
 tags:
@@ -17,6 +12,10 @@ tags:
 - Linaro Connect
 - Linux
 - Linux on ARM
+author: linaro
+layout: post
+link: "/blog/firmware-summit-at-linaro-connect-las16/"
+wordpress_id: 11577
 ---
 
 Next week at Linaro Connect LAS16 there will be a Firmware Summit on Tuesday September 27, 2016 from 10:10am-1:00pm (PST).  The purpose of this summit is to bring the key developers and maintainers from all camps in the same place, review the status and plan the next steps.

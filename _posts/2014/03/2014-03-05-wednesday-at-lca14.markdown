@@ -1,12 +1,8 @@
 ---
-author: jennifer.castelino
+title: Wednesday at LCA14
+date: 2014-03-05 19:55:58 Z
 categories:
 - blog
-date: 2014-03-05 19:55:58
-description: Recap of the sessions and social events that took place at LCA14
-layout: post
-link: /blog/connect-update/wednesday-at-lca14/
-slug: wednesday-at-lca14
 tags:
 - Connect Events
 - conference
@@ -17,7 +13,10 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Wednesday at LCA14
+author: jennifer.castelino
+description: Recap of the sessions and social events that took place at LCA14
+layout: post
+link: "/blog/connect-update/wednesday-at-lca14/"
 wordpress_id: 3505
 ---
 

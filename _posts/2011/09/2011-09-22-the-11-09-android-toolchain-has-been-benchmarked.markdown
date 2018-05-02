@@ -1,15 +1,14 @@
 ---
-author: zach.pfeffer
-date: 2011-09-22 16:04:47+00:00
-layout: post
-link: /blog/the-11-09-android-toolchain-has-been-benchmarked/
-slug: the-11-09-android-toolchain-has-been-benchmarked
 title: The 11.09 Android Toolchain has been Benchmarked
-wordpress_id: 4130
+date: 2011-09-22 16:04:47 Z
 categories:
 - blog
 tags:
 - Android benchmark 11.09
+author: zach.pfeffer
+layout: post
+link: "/blog/the-11-09-android-toolchain-has-been-benchmarked/"
+wordpress_id: 4130
 ---
 
 Andy Doan has put together the Android benchmarks for the 11.09 toolchain. You can check it out here:

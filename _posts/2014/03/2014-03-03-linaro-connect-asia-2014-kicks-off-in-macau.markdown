@@ -1,12 +1,8 @@
 ---
-author: jennifer.castelino
+title: Linaro Connect Asia 2014 - Kicks Off in Macau
+date: 2014-03-03 18:27:36 Z
 categories:
 - blog
-date: 2014-03-03 18:27:36
-description: Recap of the first day of LCA14
-layout: post
-link: /blog/connect-update/linaro-connect-asia-2014-kicks-off-in-macau/
-slug: linaro-connect-asia-2014-kicks-off-in-macau
 tags:
 - Connect Events
 - conference
@@ -17,7 +13,10 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Linaro Connect Asia 2014 - Kicks Off in Macau
+author: jennifer.castelino
+description: Recap of the first day of LCA14
+layout: post
+link: "/blog/connect-update/linaro-connect-asia-2014-kicks-off-in-macau/"
 wordpress_id: 3430
 ---
 

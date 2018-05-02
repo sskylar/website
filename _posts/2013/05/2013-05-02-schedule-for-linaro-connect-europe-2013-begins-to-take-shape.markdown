@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Schedule for Linaro Connect Europe 2013 Begins to Take Shape
+date: 2013-05-02 16:03:28 Z
 categories:
 - blog
-date: 2013-05-02 16:03:28
+tags:
+- Connect Events
+author: linaro
 description: Check out the tracks, sessions, and mini-summits being held at Linaro
   Connect Europe 2013. Don't miss all the excitement! Register today!
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, LCE13-Dublin,
   Announcement, Registration, Schedule, Tracks, LAVA, Mini-summit
 layout: post
-link: /blog/connect-update/schedule-for-linaro-connect-europe-2013-begins-to-take-shape/
-slug: schedule-for-linaro-connect-europe-2013-begins-to-take-shape
-tags:
-- Connect Events
-title: Schedule for Linaro Connect Europe 2013 Begins to Take Shape
+link: "/blog/connect-update/schedule-for-linaro-connect-europe-2013-begins-to-take-shape/"
 wordpress_id: 2687
 ---
 

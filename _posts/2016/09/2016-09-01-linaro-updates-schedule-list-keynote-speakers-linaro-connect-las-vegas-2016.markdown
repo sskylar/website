@@ -1,12 +1,9 @@
 ---
-author: linaro
+title: Linaro Updates Schedule and List of Keynote Speakers for Linaro Connect Las
+  Vegas 2016
+date: 2016-09-01 20:13:11 Z
 categories:
 - News
-date: 2016-09-01 20:13:11
-description: "Cambridge, UK: 1\xC2\_September 2016"
-layout: post
-link: /news/linaro-updates-schedule-list-keynote-speakers-linaro-connect-las-vegas-2016/
-slug: linaro-updates-schedule-list-keynote-speakers-linaro-connect-las-vegas-2016
 tags:
 - conference
 - connect
@@ -17,8 +14,10 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Linaro Updates Schedule and List of Keynote Speakers for Linaro Connect Las
-  Vegas 2016
+author: linaro
+description: 'Cambridge, UK: 1Â September 2016'
+layout: post
+link: "/news/linaro-updates-schedule-list-keynote-speakers-linaro-connect-las-vegas-2016/"
 wordpress_id: 11545
 ---
 

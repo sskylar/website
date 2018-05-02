@@ -1,13 +1,8 @@
 ---
-author: ard.biesheuvel
+title: Accelerated AES for the ARM64 Linux kernel
+date: 2017-01-26 08:44:07 Z
 categories:
 - blog
-comments: true
-date: 2017-01-26 08:44:07
-keywords: Accelerated AES, arm64, Linux, kernel
-layout: post
-link: /blog/core-dump/accelerated-aes-for-the-arm64-linux-kernel/
-slug: accelerated-aes-for-the-arm64-linux-kernel
 tags:
 - Core Dump
 - AArch64
@@ -16,7 +11,11 @@ tags:
 - kernel
 - Linux
 - linux kernel
-title: Accelerated AES for the ARM64 Linux kernel
+author: ard.biesheuvel
+comments: true
+keywords: Accelerated AES, arm64, Linux, kernel
+layout: post
+link: "/blog/core-dump/accelerated-aes-for-the-arm64-linux-kernel/"
 wordpress_id: 12087
 ---
 

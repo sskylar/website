@@ -1,19 +1,8 @@
 ---
-author: linaro
+title: HopeRun joins Linaro 96Boards Steering Committee
+date: 2016-09-22 11:57:54 Z
 categories:
 - News
-date: 2016-09-22 11:57:54
-description: Jiangsu HopeRun Software has joined the 96Boards initiative as a Steering
-  Committee member. This new collaboration allows HopeRun to cooperate with 96Boards
-  Manufacturing Partners and SoC vendors to market products under the 96Boards brand
-  and influence the development of the 96Boards specifications and initiative.
-excerpt: Jiangsu HopeRun Software has joined the 96Boards initiative as a Steering
-  Committee member. This new collaboration allows HopeRun to cooperate with 96Boards
-  Manufacturing Partners and SoC vendors to market products under the 96Boards brand
-  and influence the development of the 96Boards specifications and initiative.
-layout: post
-link: /news/hoperun-joins-linaro-96boards-steering-committee/
-slug: hoperun-joins-linaro-96boards-steering-committee
 tags:
 - 96Boards
 - board
@@ -27,7 +16,17 @@ tags:
 - Opensource
 - software
 - Steering Committee
-title: "HopeRun\_joins\_Linaro\_96Boards Steering Committee"
+author: linaro
+description: Jiangsu HopeRun Software has joined the 96Boards initiative as a Steering
+  Committee member. This new collaboration allows HopeRun to cooperate with 96Boards
+  Manufacturing Partners and SoC vendors to market products under the 96Boards brand
+  and influence the development of the 96Boards specifications and initiative.
+excerpt: Jiangsu HopeRun Software has joined the 96Boards initiative as a Steering
+  Committee member. This new collaboration allows HopeRun to cooperate with 96Boards
+  Manufacturing Partners and SoC vendors to market products under the 96Boards brand
+  and influence the development of the 96Boards specifications and initiative.
+layout: post
+link: "/news/hoperun-joins-linaro-96boards-steering-committee/"
 wordpress_id: 11582
 ---
 

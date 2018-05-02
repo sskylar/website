@@ -1,13 +1,12 @@
 ---
-author: deepak.saxena
-date: 2011-08-15 15:59:00+00:00
-layout: post
-link: /blog/enabling-device-tree-support-on-arm-platforms/
-slug: enabling-device-tree-support-on-arm-platforms
 title: Enabling Device Tree support on ARM platforms
-wordpress_id: 4120
+date: 2011-08-15 15:59:00 Z
 categories:
 - blog
+author: deepak.saxena
+layout: post
+link: "/blog/enabling-device-tree-support-on-arm-platforms/"
+wordpress_id: 4120
 ---
 
 Linaro hosted its first Connect event last week in Cambridge, UK; providing an opportunity for Linaro and community developers to gather and work on current tasks and plan for the future.  The kernel working group used this time to work along with several sub-architecture maintainers to work on several critical items on the ARM cleanup and consolidation roadmap.

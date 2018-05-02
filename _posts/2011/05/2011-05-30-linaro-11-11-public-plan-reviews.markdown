@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Linaro 11.11 public plan reviews
+date: 2011-05-30 04:42:09 Z
 categories:
 - blog
-date: 2011-05-30 04:42:09
-description: Public phone calls to review plans for the 2011.11 engineering cycle.
-  Anyone is welcome to join and ask questions through IRC.
-layout: post
-link: /blog/community-blog/linaro-11-11-public-plan-reviews/
-slug: linaro-11-11-public-plan-reviews
 tags:
 - Community
 - Engineering cycle
 - Linaro
 - plans
-title: Linaro 11.11 public plan reviews
+author: linaro
+description: Public phone calls to review plans for the 2011.11 engineering cycle.
+  Anyone is welcome to join and ask questions through IRC.
+layout: post
+link: "/blog/community-blog/linaro-11-11-public-plan-reviews/"
 wordpress_id: 3386
 ---
 

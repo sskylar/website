@@ -1,19 +1,12 @@
 ---
-author: jennifer.castelino
+title: Last Day of Linaro Connect 2014
+date: 2014-09-24 21:06:33 Z
 categories:
 - blog
-date: 2014-09-24 21:06:33
-description: Overview of what took place on the Friday of Linaro Connect USA 2014.
-  Links to presentations, videos and session descriptions are included in the blog
-  as well as photos of the weeks activities
-layout: post
-link: /blog/last-day-linaro-connect-2014/
-slug: last-day-linaro-connect-2014
 tags:
 - Connect Events
 - android
 - connect
-- Connect Events
 - kernel
 - Linaro
 - Linux
@@ -24,7 +17,12 @@ tags:
 - software
 - toolchain
 - video
-title: Last Day of Linaro Connect 2014
+author: jennifer.castelino
+description: Overview of what took place on the Friday of Linaro Connect USA 2014.
+  Links to presentations, videos and session descriptions are included in the blog
+  as well as photos of the weeks activities
+layout: post
+link: "/blog/last-day-linaro-connect-2014/"
 wordpress_id: 6715
 ---
 

@@ -1,12 +1,8 @@
 ---
-author: linaro
+title: Linaro 15.02 Release Available for Download
+date: 2015-02-26 20:29:14 Z
 categories:
 - blog
-date: 2015-02-26 20:29:14
-description: The Linaro 15.02 release is now available for immediate download.
-layout: post
-link: /blog/linaro-15-02-release-available-download/
-slug: linaro-15-02-release-available-download
 tags:
 - Releases
 - Linaro
@@ -15,7 +11,10 @@ tags:
 - Opensource
 - release
 - release cycle
-title: Linaro 15.02 Release Available for Download
+author: linaro
+description: The Linaro 15.02 release is now available for immediate download.
+layout: post
+link: "/blog/linaro-15-02-release-available-download/"
 wordpress_id: 8212
 ---
 

@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Open Collaboration...is Key! Linaro Connect Day 2
+date: 2013-03-04 23:56:43 Z
 categories:
 - blog
-date: 2013-03-04 23:56:43
+tags:
+- Community
+- Connect Events
+- Hangouts on Air
+author: linaro
 description: Linaro Connect Asia session highlights from day 1 and what people can
   expect to particpate in on day 2
 keywords: Linux, ARM, Linux on ARM, Linaro Connect. Linaro Connect Asia 2013, LCA13,
   George Grey, Jon Corbet, LWN, Open Collaboration
 layout: post
-link: /blog/community-blog/open-collaboration-is-key-linaro-connect-day-2/
-slug: open-collaboration-is-key-linaro-connect-day-2
-tags:
-- Community
-- Connect Events
-- Hangouts on Air
-title: Open Collaboration...is Key! Linaro Connect Day 2
+link: "/blog/community-blog/open-collaboration-is-key-linaro-connect-day-2/"
 wordpress_id: 2528
 ---
 

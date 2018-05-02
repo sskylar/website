@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Linaro Sweetens Cotton Candy's Success
+date: 2012-02-29 22:48:01 Z
 categories:
 - blog
-date: 2012-02-29 22:48:01
+tags:
+- Community
+- Hardwares
+- Industry
+author: linaro
 description: FXI Technologies, is now accepting pre-orders for its USB sized, any
   screen, Linaro LEB based cloud computer--Cotton Candy.
 keywords: Linaro, Linux on ARM, Android, Ubuntu, Cotton Candy, FXI Technologies, Hardware
   Origen, Samsung
 layout: post
-link: /blog/industry-blog/linaro-sweetens-cotton-candys-success/
-slug: linaro-sweetens-cotton-candys-success
-tags:
-- Community
-- Hardwares
-- Industry
-title: Linaro Sweetens Cotton Candy's Success
+link: "/blog/industry-blog/linaro-sweetens-cotton-candys-success/"
 wordpress_id: 1311
 ---
 

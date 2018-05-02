@@ -1,14 +1,8 @@
 ---
-author: linaro
+title: Linaro 15.03 Release Available for Download
+date: 2015-03-26 16:39:44 Z
 categories:
 - blog
-date: 2015-03-26 16:39:44
-description: Linaro's 15.03 release is not available for download. See the detailed
-  highlights of this release and an overview of what has been accomplished by each
-  team along with all available software downloads.
-layout: post
-link: /blog/linaro-15-03-release-available-for-download/
-slug: linaro-15-03-release-available-for-download
 tags:
 - android
 - ARMv8
@@ -22,7 +16,12 @@ tags:
 - release
 - software
 - ubuntu
-title: Linaro 15.03 Release Available for Download
+author: linaro
+description: Linaro's 15.03 release is not available for download. See the detailed
+  highlights of this release and an overview of what has been accomplished by each
+  team along with all available software downloads.
+layout: post
+link: "/blog/linaro-15-03-release-available-for-download/"
 wordpress_id: 8363
 ---
 

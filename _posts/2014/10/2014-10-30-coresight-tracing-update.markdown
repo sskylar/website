@@ -1,25 +1,23 @@
 ---
-author: mathieu.poirier
+title: 'Coresight: Tracing the Update'
+date: 2014-10-30 14:33:00 Z
 categories:
 - blog
-comments: true
-date: 2014-10-30 14:33:00
-description: "A lot of exciting things have happened in the world of ARM\xC2\xAE Coresight\xE2\x84\xA2
-  since our first blog post a few months ago. Good progress was achieved on several
-  fronts"
-excerpt: "A lot of exciting things have happened in the world of ARM\xAE Coresight\u2122
-  since our first blog post a few months ago. Good progress was achieved on several
-  fronts and we thought an update was in order to keep readers informed on the latest
-  developments."
-layout: post
-link: /blog/core-dump/coresight-tracing-update/
-slug: coresight-tracing-update
 tags:
 - Core Dump
 - arm
 - CoreSight
 - kernel
-title: 'Coresight: Tracing the Update'
+author: mathieu.poirier
+comments: true
+description: "A lot of exciting things have happened in the world of ARMÂ® Coresightâ\x84¢
+  since our first blog post a few months ago. Good progress was achieved on several
+  fronts"
+excerpt: A lot of exciting things have happened in the world of ARM® Coresight™ since
+  our first blog post a few months ago. Good progress was achieved on several fronts
+  and we thought an update was in order to keep readers informed on the latest developments.
+layout: post
+link: "/blog/core-dump/coresight-tracing-update/"
 wordpress_id: 7171
 ---
 

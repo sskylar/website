@@ -1,14 +1,8 @@
 ---
-author: linaro
+title: Linaro 16.07 Release Available for Download
+date: 2016-07-28 20:25:45 Z
 categories:
 - blog
-date: 2016-07-28 20:25:45
-description: Linaro 16.07 release is now available for download. See the detailed
-  highlights of this release to get an overview of what has been accomplished by the
-  Working Groups, Landing Teams and Platform Teams.
-layout: post
-link: /blog/linaro-16-07-release-available-for-download/
-slug: linaro-16-07-release-available-for-download
 tags:
 - Releases
 - android
@@ -26,7 +20,12 @@ tags:
 - release cycle
 - software
 - ubuntu
-title: Linaro 16.07 Release Available for Download
+author: linaro
+description: Linaro 16.07 release is now available for download. See the detailed
+  highlights of this release to get an overview of what has been accomplished by the
+  Working Groups, Landing Teams and Platform Teams.
+layout: post
+link: "/blog/linaro-16-07-release-available-for-download/"
 wordpress_id: 11296
 ---
 

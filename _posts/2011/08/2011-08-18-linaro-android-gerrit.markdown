@@ -1,17 +1,16 @@
 ---
-author: paul.sokolovsky
-date: 2011-08-18 13:45:45+00:00
-layout: post
-link: /blog/linaro-android-gerrit/
-slug: linaro-android-gerrit
 title: Linaro Android codebase migrated to Gerrit (location changed!)
-wordpress_id: 4122
+date: 2011-08-18 13:45:45 Z
 categories:
 - blog
 tags:
 - android
 - gerrit
 - migration
+author: paul.sokolovsky
+layout: post
+link: "/blog/linaro-android-gerrit/"
+wordpress_id: 4122
 ---
 
 At the end of last week, we started final stage of Linaro Android migration to Gerrit. If you keep an eye on our trees, that's the first thing you should know about the migration:

@@ -1,11 +1,6 @@
 ---
-author: paul.sokolovsky
-date: 2011-12-01 14:16:58+00:00
-layout: post
-link: /blog/android-blog/improving-performance-of-linaro-android-build-service/
-slug: improving-performance-of-linaro-android-build-service
 title: Improving Performance of Linaro Android Build Service
-wordpress_id: 979
+date: 2011-12-01 14:16:58 Z
 categories:
 - blog
 tags:
@@ -13,6 +8,10 @@ tags:
 - android
 - infrastructure
 - tools
+author: paul.sokolovsky
+layout: post
+link: "/blog/android-blog/improving-performance-of-linaro-android-build-service/"
+wordpress_id: 979
 ---
 
 [Linaro Android Build Service]()https://android-build.linaro.org/ (please bear with SSL issues - it is still officially in beta) is a place where you can get any downloads related to Linaro Android - monthly releases, daily builds for specific boards, and engineers' personal builds while they work on specific features.

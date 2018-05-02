@@ -1,11 +1,6 @@
 ---
-author: deepak.saxena
-date: 2011-11-09 03:32:14+00:00
-layout: post
-link: /blog/connect-update/kernel-working-group-a-linaro-connect-retrospective/
-slug: kernel-working-group-a-linaro-connect-retrospective
 title: Kernel Working Group - A Linaro Connect Retrospective
-wordpress_id: 830
+date: 2011-11-09 03:32:14 Z
 categories:
 - blog
 tags:
@@ -15,6 +10,10 @@ tags:
 - kernel
 - lava
 - Linux
+author: deepak.saxena
+layout: post
+link: "/blog/connect-update/kernel-working-group-a-linaro-connect-retrospective/"
+wordpress_id: 830
 ---
 
 Linaro's Kernel Working Group had a productive week at[ Linaro Connect Q4.11](http://connect.linaro.org/resources/) in Orlando, co-located with the[ Ubuntu Developer's Summit](http://uds.ubuntu.com/).   The primary theme of the week was Upstreaming, focusing on next steps  to get new technologies upstream, assuring the quality of upstream  kernels on ARM platforms, developing new features, and continuing the  work of consolidating code across various SOCs.

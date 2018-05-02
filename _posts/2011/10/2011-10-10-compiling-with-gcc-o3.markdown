@@ -1,17 +1,16 @@
 ---
-author: linaro
+title: Compiling with gcc -O3
+date: 2011-10-10 22:18:34 Z
 categories:
 - blog
-date: 2011-10-10 22:18:34
+tags:
+- Community
+author: linaro
 description: Discussion of Linaro toolchain working group focus, and the enablement
   of -O3 flag
 keywords: Linaro, ARM, Linux on ARM, ARM Linux, gcc-o3, ARM SOCs, Linux, Kernel
 layout: post
-link: /blog/community-blog/compiling-with-gcc-o3/
-slug: compiling-with-gcc-o3
-tags:
-- Community
-title: Compiling with gcc -O3
+link: "/blog/community-blog/compiling-with-gcc-o3/"
 wordpress_id: 598
 ---
 

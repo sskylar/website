@@ -1,19 +1,18 @@
 ---
-author: david.rusling
+title: big.LITTLE Technology - Two Usage Models
+date: 2011-12-15 23:26:18 Z
 categories:
 - blog
-date: 2011-12-15 23:26:18
+tags:
+- Hardware
+author: david.rusling
 description: Discussion on the big.LITTLE technology announced by ARM in October and
   the two usage models.
 keywords: Linaro, linux kernel, ARM Linux, Linux, tools, kernel, linux on ARM, open
   source, software, distribution, philosophy, ARM, kernel linux, linux software, ARM
   Cortex-A9, Cortex, Android, Ubuntu, big.LITTLE
 layout: post
-link: /blog/hardware-update/big-little-technology-two-usage-models/
-slug: big-little-technology-two-usage-models
-tags:
-- Hardware
-title: big.LITTLE Technology - Two Usage Models
+link: "/blog/hardware-update/big-little-technology-two-usage-models/"
 wordpress_id: 1077
 ---
 

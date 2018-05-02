@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2016-05-18 19:29:37+00:00
-layout: post
-link: /blog/linaro-lemaker-oscon-showcase-hikey/
-slug: linaro-lemaker-oscon-showcase-hikey
 title: Linaro and Lemaker at OSCON to showcase HiKey
-wordpress_id: 10627
+date: 2016-05-18 19:29:37 Z
 categories:
 - blog
 tags:
@@ -14,6 +9,10 @@ tags:
 - HiKey
 - LeMaker
 - ubuntu
+author: linaro
+layout: post
+link: "/blog/linaro-lemaker-oscon-showcase-hikey/"
+wordpress_id: 10627
 ---
 
 The [HiKey Lemaker edition powered by Huawei Kirin620 SoC](http://www.lemaker.org/blog-news-23.html) is now available with Ubuntu Core thanks to the collaboration of Canonical, Huawei and Lemaker. The enablement of Ubuntu Core makes this board the first 64-bit octa-core A53 ARMv8 community development board compatible with Linaro’s 96Boards CE specification.

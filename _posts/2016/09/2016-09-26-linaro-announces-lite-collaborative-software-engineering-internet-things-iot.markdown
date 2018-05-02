@@ -1,12 +1,9 @@
 ---
-author: linaro
+title: Linaro Announces LITE - Collaborative Software Engineering for the Internet
+  of Things (IoT)
+date: 2016-09-26 18:11:36 Z
 categories:
 - News
-date: 2016-09-26 18:11:36
-description: Cambridge, UK; 26 September 2016
-layout: post
-link: /news/linaro-announces-lite-collaborative-software-engineering-internet-things-iot/
-slug: linaro-announces-lite-collaborative-software-engineering-internet-things-iot
 tags:
 - IoT
 - Linaro
@@ -16,8 +13,10 @@ tags:
 - LITE
 - Open Source
 - Opensource
-title: Linaro Announces LITE - Collaborative Software Engineering for the Internet
-  of Things (IoT)
+author: linaro
+description: Cambridge, UK; 26 September 2016
+layout: post
+link: "/news/linaro-announces-lite-collaborative-software-engineering-internet-things-iot/"
 wordpress_id: 11666
 ---
 

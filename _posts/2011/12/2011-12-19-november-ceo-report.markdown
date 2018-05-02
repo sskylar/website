@@ -1,19 +1,18 @@
 ---
-author: george.grey
+title: November CEO Report
+date: 2011-12-19 04:38:37 Z
 categories:
 - blog
-date: 2011-12-19 04:38:37
+tags:
+- Industry
+author: george.grey
 description: Discussion on where Linaro is going and the roadmap they have built that
   will benefit their members.
 keywords: Linaro, linux kernel, ARM Linux, Linux, tools, kernel, linux on ARM, open
   source, software, distribution, philosophy, ARM, kernel linux, linux software, ARM
   Cortex-A9, Cortex, Android, Ubuntu
 layout: post
-link: /blog/industry-blog/november-ceo-report/
-slug: november-ceo-report
-tags:
-- Industry
-title: November CEO Report
+link: "/blog/industry-blog/november-ceo-report/"
 wordpress_id: 1086
 ---
 

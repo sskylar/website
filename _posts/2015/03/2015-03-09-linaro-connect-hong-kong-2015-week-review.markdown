@@ -1,16 +1,8 @@
 ---
-author: linaro
+title: Linaro Connect Hong Kong 2015- week in review
+date: 2015-03-09 19:14:22 Z
 categories:
 - blog
-date: 2015-03-09 19:14:22
-description: Overview of the week of Linaro Connect Hong Kong 2015 including keynotes,
-  theme days, demos and awards that took place during the week.
-excerpt: Linaro Connect Hong Kong 2015 (HKG15), which took place February 9-13, 2015
-  in Hong Kong, China was an amazing week with over 400 attendees and many keynotes,
-  sessions and demos for attendees to enjoy.
-layout: post
-link: /blog/linaro-connect-hong-kong-2015-week-review/
-slug: linaro-connect-hong-kong-2015-week-review
 tags:
 - connect
 - Connect Events
@@ -19,7 +11,14 @@ tags:
 - Linux
 - Linux on ARM
 - Open Source
-title: Linaro Connect Hong Kong 2015- week in review
+author: linaro
+description: Overview of the week of Linaro Connect Hong Kong 2015 including keynotes,
+  theme days, demos and awards that took place during the week.
+excerpt: Linaro Connect Hong Kong 2015 (HKG15), which took place February 9-13, 2015
+  in Hong Kong, China was an amazing week with over 400 attendees and many keynotes,
+  sessions and demos for attendees to enjoy.
+layout: post
+link: "/blog/linaro-connect-hong-kong-2015-week-review/"
 wordpress_id: 8250
 ---
 

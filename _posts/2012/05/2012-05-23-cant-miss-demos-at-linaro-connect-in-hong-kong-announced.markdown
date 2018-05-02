@@ -1,22 +1,21 @@
 ---
-author: linaro
+title: Can't Miss Demos at Linaro Connect in Hong Kong Announced
+date: 2012-05-23 14:26:03 Z
 categories:
 - blog
-date: 2012-05-23 14:26:03
-description: The list of demos being offered at the Q2.12 Linaro Connect event in
-  Hong Kong during the Demo Friday event on 1 June 2012 is now available.
-keywords: Linaro, Linux on ARM, Linaro Connect, Q2.12, developers, Hong Kong, Gold
-  Coast Hotel, May, June, Demo Friday, Demos
-layout: post
-link: /blog/industry-blog/cant-miss-demos-at-linaro-connect-in-hong-kong-announced/
-slug: cant-miss-demos-at-linaro-connect-in-hong-kong-announced
 tags:
 - Android
 - Community
 - Connect Events
 - Hardware
 - Industry
-title: Can't Miss Demos at Linaro Connect in Hong Kong Announced
+author: linaro
+description: The list of demos being offered at the Q2.12 Linaro Connect event in
+  Hong Kong during the Demo Friday event on 1 June 2012 is now available.
+keywords: Linaro, Linux on ARM, Linaro Connect, Q2.12, developers, Hong Kong, Gold
+  Coast Hotel, May, June, Demo Friday, Demos
+layout: post
+link: "/blog/industry-blog/cant-miss-demos-at-linaro-connect-in-hong-kong-announced/"
 wordpress_id: 1643
 ---
 

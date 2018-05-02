@@ -1,12 +1,8 @@
 ---
-author: bill.fischofer
+title: OpenDataPlane Project Up and Running
+date: 2014-02-10 19:17:33 Z
 categories:
 - blog
-date: 2014-02-10 19:17:33
-description: Update on the status of the OpenDataPlane project since it was annoounced
-layout: post
-link: /blog/opendataplane-project-up-and-running/
-slug: opendataplane-project-up-and-running
 tags:
 - arm
 - Linaro
@@ -16,7 +12,10 @@ tags:
 - ODP
 - Open data plane
 - OpenDataPlane
-title: OpenDataPlane Project Up and Running
+author: bill.fischofer
+description: Update on the status of the OpenDataPlane project since it was annoounced
+layout: post
+link: "/blog/opendataplane-project-up-and-running/"
 wordpress_id: 3371
 ---
 

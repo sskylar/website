@@ -1,18 +1,8 @@
 ---
-author: linaro
+title: Linaro 16.06 Release Available for Download
+date: 2016-07-06 16:48:57 Z
 categories:
 - blog
-date: 2016-07-06 16:48:57
-description: Linaro's 16.06 release is now available for download. See the detailed
-  highlights of this release and an overview of what has been accomplished by each
-  team along with all available software downloads.
-excerpt: Linaro's 16.06 release is now available for download. See the detailed highlights
-  of this release and an overview of what has been accomplished by each team along
-  with all available software downloads.
-keywords: Linaro
-layout: post
-link: /blog/linaro-16-06-release-available-for-download/
-slug: linaro-16-06-release-available-for-download
 tags:
 - Releases
 - android
@@ -25,7 +15,16 @@ tags:
 - Open Source
 - release
 - release cycle
-title: Linaro 16.06 Release Available for Download
+author: linaro
+description: Linaro's 16.06 release is now available for download. See the detailed
+  highlights of this release and an overview of what has been accomplished by each
+  team along with all available software downloads.
+excerpt: Linaro's 16.06 release is now available for download. See the detailed highlights
+  of this release and an overview of what has been accomplished by each team along
+  with all available software downloads.
+keywords: Linaro
+layout: post
+link: "/blog/linaro-16-06-release-available-for-download/"
 wordpress_id: 11122
 ---
 

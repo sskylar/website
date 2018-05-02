@@ -1,14 +1,13 @@
 ---
-author: jennifer.castelino
+title: How to make a positive difference in a FOSS project
+date: 2012-03-01 20:53:43 Z
 categories:
 - blog
-date: 2012-03-01 20:53:43
+author: jennifer.castelino
 description: Blog on how to make a positive difference in a FOSS project. Includes
   information on how to participate and contribute to a FOSS project.
 layout: post
-link: /blog/make-positive-difference-foss-project/
-slug: make-positive-difference-foss-project
-title: How to make a positive difference in a FOSS project
+link: "/blog/make-positive-difference-foss-project/"
 wordpress_id: 4544
 ---
 

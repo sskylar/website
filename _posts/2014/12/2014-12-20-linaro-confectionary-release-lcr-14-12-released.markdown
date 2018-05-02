@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
-date: 2014-12-20 11:09:53+00:00
-layout: post
-link: /blog/linaro-confectionary-release-lcr-14-12-released/
-slug: linaro-confectionary-release-lcr-14-12-released
 title: Linaro Confectionary Release (LCR) 14.12 released
-wordpress_id: 7753
+date: 2014-12-20 11:09:53 Z
 categories:
 - blog
 tags:
 - Releases
+author: fathi.boudra
+layout: post
+link: "/blog/linaro-confectionary-release-lcr-14-12-released/"
+wordpress_id: 7753
 ---
 
 > "Any technology that does not appear magical is insufficiently advanced." ~ Gregory Benford

@@ -1,17 +1,16 @@
 ---
-author: kiko
+title: Multimedia on Linux
+date: 2011-07-15 16:01:50 Z
 categories:
 - blog
-date: 2011-07-15 16:01:50
+tags:
+- Industry
+author: kiko
 description: Discussion of Multimedia on Linux challenges and Linaro.org's work with
   Multimedia on Linux
 keywords: Linux, Linaro, Multimedia, OpenMax
 layout: post
-link: /blog/industry-blog/multimedia-on-linux/
-slug: multimedia-on-linux
-tags:
-- Industry
-title: Multimedia on Linux
+link: "/blog/industry-blog/multimedia-on-linux/"
 wordpress_id: 3393
 ---
 

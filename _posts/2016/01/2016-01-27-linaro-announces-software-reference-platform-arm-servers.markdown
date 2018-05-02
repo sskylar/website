@@ -1,15 +1,8 @@
 ---
-author: linaro
+title: Linaro announces Software Reference Platform for ARM servers
+date: 2016-01-27 14:00:24 Z
 categories:
 - News
-date: 2016-01-27 14:00:24
-description: Linaro announces a complete open source Software Reference Platform for
-  servers running on ARMv8-A processors.
-excerpt: Linaro announces a complete open source Software Reference Platform for servers
-  running on ARMv8-A processors.
-layout: post
-link: /news/linaro-announces-software-reference-platform-arm-servers/
-slug: linaro-announces-software-reference-platform-arm-servers
 tags:
 - LEG
 - Linaro
@@ -20,7 +13,13 @@ tags:
 - Open Source
 - Opensource
 - servers
-title: Linaro announces Software Reference Platform for ARM servers
+author: linaro
+description: Linaro announces a complete open source Software Reference Platform for
+  servers running on ARMv8-A processors.
+excerpt: Linaro announces a complete open source Software Reference Platform for servers
+  running on ARMv8-A processors.
+layout: post
+link: "/news/linaro-announces-software-reference-platform-arm-servers/"
 wordpress_id: 9936
 ---
 

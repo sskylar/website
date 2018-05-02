@@ -1,21 +1,20 @@
 ---
-author: andy.doan
+title: Ubuntu Rack Deployment within the ARMv8 Server Lab
+date: 2015-04-01 21:33:26 Z
 categories:
 - blog
-date: 2015-04-01 21:33:26
-description: "Part one of this series gave an overview of the ARMv8 Server Cluster.
-  This article deals with some of the challenges we faced with our \xE2\x80\x9Crack
-  1\xE2\x80\x9D Ubuntu systems."
-layout: post
-link: /blog/ubuntu-rack-deployment-within-the-armv8-server-lab/
-slug: ubuntu-rack-deployment-within-the-armv8-server-lab
 tags:
 - arm
 - ARMv8
 - Linux on ARM
 - Opensource
 - ubuntu
-title: Ubuntu Rack Deployment within the ARMv8 Server Lab
+author: andy.doan
+description: "Part one of this series gave an overview of the ARMv8 Server Cluster.
+  This article deals with some of the challenges we faced with our â\x80\x9Crack 1â\x80\x9D
+  Ubuntu systems."
+layout: post
+link: "/blog/ubuntu-rack-deployment-within-the-armv8-server-lab/"
 wordpress_id: 8419
 ---
 

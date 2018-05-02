@@ -1,13 +1,9 @@
 ---
-author: linaro
+title: FXI's Cotton Candy at CES Leverages Open Source Tools from Linaro for Rapid
+  Development
+date: 2012-01-11 19:37:08 Z
 categories:
 - blog
-date: 2012-01-11 19:37:08
-description: FXI's Cotton Candy at CES is proof of how Linaro can help a system vendor
-  rapidly develop a product that is running the latest Android ICS and Ubuntu.
-layout: post
-link: /blog/hardware-update/fxis-cotton-candy-at-ces-leverages-open-source-tools-from-linaro-for-rapid-development/
-slug: fxis-cotton-candy-at-ces-leverages-open-source-tools-from-linaro-for-rapid-development
 tags:
 - Android
 - Hardware
@@ -20,8 +16,11 @@ tags:
 - Linaro
 - Linux on ARM
 - ubuntu
-title: FXI's Cotton Candy at CES Leverages Open Source Tools from Linaro for Rapid
-  Development
+author: linaro
+description: FXI's Cotton Candy at CES is proof of how Linaro can help a system vendor
+  rapidly develop a product that is running the latest Android ICS and Ubuntu.
+layout: post
+link: "/blog/hardware-update/fxis-cotton-candy-at-ces-leverages-open-source-tools-from-linaro-for-rapid-development/"
 wordpress_id: 1148
 ---
 

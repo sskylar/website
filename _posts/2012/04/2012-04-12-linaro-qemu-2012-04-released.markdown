@@ -1,16 +1,15 @@
 ---
-author: fathi.boudra
+title: Linaro QEMU 2012.04 released
+date: 2012-04-12 12:45:50 Z
 categories:
 - blog
-date: 2012-04-12 12:45:50
+tags:
+- Releases
+author: fathi.boudra
 description: Announcement of the Linaro QEMU 2012.04 release. New features and known
   issues.
 layout: post
-link: /blog/releases-blog/linaro-qemu-2012-04-released/
-slug: linaro-qemu-2012-04-released
-tags:
-- Releases
-title: Linaro QEMU 2012.04 released
+link: "/blog/releases-blog/linaro-qemu-2012-04-released/"
 wordpress_id: 1546
 ---
 

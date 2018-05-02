@@ -1,12 +1,8 @@
 ---
-author: fathi.boudra
+title: Linaro 14.02 release is now available for download!
+date: 2014-02-27 16:20:39 Z
 categories:
 - blog
-date: 2014-02-27 16:20:39
-description: Information and links for the Linaro 14.02 release
-layout: post
-link: /blog/releases-blog/linaro-14-02-release-is-now-available-for-download/
-slug: linaro-14-02-release-is-now-available-for-download
 tags:
 - Releases
 - android
@@ -27,7 +23,10 @@ tags:
 - release cycle
 - software
 - toolchain
-title: Linaro 14.02 release is now available for download!
+author: fathi.boudra
+description: Information and links for the Linaro 14.02 release
+layout: post
+link: "/blog/releases-blog/linaro-14-02-release-is-now-available-for-download/"
 wordpress_id: 5054
 ---
 

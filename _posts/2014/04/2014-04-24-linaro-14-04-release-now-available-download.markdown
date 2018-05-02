@@ -1,13 +1,8 @@
 ---
-author: jennifer.castelino
+title: Linaro 14.04 Release Now Available for Download!
+date: 2014-04-24 19:06:07 Z
 categories:
 - blog
-date: 2014-04-24 19:06:07
-description: Linaro's 14.04 release - links to all the downloads available for this
-  release
-layout: post
-link: /blog/linaro-14-04-release-now-available-download/
-slug: linaro-14-04-release-now-available-download
 tags:
 - android
 - Evaluation builds
@@ -17,7 +12,11 @@ tags:
 - software
 - toolchain
 - ubuntu
-title: Linaro 14.04 Release Now Available for Download!
+author: jennifer.castelino
+description: Linaro's 14.04 release - links to all the downloads available for this
+  release
+layout: post
+link: "/blog/linaro-14-04-release-now-available-download/"
 wordpress_id: 5737
 ---
 

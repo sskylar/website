@@ -1,22 +1,21 @@
 ---
-author: baolin.wang
+title: Crypto Engine Framework
+date: 2016-02-24 00:03:51 Z
 categories:
 - blog
-date: 2016-02-24 00:03:51
-description: "Recently I got some patches introducing the crypto engine framework
-  merged into the crypto layer for v4.6, which are applied in Herbert Xu\xE2\x80\x99s
-  git..."
-keywords: Crypto Engine
-layout: post
-link: /blog/core-dump/crypto-engine-framework/
-slug: crypto-engine-framework
 tags:
 - Core Dump
 - crypto engine
 - kernel
 - Linux
 - Linux on ARM
-title: Crypto Engine Framework
+author: baolin.wang
+description: "Recently I got some patches introducing the crypto engine framework
+  merged into the crypto layer for v4.6, which are applied in Herbert Xuâ\x80\x99s
+  git..."
+keywords: Crypto Engine
+layout: post
+link: "/blog/core-dump/crypto-engine-framework/"
 wordpress_id: 9995
 ---
 

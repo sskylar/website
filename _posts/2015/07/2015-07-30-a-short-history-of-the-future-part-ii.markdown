@@ -1,16 +1,8 @@
 ---
-author: david.rusling
+title: A Short History of the Future - Part II
+date: 2015-07-30 21:57:38 Z
 categories:
 - blog
-comments: true
-date: 2015-07-30 21:57:38
-description: In the last episode, I talked about how Linaro got started and how the
-  mobile market matured. In this blog I write about how Linaro evolved.
-excerpt: In the last episode, I talked about how Linaro got started and how the mobile
-  market matured.   In this blog I write about how Linaro evolved.
-layout: post
-link: /blog/a-short-history-of-the-future-part-ii/
-slug: a-short-history-of-the-future-part-ii
 tags:
 - arm
 - connect
@@ -18,7 +10,14 @@ tags:
 - Linux
 - Linux on ARM
 - Opensource
-title: A Short History of the Future - Part II
+author: david.rusling
+comments: true
+description: In the last episode, I talked about how Linaro got started and how the
+  mobile market matured. In this blog I write about how Linaro evolved.
+excerpt: In the last episode, I talked about how Linaro got started and how the mobile
+  market matured.   In this blog I write about how Linaro evolved.
+layout: post
+link: "/blog/a-short-history-of-the-future-part-ii/"
 wordpress_id: 9107
 ---
 

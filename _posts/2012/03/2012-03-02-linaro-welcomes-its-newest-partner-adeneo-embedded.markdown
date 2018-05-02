@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Linaro Welcomes its Newest Partner--Adeneo Embedded
+date: 2012-03-02 22:35:11 Z
 categories:
 - blog
-date: 2012-03-02 22:35:11
+tags:
+- Android
+- Industry
+author: linaro
 description: Linaro welcomes Adeneo Embedded as its newest partner and who with current
   partners, members and community will continue to build the future of Linux on ARM!
 keywords: Linaro, Linux on Arm, Embedded Linux, Android, BSP, ARM, Adeno Embedded,
   Linaro Partner Program
 layout: post
-link: /blog/industry-blog/linaro-welcomes-its-newest-partner-adeneo-embedded/
-slug: linaro-welcomes-its-newest-partner-adeneo-embedded
-tags:
-- Android
-- Industry
-title: Linaro Welcomes its Newest Partner--Adeneo Embedded
+link: "/blog/industry-blog/linaro-welcomes-its-newest-partner-adeneo-embedded/"
 wordpress_id: 1341
 ---
 

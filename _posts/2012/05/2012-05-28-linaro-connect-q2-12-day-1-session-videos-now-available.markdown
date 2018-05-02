@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Linaro Connect Q2.12 Day 1 Session Videos Now Available
+date: 2012-05-28 09:29:07 Z
 categories:
 - blog
-date: 2012-05-28 09:29:07
-description: Day 1 Linaro Connect Q2.12 video'd sessions are now available online.
-keywords: Linaro Connect, Linaro, Linux On ARM, Open Source, Hong Kong, Sessions,
-  Hangouts, Day 1, Video
-layout: post
-link: /blog/industry-blog/linaro-connect-q2-12-day-1-session-videos-now-available/
-slug: linaro-connect-q2-12-day-1-session-videos-now-available
 tags:
 - Community
 - Connect Events
 - Industry
-title: Linaro Connect Q2.12 Day 1 Session Videos Now Available
+author: linaro
+description: Day 1 Linaro Connect Q2.12 video'd sessions are now available online.
+keywords: Linaro Connect, Linaro, Linux On ARM, Open Source, Hong Kong, Sessions,
+  Hangouts, Day 1, Video
+layout: post
+link: "/blog/industry-blog/linaro-connect-q2-12-day-1-session-videos-now-available/"
 wordpress_id: 1659
 ---
 

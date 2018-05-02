@@ -1,17 +1,16 @@
 ---
-author: george.grey
+title: June 2012 CEO Report
+date: 2012-07-02 20:50:43 Z
 categories:
 - blog
-date: 2012-07-02 20:50:43
-description: Overview on the lastest products that are supported by the ARM Ecosystem.
-keywords: Linaro, ARM, Linux on ARM, ARM Ecosystem, Biglittle, Cortex, Android, Jellybean
-layout: post
-link: /blog/industry-blog/june-2012-ceo-report/
-slug: june-2012-ceo-report
 tags:
 - Android
 - Industry
-title: June 2012 CEO Report
+author: george.grey
+description: Overview on the lastest products that are supported by the ARM Ecosystem.
+keywords: Linaro, ARM, Linux on ARM, ARM Ecosystem, Biglittle, Cortex, Android, Jellybean
+layout: post
+link: "/blog/industry-blog/june-2012-ceo-report/"
 wordpress_id: 1690
 ---
 

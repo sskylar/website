@@ -1,8 +1,10 @@
 ---
-author: linaro
+title: Industry Leaders Collaborate to Accelerate Software Ecosystem for ARM Servers,
+  and Join Linaro
+date: 2012-11-01 12:21:45 Z
 categories:
 - News
-date: 2012-11-01 12:21:45
+author: linaro
 description: AMD, AppliedMicro, Calxeda, Canonical, Cavium, Facebook, HP, Marvell
   and Red Hat join existing Linaro members ARM, HiSilicon, Samsung and ST-Ericsson
   to form new group focused on accelerating Linux development for ARM servers
@@ -10,10 +12,7 @@ excerpt: 'AMD, AppliedMicro, Calxeda, Canonical, Cavium, Facebook, HP, Marvell a
   Red Hat join existing Linaro members ARM, HiSilicon, Samsung and ST-Ericsson to
   form new group focused on accelerating Linux development for ARM servers '
 layout: post
-link: /news/industry-leaders-collaborate-to-accelerate-software-ecosystem-for-arm-servers-and-join-linaro/
-slug: industry-leaders-collaborate-to-accelerate-software-ecosystem-for-arm-servers-and-join-linaro
-title: Industry Leaders Collaborate to Accelerate Software Ecosystem for ARM Servers,
-  and Join Linaro
+link: "/news/industry-leaders-collaborate-to-accelerate-software-ecosystem-for-arm-servers-and-join-linaro/"
 wordpress_id: 4419
 ---
 

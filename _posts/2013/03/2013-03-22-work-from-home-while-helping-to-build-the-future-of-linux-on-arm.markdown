@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Work From Home While Helping to Build the Future of Linux on ARM
+date: 2013-03-22 15:02:29 Z
 categories:
 - blog
-date: 2013-03-22 15:02:29
+tags:
+- Community
+author: linaro
 description: Work from home, with an Open Source organization while helping to build
   the future of Linux on ARM. Career opportunities available at Linaro.
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Careers, Jobs, Worldwide,
   Work from Home
 layout: post
-link: /blog/community-blog/work-from-home-while-helping-to-build-the-future-of-linux-on-arm/
-slug: work-from-home-while-helping-to-build-the-future-of-linux-on-arm
-tags:
-- Community
-title: Work From Home While Helping to Build the Future of Linux on ARM
+link: "/blog/community-blog/work-from-home-while-helping-to-build-the-future-of-linux-on-arm/"
 wordpress_id: 2590
 ---
 

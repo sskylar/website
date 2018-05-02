@@ -1,13 +1,8 @@
 ---
-author: tony.mansson
+title: The Linaro Android Platform Team, Period Dec. 28 to Jan. 03
+date: 2012-01-05 14:37:14 Z
 categories:
 - blog
-date: 2012-01-05 14:37:14
-description: The Linaro Android Platform Team, Period Dec. 28 to Jan. 03
-keywords: Android Linaro
-layout: post
-link: /blog/android-blog/the-linaro-android-platform-team-period-dec-28-to-jan-03/
-slug: the-linaro-android-platform-team-period-dec-28-to-jan-03
 tags:
 - android
 - arm
@@ -15,7 +10,11 @@ tags:
 - board
 - embedded
 - Linaro
-title: The Linaro Android Platform Team, Period Dec. 28 to Jan. 03
+author: tony.mansson
+description: The Linaro Android Platform Team, Period Dec. 28 to Jan. 03
+keywords: Android Linaro
+layout: post
+link: "/blog/android-blog/the-linaro-android-platform-team-period-dec-28-to-jan-03/"
 wordpress_id: 1135
 ---
 

@@ -1,17 +1,23 @@
 ---
-author: david.rusling
-date: 2017-12-13 8:00:00+00:00
-layout: post
 title: The Arm Ecosystem in Automotive
+date: 2017-12-13 08:00:00 Z
 categories:
 - blog
-tags: Arm, Automotive, Ecosystem, Hardware, 96boards
+tags:
+- Arm,
+- Automotive,
+- Ecosystem,
+- Hardware,
+- 96boards
+author: david.rusling
+layout: post
 keywords: Arm, Automotive, Ecosystem, Hardware, 96boards
 image:
-    featured: true
-    path: /assets/images/blog/automotive-arm-ecosystem.png
-    name: automotive-arm-ecosystem.png
+  featured: true
+  path: "/assets/images/blog/automotive-arm-ecosystem.png"
+  name: automotive-arm-ecosystem.png
 ---
+
 <div class="col-md-8" markdown="1">
 
 # Automotive 

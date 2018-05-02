@@ -1,15 +1,14 @@
 ---
-author: george.grey
+title: October CEO Report
+date: 2011-11-01 14:45:07 Z
 categories:
 - blog
-date: 2011-11-01 14:45:07
+author: george.grey
 description: Discussion on the latest developments within Linaro
 keywords: Linaro, ARM, Linux kernel, Linux, kernel, ARM SOCs, opensource, ARM Cortex,
   big.LITTLE
 layout: post
-link: /blog/october-ceo-report/
-slug: october-ceo-report
-title: October CEO Report
+link: "/blog/october-ceo-report/"
 wordpress_id: 756
 ---
 

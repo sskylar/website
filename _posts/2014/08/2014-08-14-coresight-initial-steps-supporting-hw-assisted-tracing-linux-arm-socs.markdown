@@ -1,25 +1,24 @@
 ---
-author: mathieu.poirier
-comments: true
-date: 2014-08-14 07:46:40
-description: "Short introduction to the ARM\xC2\xAE CoreSight\xE2\x84\xA2 technology
-  and goes over the upstreaming effort currently ongoing at Linaro to provide a uniform
-  architecture across all platforms."
-excerpt: "This blog post gives a short introduction to the ARM\xAE CoreSight\u2122
-  technology and goes over the upstreaming effort currently ongoing at Linaro to provide
-  a uniform architecture across all platforms. "
-layout: post
-link: /blog/core-dump/coresight-initial-steps-supporting-hw-assisted-tracing-linux-arm-socs/
-slug: coresight-initial-steps-supporting-hw-assisted-tracing-linux-arm-socs
+title: 'CoreSight: Initial steps in supporting HW assisted tracing on Linux for ARM
+  SoCs'
+date: 2014-08-14 07:46:40 Z
+categories:
+- blog
 tags:
 - Core Dump
 - arm
-- CoreSight     
+- CoreSight
 - socs
-categories:
-  - blog
-title: 'CoreSight: Initial steps in supporting HW assisted tracing on Linux for ARM
-  SoCs'
+author: mathieu.poirier
+comments: true
+description: "Short introduction to the ARMÂ® CoreSightâ\x84¢ technology and goes
+  over the upstreaming effort currently ongoing at Linaro to provide a uniform architecture
+  across all platforms."
+excerpt: 'This blog post gives a short introduction to the ARM® CoreSight™ technology
+  and goes over the upstreaming effort currently ongoing at Linaro to provide a uniform
+  architecture across all platforms. '
+layout: post
+link: "/blog/core-dump/coresight-initial-steps-supporting-hw-assisted-tracing-linux-arm-socs/"
 wordpress_id: 6299
 ---
 

@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: View the Linaro 10.11 release webinar
+date: 2010-12-12 12:07:46 Z
 categories:
 - News
-date: 2010-12-12 12:07:46
+author: linaro
 description: CAMBRIDGE, UK - 12 DEC 2010
 layout: post
-link: /news/view-linaro-10-11-release-webinar/
-slug: view-linaro-10-11-release-webinar
-title: View the Linaro 10.11 release webinar
+link: "/news/view-linaro-10-11-release-webinar/"
 wordpress_id: 4405
 ---
 

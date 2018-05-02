@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: 'Linaro: Making Open Source Development Easier and Faster'
+date: 2010-08-24 11:51:24 Z
 categories:
 - News
-date: 2010-08-24 11:51:24
+author: linaro
 description: CAMBRIDGE, UK - 24 AUG 2010
 layout: post
-link: /news/linaro-making-open-source-development-easier-faster/
-slug: linaro-making-open-source-development-easier-faster
-title: 'Linaro: Making Open Source Development Easier and Faster'
+link: "/news/linaro-making-open-source-development-easier-faster/"
 wordpress_id: 4397
 ---
 

@@ -1,18 +1,8 @@
 ---
-author: linaro
+title: Linaro 15.12 Release Available for Download
+date: 2015-12-17 23:42:37 Z
 categories:
 - blog
-date: 2015-12-17 23:42:37
-description: Linaro's 15.12 release is now available for download. See the detailed
-  highlights of this release and an overview of what has been accomplished by each
-  team along with all available software downloads.
-excerpt: Linaro's 15.11 release is now available for download. See the detailed highlights
-  of this release and an overview of what has been accomplished by each team along
-  with all available software downloads.
-keywords: Linaro
-layout: post
-link: /blog/linaro-15-12-release-available-download/
-slug: linaro-15-12-release-available-download
 tags:
 - android
 - Releases
@@ -25,7 +15,16 @@ tags:
 - Open Source
 - release
 - release cycle
-title: Linaro 15.12 Release Available for Download
+author: linaro
+description: Linaro's 15.12 release is now available for download. See the detailed
+  highlights of this release and an overview of what has been accomplished by each
+  team along with all available software downloads.
+excerpt: Linaro's 15.11 release is now available for download. See the detailed highlights
+  of this release and an overview of what has been accomplished by each team along
+  with all available software downloads.
+keywords: Linaro
+layout: post
+link: "/blog/linaro-15-12-release-available-download/"
 wordpress_id: 9901
 ---
 

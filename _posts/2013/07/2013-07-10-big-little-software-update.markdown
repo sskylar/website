@@ -1,18 +1,17 @@
 ---
-author: george.grey
+title: big.LITTLE Software Update
+date: 2013-07-10 15:19:12 Z
 categories:
 - blog
-date: 2013-07-10 15:19:12
-description: "Progress report on Linaro\xE2\x80\x99s activities and plans for support
-  of ARM\xE2\x80\x99s big.LITTLE SoCs with Linux and Android software."
+tags:
+- Hardware
+author: george.grey
+description: "Progress report on Linaroâ\x80\x99s activities and plans for support
+  of ARMâ\x80\x99s big.LITTLE SoCs with Linux and Android software."
 keywords: Linaro, Linux on ARM, Linux, ARM, Open Source, big.LITTLE, Android, Cortex-A7,
   Cortex-A15, Kernel
 layout: post
-link: /blog/hardware-update/big-little-software-update/
-slug: big-little-software-update
-tags:
-- Hardware
-title: big.LITTLE Software Update
+link: "/blog/hardware-update/big-little-software-update/"
 wordpress_id: 2821
 ---
 

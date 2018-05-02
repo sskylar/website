@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro Q1 2011 Update
+date: 2011-01-21 12:09:37 Z
 categories:
 - News
-date: 2011-01-21 12:09:37
+author: linaro
 description: CAMBRIDGE, UK - 21 JAN 2011
 layout: post
-link: /news/linaro-q1-2011-update/
-slug: linaro-q1-2011-update
-title: Linaro Q1 2011 Update
+link: "/news/linaro-q1-2011-update/"
 wordpress_id: 4407
 ---
 

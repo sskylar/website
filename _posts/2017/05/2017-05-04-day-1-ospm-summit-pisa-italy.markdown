@@ -1,12 +1,8 @@
 ---
-author: mathieu.poirier
+title: Day 1 at the OSPM Summit Pisa, Italy
+date: 2017-05-04 13:28:57 Z
 categories:
 - blog
-date: 2017-05-04 13:28:57
-keywords: power management, scheduling disciplines
-layout: post
-link: /blog/core-dump/day-1-ospm-summit-pisa-italy/
-slug: day-1-ospm-summit-pisa-italy
 tags:
 - Core Dump
 - arm
@@ -15,7 +11,10 @@ tags:
 - PELT
 - power management
 - scheduling discplines
-title: Day 1 at the OSPM Summit Pisa, Italy
+author: mathieu.poirier
+keywords: power management, scheduling disciplines
+layout: post
+link: "/blog/core-dump/day-1-ospm-summit-pisa-italy/"
 wordpress_id: 12377
 ---
 

@@ -1,17 +1,16 @@
 ---
-author: george.grey
+title: December CEO Report
+date: 2012-01-10 20:08:30 Z
 categories:
 - blog
-date: 2012-01-10 20:08:30
+author: george.grey
 description: Linaro CEO report on the activities within Linaro and with their partners.
   Overview of the 2011 accomplishments.
 keywords: Linaro, linux kernel, ARM Linux, Linux, tools, kernel, linux on ARM, open
   source, software, distribution, philosophy, ARM, kernel linux, linux software, ARM
   Cortex-A9, Cortex, Android, Ubuntu
 layout: post
-link: /blog/december-ceo-report/
-slug: december-ceo-report
-title: December CEO Report
+link: "/blog/december-ceo-report/"
 wordpress_id: 1142
 ---
 

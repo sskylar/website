@@ -1,15 +1,14 @@
 ---
-author: tony.mansson
-date: 2011-12-08 18:22:02+00:00
-layout: post
-link: /blog/android-blog/the-linaro-android-platform-team-is-busy-as-always/
-slug: the-linaro-android-platform-team-is-busy-as-always
 title: The Linaro Android Platform Team is busy as always.
-wordpress_id: 1037
+date: 2011-12-08 18:22:02 Z
 categories:
 - blog
 tags:
 - Android
+author: tony.mansson
+layout: post
+link: "/blog/android-blog/the-linaro-android-platform-team-is-busy-as-always/"
+wordpress_id: 1037
 ---
 
 Here's what the Android Platform Team has been up to this week...

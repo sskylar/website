@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: 'LDS video: what is upstreaming?'
+date: 2011-06-06 21:56:19 Z
 categories:
 - blog
-date: 2011-06-06 21:56:19
-description: Video - Lee Jones - What is upstreaming and why should we bother? Linaro
-  Developer Summit, May 2011, Budapest.
-layout: post
-link: /blog/community-blog/lee-jones-mainstreaming-video/
-slug: lee-jones-mainstreaming-video
 tags:
 - Community
 - kernel
 - Linux
 - upstreaming
-title: 'LDS video: what is upstreaming?'
+author: linaro
+description: Video - Lee Jones - What is upstreaming and why should we bother? Linaro
+  Developer Summit, May 2011, Budapest.
+layout: post
+link: "/blog/community-blog/lee-jones-mainstreaming-video/"
 wordpress_id: 3388
 ---
 

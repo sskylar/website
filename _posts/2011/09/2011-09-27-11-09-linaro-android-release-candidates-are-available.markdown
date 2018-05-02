@@ -1,14 +1,13 @@
 ---
-author: zach.pfeffer
-date: 2011-09-27 19:40:48+00:00
-layout: post
-link: /blog/11-09-linaro-android-release-candidates-are-available/
-slug: 11-09-linaro-android-release-candidates-are-available
 title: 11.09 Linaro Android Release Candidates are Available
+date: 2011-09-27 19:40:48 Z
 categories:
 - blog
 tags:
 - Linaro Android 11.09 Release Candidate
+author: zach.pfeffer
+layout: post
+link: "/blog/11-09-linaro-android-release-candidates-are-available/"
 ---
 
 We've all been hard at work creating the best Linaro Android release yet!

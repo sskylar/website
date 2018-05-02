@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Linaro announces Alibaba Group as latest member
+date: 2015-04-02 11:57:14 Z
 categories:
 - News
-date: 2015-04-02 11:57:14
-description: Alibaba Group joins Linaro to accelerate development of software platforms
-  for ARM Powered servers
-layout: post
-link: /news/linaro-announces-alibaba-group-as-latest-member/
-slug: linaro-announces-alibaba-group-as-latest-member
 tags:
 - arm
 - ARMv8
 - LEG
 - Linaro
 - Linux on ARM
-title: Linaro announces Alibaba Group as latest member
+author: linaro
+description: Alibaba Group joins Linaro to accelerate development of software platforms
+  for ARM Powered servers
+layout: post
+link: "/news/linaro-announces-alibaba-group-as-latest-member/"
 wordpress_id: 8428
 ---
 

@@ -1,14 +1,14 @@
 ---
-author: zach.pfeffer
-date: 2012-08-11 01:09:45+00:00
-layout: post
-link: /blog/trying-linaro-jellybean-android-on-tis-panda-board/
-slug: trying-linaro-jellybean-android-on-tis-panda-board
 title: Trying Linaro Jellybean Android on TI's Panda board
-wordpress_id: 1826
+date: 2012-08-11 01:09:45 Z
 categories:
 - blog
+author: zach.pfeffer
+layout: post
+link: "/blog/trying-linaro-jellybean-android-on-tis-panda-board/"
+wordpress_id: 1826
 ---
+
 ## Overview
 
 This post takes you through trying a prebuilt build on a TI Panda and then reproducing that exact build from source.

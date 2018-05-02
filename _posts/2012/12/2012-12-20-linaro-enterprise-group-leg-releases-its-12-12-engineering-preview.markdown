@@ -1,8 +1,11 @@
 ---
-author: linaro
+title: Linaro Enterprise Group (LEG) Releases its 12.12 "Engineering Preview"
+date: 2012-12-20 21:50:47 Z
 categories:
 - blog
-date: 2012-12-20 21:50:47
+tags:
+- Releases
+author: linaro
 description: Linaro Enterprise Group (LEG) Meets Aggressive Release Goals - the 12.12
   "Engineering Preview" Release is Now Available
 keywords: Linaro, Linux on ARM, Linux, Open Source, ARM, Canonical, Red Hat, Fedora,
@@ -10,11 +13,7 @@ keywords: Linaro, Linux on ARM, Linux, Open Source, ARM, Canonical, Red Hat, Fed
   Compression Analysis, NUMA, HugePages, GRUB on ARM, Ubuntu 12.04 Server,Samsung,
   Arndale Board
 layout: post
-link: /blog/releases-blog/linaro-enterprise-group-leg-releases-its-12-12-engineering-preview/
-slug: linaro-enterprise-group-leg-releases-its-12-12-engineering-preview
-tags:
-- Releases
-title: Linaro Enterprise Group (LEG) Releases its 12.12 "Engineering Preview"
+link: "/blog/releases-blog/linaro-enterprise-group-leg-releases-its-12-12-engineering-preview/"
 wordpress_id: 2172
 ---
 

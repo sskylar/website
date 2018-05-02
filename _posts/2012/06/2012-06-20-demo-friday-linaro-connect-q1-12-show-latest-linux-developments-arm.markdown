@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Demo Friday at Linaro Connect Q1.12 to show latest Linux developments on ARM
+date: 2012-06-20 12:17:41 Z
 categories:
 - News
-date: 2012-06-20 12:17:41
+author: linaro
 description: CAMBRIDGE, UK - 20 JAN 2012
 layout: post
-link: /news/demo-friday-linaro-connect-q1-12-show-latest-linux-developments-arm/
-slug: demo-friday-linaro-connect-q1-12-show-latest-linux-developments-arm
-title: Demo Friday at Linaro Connect Q1.12 to show latest Linux developments on ARM
+link: "/news/demo-friday-linaro-connect-q1-12-show-latest-linux-developments-arm/"
 wordpress_id: 4414
 ---
 

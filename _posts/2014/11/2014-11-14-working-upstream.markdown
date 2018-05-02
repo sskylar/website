@@ -1,16 +1,8 @@
 ---
-author: daniel.lezcano
+title: 'What do we mean by working upstream: A long-term contributor''s view'
+date: 2014-11-14 17:25:07 Z
 categories:
 - blog
-comments: true
-date: 2014-11-14 17:25:07
-description: Daniel Lezcano a Long term upstream contributor's shares his experience
-  working upstream. He has been doing kernel development for more 10 years.
-excerpt: Daniel Lezcano a Long term upstream contributor's shares his experience working
-  upstream. He has been doing kernel development for more 10 years and currently maintaining
-  two subsystems of the Linux kernel.
-layout: post
-slug: working-upstream
 tags:
 - Core Dump
 - arm
@@ -19,7 +11,14 @@ tags:
 - Daniel Lezcano
 - kernel
 - upstream
-title: 'What do we mean by working upstream: A long-term contributor''s view'
+author: daniel.lezcano
+comments: true
+description: Daniel Lezcano a Long term upstream contributor's shares his experience
+  working upstream. He has been doing kernel development for more 10 years.
+excerpt: Daniel Lezcano a Long term upstream contributor's shares his experience working
+  upstream. He has been doing kernel development for more 10 years and currently maintaining
+  two subsystems of the Linux kernel.
+layout: post
 wordpress_id: 7196
 ---
 

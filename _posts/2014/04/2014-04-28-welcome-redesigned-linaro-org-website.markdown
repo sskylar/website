@@ -1,20 +1,19 @@
 ---
-author: jennifer.castelino
+title: Welcome to our redesigned Linaro.org website!
+date: 2014-04-28 14:34:21 Z
 categories:
 - blog
-date: 2014-04-28 14:34:21
-description: We are proud to announce the release of our newly redesigned website.
-  It has been redesigned to give you a more consolidated and easier to navigate site
-  to keep up with the latest activities taking place at Linaro.
-layout: post
-link: /blog/welcome-redesigned-linaro-org-website/
-slug: welcome-redesigned-linaro-org-website
 tags:
 - Linaro
 - Linaro Connect
 - Open Source
 - Opensource
-title: Welcome to our redesigned Linaro.org website!
+author: jennifer.castelino
+description: We are proud to announce the release of our newly redesigned website.
+  It has been redesigned to give you a more consolidated and easier to navigate site
+  to keep up with the latest activities taking place at Linaro.
+layout: post
+link: "/blog/welcome-redesigned-linaro-org-website/"
 wordpress_id: 5745
 ---
 

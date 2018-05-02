@@ -1,13 +1,8 @@
 ---
-author: jennifer.castelino
+title: LCU14 Tuesday Recap
+date: 2014-09-17 21:33:36 Z
 categories:
 - blog
-date: 2014-09-17 21:33:36
-description: Overview of the events that took place on Tuesday September 16, 2014
-  at Linaro Connect USA
-layout: post
-link: /blog/lcu14-tuesday-recap/
-slug: lcu14-tuesday-recap
 tags:
 - Connect Events
 - android
@@ -16,7 +11,6 @@ tags:
 - ARMv8
 - board
 - connect
-- Connect Events
 - embedded
 - Linaro
 - Linaro Connect
@@ -24,7 +18,11 @@ tags:
 - LSK
 - Opensource
 - toolchain
-title: LCU14 Tuesday Recap
+author: jennifer.castelino
+description: Overview of the events that took place on Tuesday September 16, 2014
+  at Linaro Connect USA
+layout: post
+link: "/blog/lcu14-tuesday-recap/"
 wordpress_id: 6698
 ---
 

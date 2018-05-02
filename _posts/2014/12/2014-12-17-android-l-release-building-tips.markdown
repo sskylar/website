@@ -1,15 +1,8 @@
 ---
-author: khasim.mohammed
+title: Android L release - building tips
+date: 2014-12-17 01:05:59 Z
 categories:
 - blog
-date: 2014-12-17 01:05:59
-description: "Linaro's experiences in successfully running Android on ARMv8 platforms
-  and the lessons learned. Michael Scott, one of Linaro\xE2\x80\x99s engineers focusing
-  on Android work has written a useful blog about his experience of getting it building
-  on his machines."
-layout: post
-link: /blog/android-l-release-building-tips/
-slug: android-l-release-building-tips
 tags:
 - Android
 - android
@@ -17,7 +10,13 @@ tags:
 - Linaro
 - Linux
 - Linux on ARM
-title: Android L release - building tips
+author: khasim.mohammed
+description: "Linaro's experiences in successfully running Android on ARMv8 platforms
+  and the lessons learned. Michael Scott, one of Linaroâ\x80\x99s engineers focusing
+  on Android work has written a useful blog about his experience of getting it building
+  on his machines."
+layout: post
+link: "/blog/android-l-release-building-tips/"
 wordpress_id: 7725
 ---
 

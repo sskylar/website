@@ -1,11 +1,6 @@
 ---
-author: david.long
-date: 2016-12-16 17:37:39+00:00
-layout: post
-link: /blog/kprobes-event-tracing-armv8/
-slug: kprobes-event-tracing-armv8
 title: Kprobes Event Tracing on ARMv8
-wordpress_id: 11979
+date: 2016-12-16 17:37:39 Z
 categories:
 - blog
 tags:
@@ -17,7 +12,12 @@ tags:
 - Kretprobes
 - Perf
 - Tracing
+author: david.long
+layout: post
+link: "/blog/kprobes-event-tracing-armv8/"
+wordpress_id: 11979
 ---
+
 {% include image.html name="core-dump.png" lightbox_disabled="True" alt="Core Dump Banner" %}
 
 

@@ -1,15 +1,14 @@
 ---
-author: david.zinman
+title: Linaro 12.02 Released
+date: 2012-02-23 19:23:18 Z
 categories:
 - blog
-date: 2012-02-23 19:23:18
-description: Links to all the downloads for the Linaro 12.02 release
-layout: post
-link: /blog/releases-blog/linaro-12-02-released/
-slug: linaro-12-02-released
 tags:
 - Releases
-title: Linaro 12.02 Released
+author: david.zinman
+description: Links to all the downloads for the Linaro 12.02 release
+layout: post
+link: "/blog/releases-blog/linaro-12-02-released/"
 wordpress_id: 1278
 ---
 

@@ -1,17 +1,16 @@
 ---
-author: linaro
+title: Switch to a WordPress blog - Planet Linaro available
+date: 2011-03-31 21:32:59 Z
 categories:
 - blog
-date: 2011-03-31 21:32:59
-description: Announcing the switch to WordPress 3.1 for this blog, and the availability
-  of Planet Linaro, to aggregate this blog to individual Linaro developer blogs.
-layout: post
-link: /blog/community-blog/wordpress-planet-linaro/
-slug: wordpress-planet-linaro
 tags:
 - Community
 - website
-title: Switch to a WordPress blog - Planet Linaro available
+author: linaro
+description: Announcing the switch to WordPress 3.1 for this blog, and the availability
+  of Planet Linaro, to aggregate this blog to individual Linaro developer blogs.
+layout: post
+link: "/blog/community-blog/wordpress-planet-linaro/"
 wordpress_id: 3377
 ---
 

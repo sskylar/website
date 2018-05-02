@@ -1,20 +1,20 @@
 ---
+title: VM System Specification for  ARM Processors
+date: 2014-09-01 10:47:53 Z
+categories:
+- blog
+tags:
+- white paper
 author: christoffer.dall
-date: 2014-09-01 10:47:53+00:00
 excerpt: The goal of this spec is to allow suitably-built OS images to run on all
   virtualization solutions for ARM processors, such as KVM or Xen. Recommendations
   in this spec are valid for AArch32 and AArch64 alike, and they aim to be hypervisor
   agnostic.
 layout: post
-link: /blog/vm-system-specification-arm-processors/
-slug: vm-system-specification-arm-processors
-title: VM System Specification for  ARM Processors
+link: "/blog/vm-system-specification-arm-processors/"
 wordpress_id: 6454
-categories:
-- blog
-tags:
-- white paper
 ---
+
 ## **VM System Specification for ARM Processors**
 
 Christoffer Dall, Virtualization Tech Lead

@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Using ARM low cost boards for displays
+date: 2011-08-05 15:04:54 Z
 categories:
 - blog
-date: 2011-08-05 15:04:54
-description: Linaro Matt Waddel shares his experience running desktop distributions
-  with Linaro software on development boards, for extended durations, and at a public
-  event
-layout: post
-link: /blog/hardware-update/low-cost-boards-displays/
-slug: low-cost-boards-displays
 tags:
 - Hardware
 - board
 - desktop
 - Linaro
-title: Using ARM low cost boards for displays
+author: linaro
+description: Linaro Matt Waddel shares his experience running desktop distributions
+  with Linaro software on development boards, for extended durations, and at a public
+  event
+layout: post
+link: "/blog/hardware-update/low-cost-boards-displays/"
 ---
 
 {% include image.html name="disp.jpg" alt="DISP" class="small-inline right" %}

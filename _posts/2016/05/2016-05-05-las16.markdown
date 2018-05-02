@@ -1,15 +1,14 @@
 ---
-author: linaro
-date: 2016-05-05 16:49:21+00:00
-layout: post
-link: /blog/las16/
-slug: las16
 title: LAS16 Connect Registration is now open
-wordpress_id: 10606
+date: 2016-05-05 16:49:21 Z
 categories:
 - blog
 tags:
 - las16
+author: linaro
+layout: post
+link: "/blog/las16/"
+wordpress_id: 10606
 ---
 
 We are pleased to announce that registration for [Linaro Connect Las Vegas 2016 (LAS16)](http://connect.linaro.org/attend/) - has opened. With five months to go there is still plenty of planning to do but the key dates and locations are:

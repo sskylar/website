@@ -1,18 +1,17 @@
 ---
-author: david.rusling
+title: Budapest LDS
+date: 2011-05-17 08:43:59 Z
 categories:
 - blog
-date: 2011-05-17 08:43:59
-description: Linaro Developer Summit - hard work but fun
-layout: post
-link: /blog/budapest-lds/
-slug: budapest-lds
 tags:
 - memory management
 - kernel
 - upsteaming
 - tsc
-title: Budapest LDS
+author: david.rusling
+description: Linaro Developer Summit - hard work but fun
+layout: post
+link: "/blog/budapest-lds/"
 wordpress_id: 3383
 work_tags:
 - tsc

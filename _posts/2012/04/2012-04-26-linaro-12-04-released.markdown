@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
+title: Linaro 12.04 released
+date: 2012-04-26 21:03:25 Z
 categories:
 - blog
-date: 2012-04-26 21:03:25
-description: Links to all the downloads for the Linaro 12.04 release
-layout: post
-link: /blog/releases-blog/linaro-12-04-released/
-slug: linaro-12-04-released
 tags:
 - Releases
-title: Linaro 12.04 released
+author: fathi.boudra
+description: Links to all the downloads for the Linaro 12.04 release
+layout: post
+link: "/blog/releases-blog/linaro-12-04-released/"
 wordpress_id: 1609
 ---
 

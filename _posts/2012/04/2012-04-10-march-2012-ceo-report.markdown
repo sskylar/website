@@ -1,17 +1,16 @@
 ---
-author: george.grey
+title: March 2012 CEO Report
+date: 2012-04-10 18:06:29 Z
 categories:
 - blog
-date: 2012-04-10 18:06:29
-description: "George Grey, our CEO, details the new Member-first strategy with Linaro\xE2\x80\x99s
+tags:
+- Industry
+author: george.grey
+description: "George Grey, our CEO, details the new Member-first strategy with Linaroâ\x80\x99s
   in-kernel big.LITTLE Switcher functionality"
 keywords: Linux, ARM, Linaro, big.LITTLE, kernel, ARM v8 architecture
 layout: post
-link: /blog/industry-blog/march-2012-ceo-report/
-slug: march-2012-ceo-report
-tags:
-- Industry
-title: March 2012 CEO Report
+link: "/blog/industry-blog/march-2012-ceo-report/"
 wordpress_id: 1528
 ---
 

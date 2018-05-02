@@ -1,18 +1,18 @@
 ---
-author: zach.pfeffer
-date: 2011-09-15 21:35:28+00:00
-layout: post
-link: /blog/switching-out-a-pre-built-android-images-kernel/
-slug: switching-out-a-pre-built-android-images-kernel
 title: Switching out a Pre-Built Android Image's Kernel
-wordpress_id: 4129
+date: 2011-09-15 21:35:28 Z
 categories:
 - blog
 tags:
 - Android
 - kernel
 - rebuild
+author: zach.pfeffer
+layout: post
+link: "/blog/switching-out-a-pre-built-android-images-kernel/"
+wordpress_id: 4129
 ---
+
 Many people just want to update the kernel of a pre-built Android build.
 
 

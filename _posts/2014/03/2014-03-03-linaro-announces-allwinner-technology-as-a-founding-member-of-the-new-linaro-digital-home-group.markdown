@@ -1,14 +1,13 @@
 ---
-author: linaro
-categories:
-- News
-date: 2014-03-03 12:05:03
-description: Allwinner Technology invests in open source community by joining Linaro
-layout: post
-link: /news/linaro-announces-allwinner-technology-as-a-founding-member-of-the-new-linaro-digital-home-group/
-slug: linaro-announces-allwinner-technology-as-a-founding-member-of-the-new-linaro-digital-home-group
 title: Linaro announces Allwinner Technology as a founding member of the new Linaro
   Digital Home Group
+date: 2014-03-03 12:05:03 Z
+categories:
+- News
+author: linaro
+description: Allwinner Technology invests in open source community by joining Linaro
+layout: post
+link: "/news/linaro-announces-allwinner-technology-as-a-founding-member-of-the-new-linaro-digital-home-group/"
 wordpress_id: 5061
 ---
 

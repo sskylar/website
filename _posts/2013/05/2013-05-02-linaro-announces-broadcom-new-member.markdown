@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro announces Broadcom as new member
+date: 2013-05-02 12:25:47 Z
 categories:
 - News
-date: 2013-05-02 12:25:47
+author: linaro
 description: CAMBRIDGE, UK - 2 MAY 2013
 layout: post
-link: /news/linaro-announces-broadcom-new-member/
-slug: linaro-announces-broadcom-new-member
-title: Linaro announces Broadcom as new member
+link: "/news/linaro-announces-broadcom-new-member/"
 wordpress_id: 4424
 ---
 

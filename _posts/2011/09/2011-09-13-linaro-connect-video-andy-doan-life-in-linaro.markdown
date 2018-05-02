@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Linaro Connect video - Andy Doan, Life in Linaro
+date: 2011-09-13 15:02:44 Z
 categories:
 - blog
-date: 2011-09-13 15:02:44
-description: Video from Linaro Connect - Andy Doan's Life in Linaro presentation.
-  Everything a new Linaro engineer or contributor needs to know to get started.
-layout: post
-link: /blog/community-blog/linaro-connect-video-andy-doan-life-in-linaro/
-slug: linaro-connect-video-andy-doan-life-in-linaro
 tags:
 - Community
 - Linaro Connect
 - technical resources
 - video
-title: Linaro Connect video - Andy Doan, Life in Linaro
+author: linaro
+description: Video from Linaro Connect - Andy Doan's Life in Linaro presentation.
+  Everything a new Linaro engineer or contributor needs to know to get started.
+layout: post
+link: "/blog/community-blog/linaro-connect-video-andy-doan-life-in-linaro/"
 wordpress_id: 4128
 ---
 

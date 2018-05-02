@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Linaro 12.11 Now Available
+date: 2012-11-29 16:45:41 Z
 categories:
 - blog
-date: 2012-11-29 16:45:41
+tags:
+- Releases
+author: linaro
 description: The Linaro 12.11 release is now available. Highlights, release notes
   and information on how to download Linaro 12.11 are available in this post.
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, Release,
   Announcement, 12.11, Ubuntu, Android, ARMv8, LEG,
 layout: post
-link: /blog/releases-blog/linaro-12-11-now-available/
-slug: linaro-12-11-now-available
-tags:
-- Releases
-title: Linaro 12.11 Now Available
+link: "/blog/releases-blog/linaro-12-11-now-available/"
 wordpress_id: 2041
 ---
 

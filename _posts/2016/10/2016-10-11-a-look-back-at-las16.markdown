@@ -1,17 +1,9 @@
 ---
-author: linaro
+title: A look back at LAS16
+date: 2016-10-11 20:34:00 Z
 categories:
 - blog
-date: 2016-10-11 20:34:00
-description: An overview of the activities that took place during the Linaro Connect
-  Las Vegas in September 2016.
-excerpt: A review of all the activities and session materials from the Linaro Connect
-  Las Vegas that took place in September 2016
-layout: post
-link: /blog/a-look-back-at-las16/
-slug: a-look-back-at-las16
 tags:
-- Connect Events
 - Connect Events
 - Linaro
 - Linaro Connect
@@ -19,7 +11,13 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: A look back at LAS16
+author: linaro
+description: An overview of the activities that took place during the Linaro Connect
+  Las Vegas in September 2016.
+excerpt: A review of all the activities and session materials from the Linaro Connect
+  Las Vegas that took place in September 2016
+layout: post
+link: "/blog/a-look-back-at-las16/"
 wordpress_id: 11749
 ---
 

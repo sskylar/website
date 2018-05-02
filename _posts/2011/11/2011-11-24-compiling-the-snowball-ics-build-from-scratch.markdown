@@ -1,13 +1,12 @@
 ---
-author: zach.pfeffer
-date: 2011-11-24 04:24:45+00:00
-layout: post
-link: /blog/compiling-the-snowball-ics-build-from-scratch/
-slug: compiling-the-snowball-ics-build-from-scratch
 title: Compiling the Snowball ICS Build from Scratch
-wordpress_id: 913
+date: 2011-11-24 04:24:45 Z
 categories:
 - blog
+author: zach.pfeffer
+layout: post
+link: "/blog/compiling-the-snowball-ics-build-from-scratch/"
+wordpress_id: 913
 ---
 
 ## What's better than flashy videos of Snowball running ICS?

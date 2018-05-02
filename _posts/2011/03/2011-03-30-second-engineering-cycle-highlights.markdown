@@ -1,18 +1,18 @@
 ---
-author: steve.taylor
-date: 2011-03-30 09:46:49+00:00
-layout: post
-link: /blog/second-engineering-cycle-highlights/
-slug: second-engineering-cycle-highlights
 title: Second Engineering Cycle Highlights
-wordpress_id: 3376
+date: 2011-03-30 09:46:49 Z
 categories:
 - blog
 tags:
 - Engineering cycle
 - Evaluation builds
 - Landing teams
+author: steve.taylor
+layout: post
+link: "/blog/second-engineering-cycle-highlights/"
+wordpress_id: 3376
 ---
+
 As we come to the end of our second engineering cycle, I thought it would be interesting to highlight some of the most significant initiatives happening in Linaro. I believe these four initiatives are having the biggest impact on how we are demonstrating Linaro delivering on its initial [mandate](/about/).
 
   * [Linaro Evaluation Builds (LEBs)](https://wiki.linaro.org/Platform/Android): We've had an almost universally positive reaction to the initiative we started this year - to deliver evaluation builds of popular OSS distributions on our Member's hardware. Our initial targets are Android and Ubuntu. The LEBs provide an integration point for Linaro Working Group output, delivered on a standard platform for the relevant OS. They will make it easier for the distributions to adopt Linaro software, reduce time to market for our Members through streamlined integration and validation of our Landing Team efforts, and mediate the flow of innovation between Linaro and each OSS distribution's engineering teams.

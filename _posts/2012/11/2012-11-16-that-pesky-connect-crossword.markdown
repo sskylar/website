@@ -1,11 +1,6 @@
 ---
-author: dave.pigott
-date: 2012-11-16 15:40:02+00:00
-layout: post
-link: /blog/that-pesky-connect-crossword/
-slug: that-pesky-connect-crossword
 title: That pesky Connect Crossword
-wordpress_id: 2002
+date: 2012-11-16 15:40:02 Z
 categories:
 - blog
 tags:
@@ -14,6 +9,10 @@ tags:
 - crossword
 - cryptic
 - Linaro
+author: dave.pigott
+layout: post
+link: "/blog/that-pesky-connect-crossword/"
+wordpress_id: 2002
 ---
 
 So, it all started when Arwen called across the office one day, "Hey Dave, you like solving crosswords. Is there any chance you could compile one as a competition for Connect in Copenhagen?"

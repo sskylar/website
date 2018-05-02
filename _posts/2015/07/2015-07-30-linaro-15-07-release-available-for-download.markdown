@@ -1,18 +1,8 @@
 ---
-author: shovan
+title: Linaro 15.07 Release Available for Download
+date: 2015-07-30 14:09:15 Z
 categories:
 - blog
-comments: true
-date: 2015-07-30 14:09:15
-description: Linaro's 15.07 release is now available for download. See the detailed
-  highlights of this release and an overview of what has been accomplished by each
-  team along with all available software downloads.
-excerpt: Linaro's 15.07 release is now available for download. See the detailed highlights
-  of this release and an overview of what has been accomplished by each team along
-  with all available software downloads.
-layout: post
-link: /blog/linaro-15-07-release-available-for-download/
-slug: linaro-15-07-release-available-for-download
 tags:
 - Releases
 - android
@@ -27,7 +17,16 @@ tags:
 - release cycle
 - software
 - ubuntu
-title: Linaro 15.07 Release Available for Download
+author: shovan
+comments: true
+description: Linaro's 15.07 release is now available for download. See the detailed
+  highlights of this release and an overview of what has been accomplished by each
+  team along with all available software downloads.
+excerpt: Linaro's 15.07 release is now available for download. See the detailed highlights
+  of this release and an overview of what has been accomplished by each team along
+  with all available software downloads.
+layout: post
+link: "/blog/linaro-15-07-release-available-for-download/"
 wordpress_id: 9088
 ---
 

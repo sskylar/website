@@ -1,13 +1,8 @@
 ---
-author: fathi.boudra
+title: Linaro 13.10 Released
+date: 2013-11-11 16:50:21 Z
 categories:
 - blog
-date: 2013-11-11 16:50:21
-description: Information on links to the 13.10 release
-keywords: linaro, ARM, Linux, Linux on ARM, opensource, releases, 13.10 release
-layout: post
-link: /blog/releases-blog/linaro-13-10-released/
-slug: linaro-13-10-released
 tags:
 - Releases
 - android
@@ -19,7 +14,11 @@ tags:
 - release
 - release cycle
 - software
-title: Linaro 13.10 Released
+author: fathi.boudra
+description: Information on links to the 13.10 release
+keywords: linaro, ARM, Linux, Linux on ARM, opensource, releases, 13.10 release
+layout: post
+link: "/blog/releases-blog/linaro-13-10-released/"
 wordpress_id: 3147
 ---
 

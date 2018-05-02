@@ -1,12 +1,9 @@
 ---
-author: shovan
+title: " Linaro Announces Keynote Speakers and Demos For Upcoming Linaro Connect Hong
+  Kong"
+date: 2015-01-22 16:50:47 Z
 categories:
 - News
-date: 2015-01-22 16:50:47
-description: "CAMBRIDGE, UK \xE2\x80\x93\xC2\_22 JANUARY 2015"
-layout: post
-link: /news/linaro-announces-keynote-speakers-demos-upcoming-linaro-connect-hong-kong/
-slug: linaro-announces-keynote-speakers-demos-upcoming-linaro-connect-hong-kong
 tags:
 - connect
 - Connect Events
@@ -14,8 +11,10 @@ tags:
 - Linaro
 - Linaro Connect
 - Linaro Connect Hong Kong 2015
-title: ' Linaro Announces Keynote Speakers and Demos For Upcoming Linaro Connect Hong
-  Kong'
+author: shovan
+description: "CAMBRIDGE, UK â\x80\x93Â 22 JANUARY 2015"
+layout: post
+link: "/news/linaro-announces-keynote-speakers-demos-upcoming-linaro-connect-hong-kong/"
 wordpress_id: 7799
 ---
 

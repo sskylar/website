@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: LG Electronics Joins Linaro
+date: 2012-10-26 12:19:55 Z
 categories:
 - News
-date: 2012-10-26 12:19:55
+author: linaro
 description: SEOUL, KOREA AND CAMBRIDGE, UK - 26 OCT 2012
 layout: post
-link: /news/lg-electronics-joins-linaro/
-slug: lg-electronics-joins-linaro
-title: LG Electronics Joins Linaro
+link: "/news/lg-electronics-joins-linaro/"
 wordpress_id: 4417
 ---
 

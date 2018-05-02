@@ -1,14 +1,14 @@
 ---
-author: linaro
-date: 2016-09-27 18:13:10+00:00
-layout: post
-link: /blog/monday-linaro-connect-las16/
-slug: monday-linaro-connect-las16
 title: Monday at Linaro Connect LAS16
-wordpress_id: 11682
+date: 2016-09-27 18:13:10 Z
 categories:
 - blog
+author: linaro
+layout: post
+link: "/blog/monday-linaro-connect-las16/"
+wordpress_id: 11682
 ---
+
 {% include image.html name="29320978813_72eac78d03_z.jpg" class="medium-inline right" %}
 
 Linaro Connect began today in Las Vegas and welcomed over 425 attendees making it one of the largest Linaro Connect events. Linaro Connect Las Vegas 2016 (LAS16) is a five-day event full of keynotes by industry leaders, talks, training, hacking and a lot of socializing fun. Linaro Connect brings together the best and the brightest of the Linux on ARM community and LAS16 was no exception.

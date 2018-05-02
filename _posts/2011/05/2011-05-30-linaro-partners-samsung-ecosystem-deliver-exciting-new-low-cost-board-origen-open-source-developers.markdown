@@ -1,14 +1,13 @@
 ---
-author: linaro
+title: Linaro partners with Samsung ecosystem to deliver exciting new low cost board
+  ‘Origen’ to Open Source developers
+date: 2011-05-30 12:12:47 Z
 categories:
 - News
-date: 2011-05-30 12:12:47
+author: linaro
 description: TAIPEI, TAIWAN - 30 MAY 2011
 layout: post
-link: /news/linaro-partners-samsung-ecosystem-deliver-exciting-new-low-cost-board-origen-open-source-developers/
-slug: linaro-partners-samsung-ecosystem-deliver-exciting-new-low-cost-board-origen-open-source-developers
-title: "Linaro partners with Samsung ecosystem to deliver exciting new low cost board
-  \u2018Origen\u2019 to Open Source developers"
+link: "/news/linaro-partners-samsung-ecosystem-deliver-exciting-new-low-cost-board-origen-open-source-developers/"
 wordpress_id: 4411
 ---
 

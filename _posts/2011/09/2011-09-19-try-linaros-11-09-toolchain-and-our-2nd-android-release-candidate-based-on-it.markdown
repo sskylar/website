@@ -1,21 +1,20 @@
 ---
-author: zach.pfeffer
+title: Try Linaro's 11.09 Toolchain and our 2nd Android Release Candidate Based on
+  It
+date: 2011-09-19 05:24:34 Z
 categories:
 - blog
-date: 2011-09-19 05:24:34
-description: Android builds for 6 boards supported by Linaro, built with the official
-  11.09 of the Linaro 4.6 toolchain.
-keywords: linaro,android,toolchain
-layout: post
-link: /blog/releases-blog/try-linaros-11-09-toolchain-and-our-2nd-android-release-candidate-based-on-it/
-slug: try-linaros-11-09-toolchain-and-our-2nd-android-release-candidate-based-on-it
 tags:
 - android
 - Releases
 - Linaro
 - toolchain
-title: Try Linaro's 11.09 Toolchain and our 2nd Android Release Candidate Based on
-  It
+author: zach.pfeffer
+description: Android builds for 6 boards supported by Linaro, built with the official
+  11.09 of the Linaro 4.6 toolchain.
+keywords: linaro,android,toolchain
+layout: post
+link: "/blog/releases-blog/try-linaros-11-09-toolchain-and-our-2nd-android-release-candidate-based-on-it/"
 wordpress_id: 530
 ---
 

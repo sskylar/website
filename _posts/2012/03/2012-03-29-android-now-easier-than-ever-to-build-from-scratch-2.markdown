@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Android Now Easier Than Ever To Build From Scratch
+date: 2012-03-29 20:37:41 Z
 categories:
 - blog
-date: 2012-03-29 20:37:41
+author: linaro
 description: How to build Android from scratch
 layout: post
-link: /blog/android-now-easier-than-ever-to-build-from-scratch-2/
-slug: android-now-easier-than-ever-to-build-from-scratch-2
-title: Android Now Easier Than Ever To Build From Scratch
+link: "/blog/android-now-easier-than-ever-to-build-from-scratch-2/"
 wordpress_id: 1463
 ---
 

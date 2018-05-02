@@ -1,16 +1,15 @@
 ---
-author: linaro
+title: ARM Landing Team Up and Running
+date: 2011-10-13 14:37:16 Z
 categories:
 - blog
-date: 2011-10-13 14:37:16
+tags:
+- Community
+author: linaro
 description: Introduction of the members and plans for the Linaro ARM Landing team
 keywords: Linaro, Linux, ARM, Linux ARM, kernel, ARM A5, ARM A9, Android, Ubuntu
 layout: post
-link: /blog/community-blog/arm-landing-team-up-and-running/
-slug: arm-landing-team-up-and-running
-tags:
-- Community
-title: ARM Landing Team Up and Running
+link: "/blog/community-blog/arm-landing-team-up-and-running/"
 wordpress_id: 670
 ---
 

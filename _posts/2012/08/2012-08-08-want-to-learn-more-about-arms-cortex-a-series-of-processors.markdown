@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Want to learn more about ARM’s Cortex-A series of processors?
+date: 2012-08-08 20:11:56 Z
 categories:
 - blog
-date: 2012-08-08 20:11:56
+tags:
+- Industry
+author: linaro
 description: "If you are looking for more information about the ARM Cortex-A series
-  of processors, the Cortex-A Series Programmer\xE2\x80\x99s Guide is the definitive
+  of processors, the Cortex-A Series Programmerâ\x80\x99s Guide is the definitive
   resource for software engineers to find tips on writing and optimizing software
   for ARM Cortex-A series processors."
 keywords: ARM, ARM Cortex-A, Cortex-A, ARMv7-A, ARM architecture, big.LITTLE, Linaro,
   Open source
 layout: post
-link: /blog/industry-blog/want-to-learn-more-about-arms-cortex-a-series-of-processors/
-slug: want-to-learn-more-about-arms-cortex-a-series-of-processors
-tags:
-- Industry
-title: "Want to learn more about ARM\u2019s Cortex-A series of processors?"
+link: "/blog/industry-blog/want-to-learn-more-about-arms-cortex-a-series-of-processors/"
 wordpress_id: 1762
 ---
 

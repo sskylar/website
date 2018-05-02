@@ -1,14 +1,13 @@
 ---
-author: george.grey
+title: August CEO report
+date: 2011-09-07 15:09:49 Z
 categories:
 - blog
-date: 2011-09-07 15:09:49
+author: george.grey
 description: Update on the latest news from Linaro
 keywords: Linaro, meego, Google, Mobile, Motorola, Web-os
 layout: post
-link: /blog/august-ceo-report/
-slug: august-ceo-report
-title: August CEO report
+link: "/blog/august-ceo-report/"
 wordpress_id: 4125
 ---
 

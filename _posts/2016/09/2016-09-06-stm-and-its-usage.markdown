@@ -1,17 +1,8 @@
 ---
-author: chunyan.zhang
+title: System Trace Module (STM) and its usage
+date: 2016-09-06 04:24:15 Z
 categories:
 - blog
-date: 2016-09-06 04:24:15
-description: Read about System Trace Module (STM) which can not only collect trace
-  data from software sources, but also monitor hardware events. Learn how to write
-  traces to STM and how many approaches to do this, etc.
-excerpt: Read about System Trace Module (STM) which can not only collect trace data
-  from software sources, but also monitor hardware events. Learn how to write traces
-  to STM and how many approaches to do this, etc.
-layout: post
-link: /blog/core-dump/stm-and-its-usage/
-slug: stm-and-its-usage
 tags:
 - Core Dump
 - CoreSight
@@ -22,7 +13,15 @@ tags:
 - openCSD
 - OpenCSD library
 - Opensource
-title: System Trace Module (STM) and its usage
+author: chunyan.zhang
+description: Read about System Trace Module (STM) which can not only collect trace
+  data from software sources, but also monitor hardware events. Learn how to write
+  traces to STM and how many approaches to do this, etc.
+excerpt: Read about System Trace Module (STM) which can not only collect trace data
+  from software sources, but also monitor hardware events. Learn how to write traces
+  to STM and how many approaches to do this, etc.
+layout: post
+link: "/blog/core-dump/stm-and-its-usage/"
 wordpress_id: 11549
 ---
 

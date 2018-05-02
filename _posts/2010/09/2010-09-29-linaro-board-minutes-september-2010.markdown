@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro Board minutes September 2010
+date: 2010-09-29 11:54:18 Z
 categories:
 - News
-date: 2010-09-29 11:54:18
+author: linaro
 description: CAMBRIDGE, UK - 29 SEP 2010
 layout: post
-link: /news/linaro-board-minutes-september-2010/
-slug: linaro-board-minutes-september-2010
-title: Linaro Board minutes September 2010
+link: "/news/linaro-board-minutes-september-2010/"
 wordpress_id: 4399
 ---
 

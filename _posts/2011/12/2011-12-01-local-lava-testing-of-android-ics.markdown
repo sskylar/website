@@ -1,20 +1,19 @@
 ---
-author: frans.gifford
+title: Local LAVA testing of Android ICS
+date: 2011-12-01 14:16:11 Z
 categories:
 - blog
-date: 2011-12-01 14:16:11
-description: HOWTO run LAVA Android tests on a local machine.
-keywords: LAVA, android, linaro, testing, howto
-layout: post
-link: /blog/lava-blog/local-lava-testing-of-android-ics/
-slug: local-lava-testing-of-android-ics
 tags:
 - Android
 - LAVA
 - android
 - lava
 - testing
-title: Local LAVA testing of Android ICS
+author: frans.gifford
+description: HOWTO run LAVA Android tests on a local machine.
+keywords: LAVA, android, linaro, testing, howto
+layout: post
+link: "/blog/lava-blog/local-lava-testing-of-android-ics/"
 wordpress_id: 986
 ---
 

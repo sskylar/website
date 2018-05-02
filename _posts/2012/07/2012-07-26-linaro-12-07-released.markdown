@@ -1,21 +1,20 @@
 ---
-author: linaro
+title: Linaro 12.07 Released
+date: 2012-07-26 17:22:56 Z
 categories:
 - blog
-date: 2012-07-26 17:22:56
+tags:
+- Releases
+author: linaro
 description: "Linaro announces the availability of its 12.07 release. This release
-  highlights the quality, effort and work of all the Linaro Teams \xE2\x80\x93 Working
-  Groups, Landing Teams and Platform Teams \xE2\x80\x93 who have provided all the
-  updates and new features that are integrated on top of Android and Ubuntu during
-  this release cycle."
+  highlights the quality, effort and work of all the Linaro Teams â\x80\x93 Working
+  Groups, Landing Teams and Platform Teams â\x80\x93 who have provided all the updates
+  and new features that are integrated on top of Android and Ubuntu during this release
+  cycle."
 keywords: Linaro, Linux On ARM, Open Source, ARM, 12.07, Release, Announcement, Ubuntu,
   Android
 layout: post
-link: /blog/releases-blog/linaro-12-07-released/
-slug: linaro-12-07-released
-tags:
-- Releases
-title: Linaro 12.07 Released
+link: "/blog/releases-blog/linaro-12-07-released/"
 wordpress_id: 1720
 ---
 

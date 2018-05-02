@@ -1,20 +1,19 @@
 ---
-author: david.mandala
+title: "ARMv8 Server Lab\t"
+date: 2015-03-25 14:17:50 Z
 categories:
 - blog
-date: 2015-03-25 14:17:50
-description: Overview of the process and challenges faced in setting up Linaro's ARMv8
-  server lab in Austin, Texas
-layout: post
-link: /blog/armv8-server-lab/
-slug: armv8-server-lab
 tags:
 - arm
 - ARMv8
 - ARMv8 server
 - Linux on ARM
 - server
-title: "ARMv8 Server Lab\t"
+author: david.mandala
+description: Overview of the process and challenges faced in setting up Linaro's ARMv8
+  server lab in Austin, Texas
+layout: post
+link: "/blog/armv8-server-lab/"
 wordpress_id: 8336
 ---
 

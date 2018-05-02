@@ -1,14 +1,13 @@
 ---
-author: linaro
+title: Linaro announces MediaTek as member
+date: 2014-03-17 14:05:49 Z
 categories:
 - News
-date: 2014-03-17 14:05:49
+author: linaro
 description: Wireless technology leader MediaTek builds on open source footprint by
   joining Linaro
 layout: post
-link: /news/linaro-announces-mediatek-member/
-slug: linaro-announces-mediatek-member
-title: Linaro announces MediaTek as member
+link: "/news/linaro-announces-mediatek-member/"
 wordpress_id: 5327
 ---
 

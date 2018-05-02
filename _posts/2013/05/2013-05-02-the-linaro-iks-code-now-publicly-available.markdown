@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
-date: 2013-05-02 05:51:27+00:00
-layout: post
-link: /blog/releases-blog/the-linaro-iks-code-now-publicly-available/
-slug: the-linaro-iks-code-now-publicly-available
 title: The Linaro IKS code now publicly available
-wordpress_id: 2674
+date: 2013-05-02 05:51:27 Z
 categories:
 - blog
 tags:
 - Releases
+author: fathi.boudra
+layout: post
+link: "/blog/releases-blog/the-linaro-iks-code-now-publicly-available/"
+wordpress_id: 2674
 ---
 
 We're delighted to announce that the Linaro Technical Steering Committee

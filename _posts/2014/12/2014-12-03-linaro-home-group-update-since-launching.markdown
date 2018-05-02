@@ -1,13 +1,8 @@
 ---
-author: mark.gregotski
+title: Linaro Home Group Update Since Launching
+date: 2014-12-03 23:51:32 Z
 categories:
 - blog
-date: 2014-12-03 23:51:32
-description: Overview of the activities and projects the Linaro Home Group has been
-  working on since the group announcement in May 2014
-layout: post
-link: /blog/linaro-home-group-update-since-launching/
-slug: linaro-home-group-update-since-launching
 tags:
 - android
 - ARMv8
@@ -17,7 +12,11 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: Linaro Home Group Update Since Launching
+author: mark.gregotski
+description: Overview of the activities and projects the Linaro Home Group has been
+  working on since the group announcement in May 2014
+layout: post
+link: "/blog/linaro-home-group-update-since-launching/"
 wordpress_id: 7602
 ---
 

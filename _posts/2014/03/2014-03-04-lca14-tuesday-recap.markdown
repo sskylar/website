@@ -1,12 +1,8 @@
 ---
-author: jennifer.castelino
+title: LCA14 - Tuesday Recap
+date: 2014-03-04 17:30:15 Z
 categories:
 - blog
-date: 2014-03-04 17:30:15
-description: Review of all the activities that took place on Tuesday of LCA14
-layout: post
-link: /blog/connect-update/lca14-tuesday-recap/
-slug: lca14-tuesday-recap
 tags:
 - conference
 - Connect Events
@@ -17,7 +13,10 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
-title: LCA14 - Tuesday Recap
+author: jennifer.castelino
+description: Review of all the activities that took place on Tuesday of LCA14
+layout: post
+link: "/blog/connect-update/lca14-tuesday-recap/"
 wordpress_id: 3470
 ---
 

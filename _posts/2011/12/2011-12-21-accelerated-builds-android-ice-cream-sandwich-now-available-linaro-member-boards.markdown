@@ -1,14 +1,13 @@
 ---
-author: linaro
-categories:
-- News
-date: 2011-12-21 12:14:19
-description: CAMBRIDGE, UK - 21 DEC 2011
-layout: post
-link: /news/accelerated-builds-android-ice-cream-sandwich-now-available-linaro-member-boards/
-slug: accelerated-builds-android-ice-cream-sandwich-now-available-linaro-member-boards
 title: Accelerated builds of Android Ice Cream Sandwich now available on Linaro member
   boards
+date: 2011-12-21 12:14:19 Z
+categories:
+- News
+author: linaro
+description: CAMBRIDGE, UK - 21 DEC 2011
+layout: post
+link: "/news/accelerated-builds-android-ice-cream-sandwich-now-available-linaro-member-boards/"
 wordpress_id: 4413
 ---
 

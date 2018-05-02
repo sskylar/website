@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: The Future of Linux on ARM Shines in the  3.7 Kernel
+date: 2012-12-14 16:57:30 Z
 categories:
 - blog
-date: 2012-12-14 16:57:30
+tags:
+- Community
+- Industry
+author: linaro
 description: The 3.7 Linux Kernel which was released earlier this week, includes many
   innovative new ARM focused features such as multi-platform, ARMv8(64-bit) and Xen
   in ARM support.
 keywords: Linaro, Linux on ARM, ARM, Open Source, Linux, Kernel, 3.7 Linux Kernel,
   LEG, Linaro Enterprise Group
 layout: post
-link: /blog/industry-blog/the-future-of-linux-on-arm-shines-in-the-3-7-kernel/
-slug: the-future-of-linux-on-arm-shines-in-the-3-7-kernel
-tags:
-- Community
-- Industry
-title: The Future of Linux on ARM Shines in the  3.7 Kernel
+link: "/blog/industry-blog/the-future-of-linux-on-arm-shines-in-the-3-7-kernel/"
 wordpress_id: 2105
 ---
 

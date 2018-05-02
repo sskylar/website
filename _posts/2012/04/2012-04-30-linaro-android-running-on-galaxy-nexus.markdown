@@ -1,17 +1,16 @@
 ---
-author: bernhard.rosenkranzer
+title: Linaro Android running on Galaxy Nexus
+date: 2012-04-30 18:11:42 Z
 categories:
 - blog
-date: 2012-04-30 18:11:42
-description: Instructions for building Linaro Android for the Galaxy Nexus target
-keywords: Linaro Android,Linaro,Android,ICS,Galaxy Nexus,Galaxy,Nexus
-layout: post
-link: /blog/community-blog/linaro-android-running-on-galaxy-nexus/
-slug: linaro-android-running-on-galaxy-nexus
 tags:
 - Android
 - Community
-title: Linaro Android running on Galaxy Nexus
+author: bernhard.rosenkranzer
+description: Instructions for building Linaro Android for the Galaxy Nexus target
+keywords: Linaro Android,Linaro,Android,ICS,Galaxy Nexus,Galaxy,Nexus
+layout: post
+link: "/blog/community-blog/linaro-android-running-on-galaxy-nexus/"
 wordpress_id: 1618
 ---
 

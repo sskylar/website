@@ -1,15 +1,14 @@
 ---
-author: linaro
+title: LAVA Deployment Improvements
+date: 2012-07-24 16:54:35 Z
 categories:
 - blog
-date: 2012-07-24 16:54:35
+author: linaro
 description: This article goes over the latest improvements to the LAVA deployment
   process
 keywords: LAVA lava-deployment-tool buildout
 layout: post
-link: /blog/lava-deployment-improvements/
-slug: lava-deployment-improvements
-title: LAVA Deployment Improvements
+link: "/blog/lava-deployment-improvements/"
 wordpress_id: 1701
 ---
 

@@ -1,14 +1,8 @@
 ---
-author: george.grey
+title: September CEO Report
+date: 2011-10-04 16:15:16 Z
 categories:
 - blog
-date: 2011-10-04 16:15:16
-description: Differentiation and a Single ARM Linux Kernel- discussion on consolidating
-  and optimizing Linux on ARM.
-keywords: ARM Linux, Linux ARM, kernel, Linaro, ARM fragmentation, SOCs, ARM SOCs,
-layout: post
-link: /blog/industry-blog/september-ceo-report/
-slug: september-ceo-report
 tags:
 - arm
 - Industry
@@ -16,7 +10,12 @@ tags:
 - kernel
 - Linaro
 - Linux
-title: September CEO Report
+author: george.grey
+description: Differentiation and a Single ARM Linux Kernel- discussion on consolidating
+  and optimizing Linux on ARM.
+keywords: ARM Linux, Linux ARM, kernel, Linaro, ARM fragmentation, SOCs, ARM SOCs,
+layout: post
+link: "/blog/industry-blog/september-ceo-report/"
 wordpress_id: 594
 ---
 

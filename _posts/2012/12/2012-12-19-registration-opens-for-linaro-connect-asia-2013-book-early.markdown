@@ -1,20 +1,19 @@
 ---
-author: linaro
+title: Registration Opens for Linaro Connect Asia 2013 - Book Early!
+date: 2012-12-19 17:21:08 Z
 categories:
 - blog
-date: 2012-12-19 17:21:08
+tags:
+- Community
+- Connect Events
+- Industry
+author: linaro
 description: Registration for Linaro Connect Asia 2013 scheduled to take place at
   the Gold Coast Hotel in Hong Kong on 4 - 8 March 2013 is now open.
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, LCA13-Hong
   Kong, Server Mini-Summit, Announce, Registration
 layout: post
-link: /blog/industry-blog/registration-opens-for-linaro-connect-asia-2013-book-early/
-slug: registration-opens-for-linaro-connect-asia-2013-book-early
-tags:
-- Community
-- Connect Events
-- Industry
-title: Registration Opens for Linaro Connect Asia 2013 - Book Early!
+link: "/blog/industry-blog/registration-opens-for-linaro-connect-asia-2013-book-early/"
 wordpress_id: 2143
 ---
 

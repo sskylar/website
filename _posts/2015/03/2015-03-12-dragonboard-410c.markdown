@@ -1,15 +1,6 @@
 ---
-author: steve.taylor
-date: 2015-03-12 12:15:30+00:00
-excerpt: The DragonBoard 410c is based on the 64-bit capable Qualcomm® Snapdragon™
-  410 processor and is designed to be compatible with the 96Boards Consumer Edition
-  specification. It should be commercially available this summer through distributors,
-  but you can sign up now
-layout: post
-link: /blog/dragonboard-410c/
-slug: dragonboard-410c
 title: A new 96Boards-compliant product has been announced by Qualcomm
-wordpress_id: 8298
+date: 2015-03-12 12:15:30 Z
 categories:
 - blog
 tags:
@@ -17,6 +8,14 @@ tags:
 - dragonboard
 - Qualcomm
 - Snapdragon
+author: steve.taylor
+excerpt: The DragonBoard 410c is based on the 64-bit capable Qualcomm® Snapdragon™
+  410 processor and is designed to be compatible with the 96Boards Consumer Edition
+  specification. It should be commercially available this summer through distributors,
+  but you can sign up now
+layout: post
+link: "/blog/dragonboard-410c/"
+wordpress_id: 8298
 ---
 
 The DragonBoard 410c is based on the 64-bit capable Qualcomm® Snapdragon™ 410 processor and is designed to be compatible with the 96Boards Consumer Edition specification. It should be commercially available this summer through distributors, but you can sign up now for more information, as it becomes available, at [http://developer.qualcomm.com/dragonboard410c](http://developer.qualcomm.com/dragonboard410c).

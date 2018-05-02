@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
+title: Linaro GDB 7.3 2011.12 released
+date: 2011-12-08 12:22:33 Z
 categories:
 - blog
-date: 2011-12-08 12:22:33
-description: Announcement and release notes for Linaro GDB 7.3 2011.12
-layout: post
-link: /blog/releases-blog/linaro-gdb-7-3-2011-12-released/
-slug: linaro-gdb-7-3-2011-12-released
 tags:
 - Releases
-title: Linaro GDB 7.3 2011.12 released
+author: fathi.boudra
+description: Announcement and release notes for Linaro GDB 7.3 2011.12
+layout: post
+link: "/blog/releases-blog/linaro-gdb-7-3-2011-12-released/"
 wordpress_id: 1028
 ---
 

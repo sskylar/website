@@ -1,16 +1,6 @@
 ---
-author: linaro
-date: 2016-06-14 21:43:43+00:00
-excerpt: The Linaro Digital Home Group (LHG) is pleased to announce a reference build
-  of W3C EME Clear Key on the 96Boards HiKey platform.  The build uses open source
-  components to implement an HTML5 browser-based playback of encrypted content using
-  OP-TEE running on ARM TrustZone.  The OpenEmbedded build system is employed in this
-  Linux-based implementation.
-layout: post
-link: /blog/engineering-update-16-04/
-slug: engineering-update-16-04
 title: First open source W3C EME solution provided on the 96Boards HiKey platform
-wordpress_id: 10695
+date: 2016-06-14 21:43:43 Z
 categories:
 - blog
 tags:
@@ -21,6 +11,15 @@ tags:
 - Linux
 - Linux on ARM
 - Opensource
+author: linaro
+excerpt: The Linaro Digital Home Group (LHG) is pleased to announce a reference build
+  of W3C EME Clear Key on the 96Boards HiKey platform.  The build uses open source
+  components to implement an HTML5 browser-based playback of encrypted content using
+  OP-TEE running on ARM TrustZone.  The OpenEmbedded build system is employed in this
+  Linux-based implementation.
+layout: post
+link: "/blog/engineering-update-16-04/"
+wordpress_id: 10695
 ---
 
 _**Authors:  Mark Gregotski and Zoltan Kuscsik**_

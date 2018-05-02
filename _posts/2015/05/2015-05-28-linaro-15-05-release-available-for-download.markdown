@@ -1,17 +1,8 @@
 ---
-author: linaro
+title: Linaro 15.05 Release Available for Download
+date: 2015-05-28 17:57:37 Z
 categories:
 - blog
-date: 2015-05-28 17:57:37
-description: Linaro's 15.05 release is now available for download. See the detailed
-  highlights of this release and an overview of what has been accomplished by each
-  team along with all available software downloads.
-excerpt: Linaro's 15.05 release is now available for download. See the detailed highlights
-  of this release and an overview of what has been accomplished by each team along
-  with all available software downloads.
-layout: post
-link: /blog/linaro-15-05-release-available-for-download/
-slug: linaro-15-05-release-available-for-download
 tags:
 - Releases
 - android
@@ -23,7 +14,15 @@ tags:
 - release cycle
 - software
 - ubuntu
-title: Linaro 15.05 Release Available for Download
+author: linaro
+description: Linaro's 15.05 release is now available for download. See the detailed
+  highlights of this release and an overview of what has been accomplished by each
+  team along with all available software downloads.
+excerpt: Linaro's 15.05 release is now available for download. See the detailed highlights
+  of this release and an overview of what has been accomplished by each team along
+  with all available software downloads.
+layout: post
+link: "/blog/linaro-15-05-release-available-for-download/"
 wordpress_id: 8640
 ---
 

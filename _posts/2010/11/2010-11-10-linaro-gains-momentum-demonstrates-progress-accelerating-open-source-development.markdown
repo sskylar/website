@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro gains momentum and demonstrates progress accelerating open source development
+date: 2010-11-10 12:06:52 Z
 categories:
 - News
-date: 2010-11-10 12:06:52
+author: linaro
 description: CAMBRIDGE, UK - 10 NOV 2010
 layout: post
-link: /news/linaro-gains-momentum-demonstrates-progress-accelerating-open-source-development/
-slug: linaro-gains-momentum-demonstrates-progress-accelerating-open-source-development
-title: Linaro gains momentum and demonstrates progress accelerating open source development
+link: "/news/linaro-gains-momentum-demonstrates-progress-accelerating-open-source-development/"
 wordpress_id: 4404
 ---
 

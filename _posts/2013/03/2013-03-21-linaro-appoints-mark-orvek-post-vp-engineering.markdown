@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro appoints Mark Orvek to post of VP of Engineering
+date: 2013-03-21 12:25:02 Z
 categories:
 - News
-date: 2013-03-21 12:25:02
+author: linaro
 description: CAMBRIDGE, UK - 21 MAR 2013
 layout: post
-link: /news/linaro-appoints-mark-orvek-post-vp-engineering/
-slug: linaro-appoints-mark-orvek-post-vp-engineering
-title: Linaro appoints Mark Orvek to post of VP of Engineering
+link: "/news/linaro-appoints-mark-orvek-post-vp-engineering/"
 wordpress_id: 4423
 ---
 

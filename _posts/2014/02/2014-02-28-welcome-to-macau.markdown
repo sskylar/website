@@ -1,12 +1,8 @@
 ---
-author: mark.orvek
+title: Welcome to Macau!
+date: 2014-02-28 21:18:07 Z
 categories:
 - blog
-date: 2014-02-28 21:18:07
-description: Overview of what to expect at LCA14
-layout: post
-link: /blog/connect-update/welcome-to-macau/
-slug: welcome-to-macau
 tags:
 - connect
 - Connect Events
@@ -14,7 +10,10 @@ tags:
 - Linaro Connect
 - Linux
 - Linux on ARM
-title: Welcome to Macau!
+author: mark.orvek
+description: Overview of what to expect at LCA14
+layout: post
+link: "/blog/connect-update/welcome-to-macau/"
 wordpress_id: 3405
 ---
 

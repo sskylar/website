@@ -1,15 +1,14 @@
 ---
-author: david.zinman
+title: Linaro 11.12 Released
+date: 2011-12-22 19:52:48 Z
 categories:
 - blog
-date: 2011-12-22 19:52:48
-description: Links to all the downloads for the Linaro 11.12 release
-layout: post
-link: /blog/releases-blog/linaro-11-12-released/
-slug: linaro-11-12-released
 tags:
 - Releases
-title: Linaro 11.12 Released
+author: david.zinman
+description: Links to all the downloads for the Linaro 11.12 release
+layout: post
+link: "/blog/releases-blog/linaro-11-12-released/"
 wordpress_id: 1113
 ---
 

@@ -1,15 +1,14 @@
 ---
-author: steve.taylor
-date: 2011-11-04 14:57:24+00:00
-layout: post
-link: /blog/connect-update/linaro-connect-celebration-night/
-slug: linaro-connect-celebration-night
 title: Linaro Connect - Celebration night
-wordpress_id: 793
+date: 2011-11-04 14:57:24 Z
 categories:
 - blog
 tags:
 - Connect Events
+author: steve.taylor
+layout: post
+link: "/blog/connect-update/linaro-connect-celebration-night/"
+wordpress_id: 793
 ---
 
 We’ve been having another great week at Linaro Connect Q4.11 here in Orlando, with some major work progressed and important decisions reached. But I just want to spend a few paragraphs talking about our Linaro Celebration Evening.

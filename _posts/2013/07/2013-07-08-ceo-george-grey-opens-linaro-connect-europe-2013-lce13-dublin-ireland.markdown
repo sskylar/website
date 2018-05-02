@@ -1,16 +1,15 @@
 ---
-author: linaro
+title: CEO George Grey Opens Linaro Connect Europe 2013 (LCE13) in Dublin, Ireland
+date: 2013-07-08 12:26:43 Z
 categories:
 - News
-date: 2013-07-08 12:26:43
+author: linaro
 description: Industry leaders are gathering in Dublin, Ireland this week to define
   the future of Linux on ARM at Linaro Connect
 excerpt: Industry leaders are gathering in Dublin, Ireland this week to define the
   future of Linux on ARM at Linaro Connect
 layout: post
-link: /news/ceo-george-grey-opens-linaro-connect-europe-2013-lce13-dublin-ireland/
-slug: ceo-george-grey-opens-linaro-connect-europe-2013-lce13-dublin-ireland
-title: CEO George Grey Opens Linaro Connect Europe 2013 (LCE13) in Dublin, Ireland
+link: "/news/ceo-george-grey-opens-linaro-connect-europe-2013-lce13-dublin-ireland/"
 wordpress_id: 4426
 ---
 

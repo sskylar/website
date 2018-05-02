@@ -1,25 +1,24 @@
 ---
-author: joakim.bech
+title: Evolution of a generic TEE kernel driver
+date: 2015-07-06 19:24:58 Z
 categories:
 - blog
-comments: true
-date: 2015-07-06 19:24:58
-description: Getting a TEE driver into Linux upstream has been the ultimate goal for
-  a long time. This blog post will talk about the history, design choices and lessons
-  learned when implementing and submitting a generic TEE driver for the Linux kernel.
-excerpt: ' Getting a TEE driver into Linux upstream has been the ultimate goal for
-  a long time. This blog post will talk about the history, design choices and lessons
-  learned when implementing and submitting a generic TEE driver for the Linux kernel. '
-layout: post
-link: /blog/evolution-of-a-generic-tee-kernel-driver/
-slug: evolution-of-a-generic-tee-kernel-driver
 tags:
 - Linaro
 - OP-TEE
 - Security
 - TEE
 - TrustZone
-title: Evolution of a generic TEE kernel driver
+author: joakim.bech
+comments: true
+description: Getting a TEE driver into Linux upstream has been the ultimate goal for
+  a long time. This blog post will talk about the history, design choices and lessons
+  learned when implementing and submitting a generic TEE driver for the Linux kernel.
+excerpt: " Getting a TEE driver into Linux upstream has been the ultimate goal for
+  a long time. This blog post will talk about the history, design choices and lessons
+  learned when implementing and submitting a generic TEE driver for the Linux kernel. "
+layout: post
+link: "/blog/evolution-of-a-generic-tee-kernel-driver/"
 wordpress_id: 8867
 ---
 

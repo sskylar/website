@@ -1,10 +1,6 @@
 ---
-author: linaro
-date: 2011-07-22 00:54:49+00:00
-layout: post
-link: /blog/releases-blog/linaro-11-06-release-features-unity-3d-port-for-arm/
-slug: linaro-11-06-release-features-unity-3d-port-for-arm
 title: Linaro 11.06 release features Unity 3D port for ARM
+date: 2011-07-22 00:54:49 Z
 categories:
 - blog
 tags:
@@ -13,7 +9,11 @@ tags:
 - Linux
 - release
 - ubuntu
+author: linaro
+layout: post
+link: "/blog/releases-blog/linaro-11-06-release-features-unity-3d-port-for-arm/"
 ---
+
 **The Linaro Team is pleased to announce the release of Linaro 11.06.**
 
 11.06 is the Linaro’s first release delivered on the new monthly cadence. Since we started focusing on monthly component releases, activity in the engineering teams has been channeled into producing a coherent set of packages; This allows anyone to witness development of new features and fixes as the team progresses towards its goals. This month’s release highlights the results: a host of new components are now available, including LAVA packages from the Platform Validation Team, a collection of SoC-specific kernels provided by the Landing Teams, and preview releases of Graphics and Multimedia Working Groups work ranging from Unity 3D to a NEON-optimized libjpeg-turbo. In addition, another solid set of toolchain components, topped by a Linaro GCC 4.6 release that should start making a very good impressions on benchmarks near you.

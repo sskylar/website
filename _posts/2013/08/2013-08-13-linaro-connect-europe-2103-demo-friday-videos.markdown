@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Linaro Connect Europe 2013 - Demo Friday Videos
+date: 2013-08-13 15:44:04 Z
 categories:
 - blog
-date: 2013-08-13 15:44:04
+tags:
+- Connect Events
+author: linaro
 description: Demo Friday videos from from Linaro Connect Europe 2013 are now available
   for viewing.
 keywords: Linaro, Linux on ARM, Linux, ARM, Open Source, Linaro Connect Europe 2013,
   LCE13, Dublin, Demo Friday, KVM, LAVA, ZEN, UEFI, LCU13, Santa Clara, 64-bit, ARMv8
 layout: post
-link: /blog/connect-update/linaro-connect-europe-2103-demo-friday-videos/
-slug: linaro-connect-europe-2103-demo-friday-videos
-tags:
-- Connect Events
-title: Linaro Connect Europe 2013 - Demo Friday Videos
+link: "/blog/connect-update/linaro-connect-europe-2103-demo-friday-videos/"
 wordpress_id: 2852
 ---
 

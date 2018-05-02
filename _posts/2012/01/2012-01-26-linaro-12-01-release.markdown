@@ -1,15 +1,14 @@
 ---
-author: fathi.boudra
+title: Linaro 12.01 release
+date: 2012-01-26 18:22:14 Z
 categories:
 - blog
-date: 2012-01-26 18:22:14
-description: Links to all the downloads for the Linaro 12.01 release
-layout: post
-link: /blog/releases-blog/linaro-12-01-release/
-slug: linaro-12-01-release
 tags:
 - Releases
-title: Linaro 12.01 release
+author: fathi.boudra
+description: Links to all the downloads for the Linaro 12.01 release
+layout: post
+link: "/blog/releases-blog/linaro-12-01-release/"
 wordpress_id: 1212
 ---
 

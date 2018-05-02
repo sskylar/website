@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro Launches Android Build Portal and Engineering Group Pages
+date: 2013-06-19 12:26:14 Z
 categories:
 - News
-date: 2013-06-19 12:26:14
+author: linaro
 description: CAMBRIDGE, UK - 19 JUN 2013
 layout: post
-link: /news/linaro-launches-android-build-portal-engineering-group-pages/
-slug: linaro-launches-android-build-portal-engineering-group-pages
-title: Linaro Launches Android Build Portal and Engineering Group Pages
+link: "/news/linaro-launches-android-build-portal-engineering-group-pages/"
 wordpress_id: 4425
 ---
 

@@ -1,13 +1,12 @@
 ---
-author: linaro
+title: Linaro Q3 update
+date: 2010-08-24 11:52:43 Z
 categories:
 - News
-date: 2010-08-24 11:52:43
+author: linaro
 description: CAMBRIDGE, UK - 24 AUG 2010
 layout: post
-link: /news/linaro-q3-update/
-slug: linaro-q3-update
-title: Linaro Q3 update
+link: "/news/linaro-q3-update/"
 wordpress_id: 4398
 ---
 

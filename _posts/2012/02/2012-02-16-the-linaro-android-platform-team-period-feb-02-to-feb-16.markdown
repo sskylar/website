@@ -1,12 +1,8 @@
 ---
-author: tony.mansson
+title: The Linaro Android Platform Team, Period Feb. 02 to Feb. 16
+date: 2012-02-16 20:24:55 Z
 categories:
 - blog
-date: 2012-02-16 20:24:55
-description: Embedded Linux Conference Linaro Connect ELC
-layout: post
-link: /blog/industry-blog/the-linaro-android-platform-team-period-feb-02-to-feb-16/
-slug: the-linaro-android-platform-team-period-feb-02-to-feb-16
 tags:
 - Android
 - Connect Events
@@ -22,7 +18,10 @@ tags:
 - Linaro Connect
 - Linux
 - Linux on ARM
-title: The Linaro Android Platform Team, Period Feb. 02 to Feb. 16
+author: tony.mansson
+description: Embedded Linux Conference Linaro Connect ELC
+layout: post
+link: "/blog/industry-blog/the-linaro-android-platform-team-period-feb-02-to-feb-16/"
 wordpress_id: 1248
 ---
 

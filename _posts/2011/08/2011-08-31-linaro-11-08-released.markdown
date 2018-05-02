@@ -1,19 +1,18 @@
 ---
-author: fathi.boudra
+title: Linaro 11.08 Released
+date: 2011-08-31 21:15:16 Z
 categories:
 - blog
-date: 2011-08-31 21:15:16
-description: Information about the Linaro 11.08 release. Feature highlights, ready
-  to use binary images for Android and Ubuntu.
-keywords: Linaro, Android, Ubuntu, Linux,
-layout: post
-link: /blog/releases-blog/linaro-11-08-released/
-slug: linaro-11-08-released
 tags:
 - Releases
 - Linaro
 - release
-title: Linaro 11.08 Released
+author: fathi.boudra
+description: Information about the Linaro 11.08 release. Feature highlights, ready
+  to use binary images for Android and Ubuntu.
+keywords: Linaro, Android, Ubuntu, Linux,
+layout: post
+link: "/blog/releases-blog/linaro-11-08-released/"
 ---
 
 The Linaro Team is pleased to announce the release of Linaro 11.08.

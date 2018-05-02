@@ -1,14 +1,13 @@
 ---
-author: david.rusling
+title: Linaro and Distributions
+date: 2013-02-04 15:14:04 Z
 categories:
 - blog
-date: 2013-02-04 15:14:04
+author: david.rusling
 description: How Linaro interacts with distributions
 keywords: Linaro, distribution, open source, LAVA, ARMv8, Linux, ARM,
 layout: post
-link: /blog/linaro-and-distributions-2/
-slug: linaro-and-distributions-2
-title: Linaro and Distributions
+link: "/blog/linaro-and-distributions-2/"
 wordpress_id: 2244
 ---
 

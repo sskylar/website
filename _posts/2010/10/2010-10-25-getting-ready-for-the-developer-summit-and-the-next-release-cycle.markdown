@@ -1,18 +1,16 @@
 ---
-author: steve.taylor
-
-date: 2010-10-25 18:52:00+00:00
-layout: post
-link: /blog/getting-ready-for-the-developer-summit-and-the-next-release-cycle/
-slug: getting-ready-for-the-developer-summit-and-the-next-release-cycle
 title: Getting Ready for the Developer Summit and the next Release Cycle
-wordpress_id: 4108
+date: 2010-10-25 18:52:00 Z
 categories:
 - blog
 tags:
 - developer summit
 - release cycle
 - Technical Steering Committee
+author: steve.taylor
+layout: post
+link: "/blog/getting-ready-for-the-developer-summit-and-the-next-release-cycle/"
+wordpress_id: 4108
 ---
 
 Linaro engineering operates in a six monthly engineering cycle.   Within that cycle, the working groups are very autonomous; basically, their role is to do engineering work upstream.   The aim is that, at the start of each engineering cycle, the working groups are given a set of engineering problems to solve in that cycle.    From the very beginning of Linaro we have focused on execution.

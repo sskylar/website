@@ -1,19 +1,18 @@
 ---
-author: shovan
+title: Linaro announces Spreadtrum Communications as latest Club Member
+date: 2014-10-29 16:54:06 Z
 categories:
 - News
-date: 2014-10-29 16:54:06
+tags:
+- Club
+- Spreadtrum
+author: shovan
 description: Leading China fabless semiconductor company Spreadtrum Communications
   joins Linaro to influence development direction of open source software
 excerpt: Leading China fabless semiconductor company Spreadtrum Communications joins
   Linaro to influence development direction of open source software
 layout: post
-link: /news/linaro-announces-spreadtrum-communications-latest-club-member/
-slug: linaro-announces-spreadtrum-communications-latest-club-member
-tags:
-- Club
-- Spreadtrum
-title: Linaro announces Spreadtrum Communications as latest Club Member
+link: "/news/linaro-announces-spreadtrum-communications-latest-club-member/"
 wordpress_id: 7141
 ---
 

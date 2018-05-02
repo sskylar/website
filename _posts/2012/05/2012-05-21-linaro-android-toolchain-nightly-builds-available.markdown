@@ -1,19 +1,18 @@
 ---
-author: bernhard.rosenkranzer
+title: Linaro Android toolchain nightly builds available
+date: 2012-05-21 20:57:40 Z
 categories:
 - blog
-date: 2012-05-21 20:57:40
+tags:
+- Android
+- Releases
+author: bernhard.rosenkranzer
 description: Announcement of the availability of Linaro Android toolchain nightly
   builds, including a script to download and update toolchains.
 keywords: Linaro,Android,Linaro-Android,toolchain,gcc,gcc-4.6,gcc-4.7,gcc-4.8,gcc
   4.6,gcc 4.7,gcc 4.8,nightly,nightly build,daily,daily build,binary
 layout: post
-link: /blog/releases-blog/linaro-android-toolchain-nightly-builds-available/
-slug: linaro-android-toolchain-nightly-builds-available
-tags:
-- Android
-- Releases
-title: Linaro Android toolchain nightly builds available
+link: "/blog/releases-blog/linaro-android-toolchain-nightly-builds-available/"
 wordpress_id: 1638
 ---
 

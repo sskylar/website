@@ -1,15 +1,14 @@
 ---
-author: george.grey
+title: July CEO Report
+date: 2011-08-15 15:38:40 Z
 categories:
 - blog
-date: 2011-08-15 15:38:40
+author: george.grey
 description: Update on Linaro activities for July 2011
 keywords: Linux Kernel, ARM, SoCs, evaluation builds, ARM toolchain, Test, Validation,
   Android
 layout: post
-link: /blog/july-ceo-report/
-slug: july-ceo-report
-title: July CEO Report
+link: "/blog/july-ceo-report/"
 wordpress_id: 4119
 ---
 

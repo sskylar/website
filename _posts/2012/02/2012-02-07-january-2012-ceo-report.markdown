@@ -1,17 +1,16 @@
 ---
-author: george.grey
+title: January 2012 CEO Report
+date: 2012-02-07 14:37:18 Z
 categories:
 - blog
-date: 2012-02-07 14:37:18
-description: Linaro CEO gives an overview of the 2012 goals for Linaro.
-keywords: Linaro, ARM, ARM v8 architecture, Linux on ARM, big.LITTLE, LAVA
-layout: post
-link: /blog/industry-blog/january-2012-ceo-report/
-slug: january-2012-ceo-report
 tags:
 - Hardware
 - Industry
-title: January 2012 CEO Report
+author: george.grey
+description: Linaro CEO gives an overview of the 2012 goals for Linaro.
+keywords: Linaro, ARM, ARM v8 architecture, Linux on ARM, big.LITTLE, LAVA
+layout: post
+link: "/blog/industry-blog/january-2012-ceo-report/"
 wordpress_id: 1233
 ---
 

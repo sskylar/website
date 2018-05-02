@@ -1,15 +1,8 @@
 ---
-author: mark.brown
+title: Linaro Stable Kernel overview
+date: 2013-08-29 22:48:04 Z
 categories:
 - blog
-date: 2013-08-29 22:48:04
-description: Overview about the Linaro Stable Kernel. Includes updates from the team
-  and information about the beta release.
-keywords: Linaro, Kernel, Linux, ARM, opensource, opensource software, LSK, big.little,
-  android, reelase, 13.08
-layout: post
-link: /blog/android-blog/linaro-stable-kernel-overview/
-slug: linaro-stable-kernel-overview
 tags:
 - Android
 - '13.08'
@@ -21,7 +14,13 @@ tags:
 - LTS
 - release
 - stable
-title: Linaro Stable Kernel overview
+author: mark.brown
+description: Overview about the Linaro Stable Kernel. Includes updates from the team
+  and information about the beta release.
+keywords: Linaro, Kernel, Linux, ARM, opensource, opensource software, LSK, big.little,
+  android, reelase, 13.08
+layout: post
+link: "/blog/android-blog/linaro-stable-kernel-overview/"
 wordpress_id: 2899
 ---
 

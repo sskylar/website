@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2016-09-29 01:26:31+00:00
-layout: post
-link: /blog/wednesday-linaro-connect-las16-re-cap/
-slug: wednesday-linaro-connect-las16-re-cap
 title: Wednesday Linaro Connect LAS16 Re-cap
-wordpress_id: 11706
+date: 2016-09-29 01:26:31 Z
 categories:
 - blog
 tags:
@@ -17,7 +12,12 @@ tags:
 - Linux on ARM
 - Open Source
 - Opensource
+author: linaro
+layout: post
+link: "/blog/wednesday-linaro-connect-las16-re-cap/"
+wordpress_id: 11706
 ---
+
 Wednesday at Linaro Connect LAS16 began with a great key by Geoff Thorpe who heads up security within the Microcontroller group of NXP. Geoff gave an overview of  Zephyr and talked about the what, where, why as well as gave an update on the status of Zephyr. Geoff also discussed IoT security including the terminology, disruptions, observations and how Zephyr fits into this. Watch the keynote and see the slides: [http://connect.linaro.org/resource/las16/las16-300k2/](http://connect.linaro.org/resource/las16/las16-300k2/)
 
 {% include image.html name="29363043603_3acc387d07_k.jpg" %}

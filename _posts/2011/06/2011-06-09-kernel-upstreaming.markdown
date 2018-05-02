@@ -1,14 +1,13 @@
 ---
-author: david.rusling
+title: Kernel Upstreaming
+date: 2011-06-09 14:47:44 Z
 categories:
 - blog
-date: 2011-06-09 14:47:44
+author: david.rusling
 description: Linaro Kernel upstreaming efforts.
 keywords: Kernel, Linux Kernel, ARM, Linaro, ARM architecture, embedded linux conference
 layout: post
-link: /blog/kernel-upstreaming/
-slug: kernel-upstreaming
-title: Kernel Upstreaming
+link: "/blog/kernel-upstreaming/"
 wordpress_id: 3391
 ---
 

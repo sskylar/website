@@ -1,21 +1,20 @@
 ---
-author: jennifer.castelino
+title: Linaro Networking Group - What Has Been Happening?
+date: 2014-11-04 14:08:47 Z
 categories:
 - blog
-date: 2014-11-04 14:08:47
-description: Overview of the latest group at Linaro, the Linaro Networking Group (LNG).
-  Update on the past 6 months of work and activities and demos that took place at
-  LCU14
-layout: post
-link: /blog/linaro-networking-groups-happening/
-slug: linaro-networking-groups-happening
 tags:
 - connect
 - LCU14
 - Linaro Connect USA 2014
 - linaro networking group
 - LNG
-title: Linaro Networking Group - What Has Been Happening?
+author: jennifer.castelino
+description: Overview of the latest group at Linaro, the Linaro Networking Group (LNG).
+  Update on the past 6 months of work and activities and demos that took place at
+  LCU14
+layout: post
+link: "/blog/linaro-networking-groups-happening/"
 wordpress_id: 6931
 ---
 

@@ -1,8 +1,15 @@
 ---
-author: linaro
+title: Look who's talking now - Interviews from LCE12-Copenhagen
+date: 2012-11-07 16:05:11 Z
 categories:
 - blog
-date: 2012-11-07 16:05:11
+tags:
+- Android
+- Community
+- Connect Events
+- Hardware
+- Industry
+author: linaro
 description: Links to the interviews Amber Graner, Linaro Community Specialist conducted
   during LCE12-Copenhagen and UDS-R. Personalities include David Rusling, Linaro CTO
   and Mark Shuttleworth, Ubuntu Founder and more.
@@ -10,15 +17,7 @@ keywords: Linaro, Linaro Connect, LCE12-Copenhagen, UDS-R, Announcement, Linux o
   ARM, Ubuntu, Android, ARM, Copenhagen, October, Events, Interviews, LEG, Linaro
   Enterprise Group
 layout: post
-link: /blog/industry-blog/look-whos-talking-now-interviews-from-lce12-copenhagen/
-slug: look-whos-talking-now-interviews-from-lce12-copenhagen
-tags:
-- Android
-- Community
-- Connect Events
-- Hardware
-- Industry
-title: Look who's talking now - Interviews from LCE12-Copenhagen
+link: "/blog/industry-blog/look-whos-talking-now-interviews-from-lce12-copenhagen/"
 wordpress_id: 1969
 ---
 

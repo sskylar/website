@@ -1,15 +1,14 @@
 ---
-author: linaro
-date: 2011-08-18 18:11:51+00:00
-layout: post
-link: /blog/community-blog/community-feedback/
-slug: community-feedback
 title: Community Feedback
-wordpress_id: 4123
+date: 2011-08-18 18:11:51 Z
 categories:
 - blog
 tags:
 - Community
+author: linaro
+layout: post
+link: "/blog/community-blog/community-feedback/"
+wordpress_id: 4123
 ---
 
 The Engineering Resources team is trying to solicit feedback from the community. Our goal is to make it as easy as possible for you to get your job done. With that in mind, we'd like to check in with you and get your thoughts on what hasn't worked well for you.

@@ -1,12 +1,8 @@
 ---
-author: linaro
+title: Linaro 14.09 Release Available for Immediate Download
+date: 2014-09-26 14:32:24 Z
 categories:
 - blog
-date: 2014-09-26 14:32:24
-description: Linaro 14.09 release information with links to all downloads available.
-layout: post
-link: /blog/linaro-14-09-release-available-immediate-download/
-slug: linaro-14-09-release-available-immediate-download
 tags:
 - Releases
 - android
@@ -16,7 +12,10 @@ tags:
 - release
 - release cycle
 - ubuntu
-title: Linaro 14.09 Release Available for Immediate Download
+author: linaro
+description: Linaro 14.09 release information with links to all downloads available.
+layout: post
+link: "/blog/linaro-14-09-release-available-immediate-download/"
 wordpress_id: 6928
 ---
 

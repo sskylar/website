@@ -1,11 +1,6 @@
 ---
-author: linaro
-date: 2011-03-01 05:00:00+00:00
-layout: post
-link: /blog/hardware-update/new-low-cost-cortex-a8-board-from-freescale/
-slug: new-low-cost-cortex-a8-board-from-freescale
 title: New low-cost Cortex A8 board from Freescale
-wordpress_id: 3372
+date: 2011-03-01 05:00:00 Z
 categories:
 - blog
 tags:
@@ -15,7 +10,12 @@ tags:
 - CortexA8
 - Freescale
 - i.MX53
+author: linaro
+layout: post
+link: "/blog/hardware-update/new-low-cost-cortex-a8-board-from-freescale/"
+wordpress_id: 3372
 ---
+
 Freescale has taken the opportunity of the [Embedded World exhibition in Nuremberg](https://www.embedded-world.de/en) to announce its first low-cost board based on its i.MX53 ARM® CortexTM- A8 processor family, priced at 149 US dollars, and called the i.MX53 Quick Start board.
 
 Technical details and a picture can be found on the [LinuxDevices.com](https://www.nxp.com/docs/en/user-guide/SABRE6QUADPLUSQSG.pdf) website:

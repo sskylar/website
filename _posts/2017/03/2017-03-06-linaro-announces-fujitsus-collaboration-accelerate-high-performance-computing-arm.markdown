@@ -1,12 +1,9 @@
 ---
-author: linaro
+title: Linaro Announces Fujitsu's Collaboration to Accelerate High Performance Computing
+  on ARM
+date: 2017-03-06 08:01:29 Z
 categories:
 - News
-date: 2017-03-06 08:01:29
-description: Budapest, Hungary; 6 March 2017
-layout: post
-link: /news/linaro-announces-fujitsus-collaboration-accelerate-high-performance-computing-arm/
-slug: linaro-announces-fujitsus-collaboration-accelerate-high-performance-computing-arm
 tags:
 - arm
 - enterprise
@@ -16,8 +13,10 @@ tags:
 - Linaro Connect
 - Linux
 - Linux on ARM
-title: Linaro Announces Fujitsu's Collaboration to Accelerate High Performance Computing
-  on ARM
+author: linaro
+description: Budapest, Hungary; 6 March 2017
+layout: post
+link: "/news/linaro-announces-fujitsus-collaboration-accelerate-high-performance-computing-arm/"
 wordpress_id: 12220
 ---
 

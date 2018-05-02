@@ -1,14 +1,8 @@
 ---
-author: jennifer.castelino
+title: LCU14 Wednesday Wrap-up
+date: 2014-09-18 21:43:11 Z
 categories:
 - blog
-date: 2014-09-18 21:43:11
-description: Description of the keynotes and sessions that took place on Wednesday
-  of Linaro Connect USA 2014. Including links to videos, presentations and session
-  summaries.
-layout: post
-link: /blog/lcu14-wednesday-wrap/
-slug: lcu14-wednesday-wrap
 tags:
 - Connect Events
 - android
@@ -16,7 +10,6 @@ tags:
 - arm
 - ARMv8
 - connect
-- Connect Events
 - embedded
 - kernel
 - Linaro Connect
@@ -26,7 +19,12 @@ tags:
 - Open Source
 - Opensource
 - toolchain
-title: LCU14 Wednesday Wrap-up
+author: jennifer.castelino
+description: Description of the keynotes and sessions that took place on Wednesday
+  of Linaro Connect USA 2014. Including links to videos, presentations and session
+  summaries.
+layout: post
+link: "/blog/lcu14-wednesday-wrap/"
 wordpress_id: 6708
 ---
 

@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: 'LCE-13 Keynote Speaker Announced: James Bottomley - From the consumer device
+  to the server: A well trodden path?'
+date: 2013-06-20 18:27:42 Z
 categories:
 - blog
-date: 2013-06-20 18:27:42
+tags:
+- Connect Events
+author: linaro
 description: Linaro announces that James Bottomley, will be giving the Monday, July
   8th keynote at Linaro Connect Europe 2013 (LCE-13).
 keywords: James Bottomley, Virtualisation, Parallels, Keynote, Announced, Linaro,
   Linux on ARM, Open Source, ARM, Linaro Connect Europe, LCE-13, Dublin
 layout: post
-link: /blog/connect-update/lce-13-keynote-speaker-announced-james-bottomley-from-the-consumer-device-to-the-server-a-well-trodden-path/
-slug: lce-13-keynote-speaker-announced-james-bottomley-from-the-consumer-device-to-the-server-a-well-trodden-path
-tags:
-- Connect Events
-title: 'LCE-13 Keynote Speaker Announced: James Bottomley - From the consumer device
-  to the server: A well trodden path?'
+link: "/blog/connect-update/lce-13-keynote-speaker-announced-james-bottomley-from-the-consumer-device-to-the-server-a-well-trodden-path/"
 wordpress_id: 2782
 ---
 

@@ -1,12 +1,8 @@
 ---
-author: tony.mansson
+title: The Linaro Android Platform Team, Period Feb. 17 to Feb. 23
+date: 2012-02-24 01:15:23 Z
 categories:
 - blog
-date: 2012-02-24 01:15:23
-keywords: Linaro Android Platform Team
-layout: post
-link: /blog/community-blog/the-linaro-android-platform-team-period-feb-17-to-feb-23/
-slug: the-linaro-android-platform-team-period-feb-17-to-feb-23
 tags:
 - Android
 - Community
@@ -27,7 +23,10 @@ tags:
 - Linux
 - Linux on ARM
 - release
-title: The Linaro Android Platform Team, Period Feb. 17 to Feb. 23
+author: tony.mansson
+keywords: Linaro Android Platform Team
+layout: post
+link: "/blog/community-blog/the-linaro-android-platform-team-period-feb-17-to-feb-23/"
 wordpress_id: 1288
 ---
 

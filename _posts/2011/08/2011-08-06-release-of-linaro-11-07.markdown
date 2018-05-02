@@ -1,15 +1,14 @@
 ---
-author: linaro
+title: Release of Linaro 11.07
+date: 2011-08-06 02:19:30 Z
 categories:
 - blog
-date: 2011-08-06 02:19:30
-description: Listing of the links to all the downloads for the release
-layout: post
-link: /blog/releases-blog/release-of-linaro-11-07/
-slug: release-of-linaro-11-07
 tags:
 - Releases
-title: Release of Linaro 11.07
+author: linaro
+description: Listing of the links to all the downloads for the release
+layout: post
+link: "/blog/releases-blog/release-of-linaro-11-07/"
 wordpress_id: 3399
 ---
 

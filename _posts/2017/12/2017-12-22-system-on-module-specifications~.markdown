@@ -1,13 +1,14 @@
 ---
-author: linaro
+title: Linaro Invites Input into 96Boards System-on-Module (SOM) specifications
+date: 2017-12-22 12:00:00 Z
 categories:
 - News
-date: 2017-12-22 12:00:00
-description: "96Boards steering committee are working on new System-on-Module (SOM) specifications and they are inviting interested parties to participate in the finalization of the specifications."
+author: linaro
+description: 96Boards steering committee are working on new System-on-Module (SOM)
+  specifications and they are inviting interested parties to participate in the finalization
+  of the specifications.
 layout: post
-link: /news/system-on-module-specifications/
-slug: system-on-module-specifications
-title: Linaro Invites Input into 96Boards System-on-Module (SOM) specifications
+link: "/news/system-on-module-specifications/"
 ---
 
 [Cambridge UK, 22 December 2017] Linaro Ltd, the [open source collaborative engineering organization](https://www.linaro.org/) developing software for the Arm® ecosystem, today announced that members of the [96Boards steering committee](https://www.96boards.org/about/) are working on new **System-on-Module (SOM) specifications** and they are inviting interested parties to participate in the finalization of the specifications.

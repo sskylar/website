@@ -1,19 +1,18 @@
 ---
-author: linaro
+title: Mini-Summits, Training, Hacking and More - Linaro Connect Asia 2013 - Hong
+  Kong
+date: 2013-03-19 23:04:06 Z
 categories:
 - blog
-date: 2013-03-19 23:04:06
+tags:
+- Community
+- Connect Events
+author: linaro
 description: Find out what all the excitement was about at Linaro Connect Asia 2013.
 keywords: Linaro, Linux on ARM, Open Source, Linux, ARM, Linaro Connect, LCA13-Hong
   Kong, Speakers, Announcement, LAVA, Embedded Android, ARM Server Mini-Summit,
 layout: post
-link: /blog/community-blog/mini-summits-training-hacking-and-more-linaro-connect-asia-2013-hong-kong/
-slug: mini-summits-training-hacking-and-more-linaro-connect-asia-2013-hong-kong
-tags:
-- Community
-- Connect Events
-title: Mini-Summits, Training, Hacking and More - Linaro Connect Asia 2013 - Hong
-  Kong
+link: "/blog/community-blog/mini-summits-training-hacking-and-more-linaro-connect-asia-2013-hong-kong/"
 wordpress_id: 2560
 ---
 

@@ -1,16 +1,16 @@
 ---
-author: joakim.bech
-date: 2016-02-10 13:54:07+00:00
-layout: post
-link: /blog/core-dump/testing-a-trusted-execution-environment/
-slug: testing-a-trusted-execution-environment
 title: Testing a Trusted Execution Environment
-wordpress_id: 9949
+date: 2016-02-10 13:54:07 Z
 categories:
 - blog
 tags:
 - Core Dump
+author: joakim.bech
+layout: post
+link: "/blog/core-dump/testing-a-trusted-execution-environment/"
+wordpress_id: 9949
 ---
+
 {% include image.html name="core-dump.png" lightbox_disabled="True" alt="Core Dump Banner" url="https://wiki.linaro.org/CoreDevelopment" %}
 
   * Background

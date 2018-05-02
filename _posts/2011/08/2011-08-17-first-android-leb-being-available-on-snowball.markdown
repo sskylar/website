@@ -1,15 +1,14 @@
 ---
-author: andrea.gallo
+title: First Android LEB available on Snowball
+date: 2011-08-17 14:33:52 Z
 categories:
 - blog
-date: 2011-08-17 14:33:52
-keywords: LEB, Android, ST-Ericsson, Snowball
-layout: post
-link: /blog/lava-blog/first-android-leb-being-available-on-snowball/
-slug: first-android-leb-being-available-on-snowball
 tags:
 - LAVA
-title: First Android LEB available on Snowball
+author: andrea.gallo
+keywords: LEB, Android, ST-Ericsson, Snowball
+layout: post
+link: "/blog/lava-blog/first-android-leb-being-available-on-snowball/"
 ---
 
 Another quarter has passed, another face-to-face summit is ongoing within Linaro and the team has once again impressive achievements to show!

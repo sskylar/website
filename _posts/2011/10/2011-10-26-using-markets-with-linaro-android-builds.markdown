@@ -1,20 +1,19 @@
 ---
-author: frans.gifford
+title: Using App Markets with Linaro Android builds
+date: 2011-10-26 12:52:11 Z
 categories:
 - blog
-date: 2011-10-26 12:52:11
-description: Using app markets with Linaro Android builds
-keywords: linaro, app, market, android, f-droid, cyanogenmod, android market
-layout: post
-link: /blog/android-blog/using-markets-with-linaro-android-builds/
-slug: using-markets-with-linaro-android-builds
 tags:
 - Android
 - android
 - app
 - Linaro
 - market
-title: Using App Markets with Linaro Android builds
+author: frans.gifford
+description: Using app markets with Linaro Android builds
+keywords: linaro, app, market, android, f-droid, cyanogenmod, android market
+layout: post
+link: "/blog/android-blog/using-markets-with-linaro-android-builds/"
 wordpress_id: 748
 ---
 

@@ -1,11 +1,6 @@
 ---
-author: andrea.gallo
-date: 2010-11-08 18:59:00+00:00
-layout: post
-link: /blog/industry-blog/st-ericsson-and-linaro-working-towards-the-first-release/
-slug: st-ericsson-and-linaro-working-towards-the-first-release
 title: ST-Ericsson and Linaro, working towards the first release
-wordpress_id: 4106
+date: 2010-11-08 18:59:00 Z
 categories:
 - blog
 tags:
@@ -16,7 +11,12 @@ tags:
 - release
 - smartphone
 - ST-Ericsson
+author: andrea.gallo
+layout: post
+link: "/blog/industry-blog/st-ericsson-and-linaro-working-towards-the-first-release/"
+wordpress_id: 4106
 ---
+
 Open source has become an important driving force in the smartphone industry and a particularly key area of focus for ST-Ericsson. We believe that open innovation is critical to face the increasing demand on features and the broadening scope of the mobile market.  From hardware performance to software platforms and enabling the hundreds of thousands of apps & services running on top of it, the complexity of today's devices has raised incredibly.
 
 Most Open Source initiatives in mobile so far have had been focused on the SW development framework such as Android, MeeGo or the Symbian foundation. However 5 months ago the launch of Linaro was announced, together with ARM and other key partners of the wireless semiconductor industry, to focus on optimization of lower platform layers (kernel, hardware adaptation) and tools.

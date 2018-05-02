@@ -1,18 +1,17 @@
 ---
-author: linaro
+title: Linaro Seeks Android Ubuntu Linux Kernel Engineer
+date: 2013-02-14 22:05:26 Z
 categories:
 - blog
-date: 2013-02-14 22:05:26
+tags:
+- Community
+author: linaro
 description: Career opportunities now available at Linaro for an Android Ubuntu Linux
   Kernel Engineer located in or near Seoul, Korea.
 keywords: Linaro, Linux on ARM, Open Source, ARM, Linux, Kernel, Ubuntu, Android,
   Engineer
 layout: post
-link: /blog/community-blog/linaro-seeks-android-ubuntu-linux-kernel-engineer/
-slug: linaro-seeks-android-ubuntu-linux-kernel-engineer
-tags:
-- Community
-title: Linaro Seeks Android Ubuntu Linux Kernel Engineer
+link: "/blog/community-blog/linaro-seeks-android-ubuntu-linux-kernel-engineer/"
 wordpress_id: 2352
 ---
 

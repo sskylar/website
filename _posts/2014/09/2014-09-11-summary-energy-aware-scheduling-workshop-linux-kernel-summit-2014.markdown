@@ -1,15 +1,8 @@
 ---
-author: mike.turquette
+title: Summary of Energy-Aware Scheduling workshop, Linux Kernel Summit 2014
+date: 2014-09-11 13:03:28 Z
 categories:
 - blog
-comments: true
-date: 2014-09-11 13:03:28
-description: State of the art of energy-aware scheduling with a brief overview of
-  the discussions and outcomes of the EAS workshop at Linux Kernel Summit 2014
-excerpt: State of the art of energy-aware scheduling with a brief overview of the
-  discussions and outcomes of the EAS workshop at Linux Kernel Summit 2014
-layout: post
-slug: summary-energy-aware-scheduling-workshop-linux-kernel-summit-2014
 tags:
 - Core Dump
 - EAS
@@ -21,7 +14,13 @@ tags:
 - power management
 - Summit
 - workshop
-title: Summary of Energy-Aware Scheduling workshop, Linux Kernel Summit 2014
+author: mike.turquette
+comments: true
+description: State of the art of energy-aware scheduling with a brief overview of
+  the discussions and outcomes of the EAS workshop at Linux Kernel Summit 2014
+excerpt: State of the art of energy-aware scheduling with a brief overview of the
+  discussions and outcomes of the EAS workshop at Linux Kernel Summit 2014
+layout: post
 wordpress_id: 6674
 ---
 

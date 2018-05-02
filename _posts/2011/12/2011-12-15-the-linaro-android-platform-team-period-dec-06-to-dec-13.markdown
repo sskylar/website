@@ -1,13 +1,8 @@
 ---
-author: tony.mansson
+title: The Linaro Android Platform Team, Period Dec. 06 to Dec. 13
+date: 2011-12-15 10:28:00 Z
 categories:
 - blog
-date: 2011-12-15 10:28:00
-description: Achievements from the The Linaro Android Platform Team, from Dec. 6 to
-  13. to Dec. Bug fixes and substantial progress on multiple fronts.
-layout: post
-link: /blog/android-blog/the-linaro-android-platform-team-period-dec-06-to-dec-13/
-slug: the-linaro-android-platform-team-period-dec-06-to-dec-13
 tags:
 - Android
 - Connect Events
@@ -15,7 +10,11 @@ tags:
 - connect
 - Linaro
 - Linux
-title: The Linaro Android Platform Team, Period Dec. 06 to Dec. 13
+author: tony.mansson
+description: Achievements from the The Linaro Android Platform Team, from Dec. 6 to
+  13. to Dec. Bug fixes and substantial progress on multiple fronts.
+layout: post
+link: "/blog/android-blog/the-linaro-android-platform-team-period-dec-06-to-dec-13/"
 wordpress_id: 1068
 ---
 

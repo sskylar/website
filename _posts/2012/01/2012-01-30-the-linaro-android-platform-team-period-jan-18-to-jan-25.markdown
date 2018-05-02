@@ -1,13 +1,8 @@
 ---
-author: tony.mansson
+title: The Linaro Android Platform Team, Period Jan. 18 to Jan. 25
+date: 2012-01-30 10:02:49 Z
 categories:
 - blog
-date: 2012-01-30 10:02:49
-description: The Linaro Android Platform Team weekly report
-keywords: Linaro Android Report
-layout: post
-link: /blog/android-blog/the-linaro-android-platform-team-period-jan-18-to-jan-25/
-slug: the-linaro-android-platform-team-period-jan-18-to-jan-25
 tags:
 - Android
 - Connect Events
@@ -17,7 +12,11 @@ tags:
 - connect
 - Linaro
 - release
-title: The Linaro Android Platform Team, Period Jan. 18 to Jan. 25
+author: tony.mansson
+description: The Linaro Android Platform Team weekly report
+keywords: Linaro Android Report
+layout: post
+link: "/blog/android-blog/the-linaro-android-platform-team-period-jan-18-to-jan-25/"
 wordpress_id: 1221
 ---
 

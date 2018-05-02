@@ -1,15 +1,14 @@
 ---
-author: linaro
-date: 2011-04-04 21:47:38+00:00
-layout: post
-link: /blog/community-blog/lds-showcase/
-slug: lds-showcase
 title: Technical showcase at the Linaro Developer Summit
-wordpress_id: 3378
+date: 2011-04-04 21:47:38 Z
 categories:
 - blog
 tags:
 - Community
+author: linaro
+layout: post
+link: "/blog/community-blog/lds-showcase/"
+wordpress_id: 3378
 ---
 
 If you are going to the [Linaro Developer Summit](https://wiki.linaro.org/Events/2011-05-LDS/) or to the [Ubuntu Developer Summit](http://uds.ubuntu.com/) in Budapest this year, you may be interested in the [technical showcase](https://wiki.linaro.org/Events/2011-05-LDS/Showcase) that we organize on Tuesday evening.

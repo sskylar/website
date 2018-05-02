@@ -1,14 +1,8 @@
 ---
-author: fathi.boudra
+title: Linaro 13.12 release is now available for download!
+date: 2013-12-19 20:51:20 Z
 categories:
 - blog
-date: 2013-12-19 20:51:20
-description: Information and links for the Linaro 13.12 release
-keywords: Linaro, linux, open source, ARM, linux on ARM, Android, Ubuntu, kernel,
-  linux kernel, ARMv8, Linaro Connect,
-layout: post
-link: /blog/releases-blog/linaro-13-12-release-is-now-available-for-download/
-slug: linaro-13-12-release-is-now-available-for-download
 tags:
 - Releases
 - android
@@ -27,7 +21,12 @@ tags:
 - release cycle
 - software
 - ubuntu
-title: Linaro 13.12 release is now available for download!
+author: fathi.boudra
+description: Information and links for the Linaro 13.12 release
+keywords: Linaro, linux, open source, ARM, linux on ARM, Android, Ubuntu, kernel,
+  linux kernel, ARMv8, Linaro Connect,
+layout: post
+link: "/blog/releases-blog/linaro-13-12-release-is-now-available-for-download/"
 wordpress_id: 3230
 ---
 

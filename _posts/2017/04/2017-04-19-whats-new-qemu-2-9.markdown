@@ -1,16 +1,15 @@
 ---
-author: alex.bennee
-date: 2017-04-19 16:46:38+00:00
-layout: post
-link: /blog/core-dump/whats-new-qemu-2-9/
-slug: whats-new-qemu-2-9
 title: What's new in QEMU 2.9
-wordpress_id: 12315
+date: 2017-04-19 16:46:38 Z
 categories:
 - blog
 tags:
 - Core Dump
 - qemu
+author: alex.bennee
+layout: post
+link: "/blog/core-dump/whats-new-qemu-2-9/"
+wordpress_id: 12315
 ---
 
 {% include image.html name="core-dump.png" lightbox_disabled="True" alt="Core Dump Banner" %}

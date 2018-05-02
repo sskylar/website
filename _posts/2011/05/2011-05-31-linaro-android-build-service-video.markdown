@@ -1,13 +1,8 @@
 ---
-author: linaro
+title: 'Video: Linaro Android Build Service on Panda board'
+date: 2011-05-31 17:36:09 Z
 categories:
 - blog
-date: 2011-05-31 17:36:09
-description: 'Video: trying the Linaro Android Build Service on the Panda board -
-  Only 15 minutes needed. Other boards available.'
-layout: post
-link: /blog/linaro-android-build-service-video/
-slug: linaro-android-build-service-video
 tags:
 - android
 - Evaluation builds
@@ -15,7 +10,11 @@ tags:
 - Linaro
 - Panda board
 - video
-title: 'Video: Linaro Android Build Service on Panda board'
+author: linaro
+description: 'Video: trying the Linaro Android Build Service on the Panda board -
+  Only 15 minutes needed. Other boards available.'
+layout: post
+link: "/blog/linaro-android-build-service-video/"
 wordpress_id: 3387
 ---
 

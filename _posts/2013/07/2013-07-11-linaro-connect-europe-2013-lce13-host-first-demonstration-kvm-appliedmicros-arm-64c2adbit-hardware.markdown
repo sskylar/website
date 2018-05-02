@@ -1,17 +1,16 @@
 ---
+title: Linaro Connect Europe 2013 (LCE13) to Host First Demonstration of KVM on AppliedMicro’s
+  ARM® 64­bit Hardware
+date: 2013-07-11 12:28:22 Z
+categories:
+- News
 author: linaro
-date: 2013-07-11 12:28:22+00:00
 excerpt: Following the public showing of its X­-GeneTM ARMv8 64­-bit Server on a Chip™
   solution at the Red Hat Summit, AppliedMicro is now ready to demonstrate KVM running
   on the X-Gene platform
 layout: post
-link: /news/linaro-connect-europe-2013-lce13-host-first-demonstration-kvm-appliedmicros-arm-64%c2%adbit-hardware/
-slug: linaro-connect-europe-2013-lce13-host-first-demonstration-kvm-appliedmicros-arm-64%c2%adbit-hardware
-title: Linaro Connect Europe 2013 (LCE13) to Host First Demonstration of KVM on AppliedMicro’s
-  ARM® 64­bit Hardware
+link: "/news/linaro-connect-europe-2013-lce13-host-first-demonstration-kvm-appliedmicros-arm-64%c2%adbit-hardware/"
 wordpress_id: 4428
-categories:
-- News
 ---
 
 DUBLIN, IRELAND - 11 JUL 2013

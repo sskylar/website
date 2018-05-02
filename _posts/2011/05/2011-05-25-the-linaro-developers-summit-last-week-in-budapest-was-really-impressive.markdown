@@ -1,13 +1,12 @@
 ---
-author: andrea.gallo
-date: 2011-05-25 19:19:10+00:00
-layout: post
-link: /blog/the-linaro-developers-summit-last-week-in-budapest-was-really-impressive/
-slug: the-linaro-developers-summit-last-week-in-budapest-was-really-impressive
 title: The Linaro Developers Summit last week in Budapest was really impressive!
-wordpress_id: 3384
+date: 2011-05-25 19:19:10 Z
 categories:
 - blog
+author: andrea.gallo
+layout: post
+link: "/blog/the-linaro-developers-summit-last-week-in-budapest-was-really-impressive/"
+wordpress_id: 3384
 ---
 
 I attended the Linaro developers summit in Budapest last week with a number of my colleagues. With ten technical tracks in parallel you can imagine there was a huge amount of invaluable information being shared. I was amazed by the spirit of cooperation among the Linux community experts gathered in the room and participating remotely through chat. Some of the discussions were of such technical depth that I have to admit that they went over my head. So I listened attentively and refrained from asking questions that would reveal my lack of understanding!

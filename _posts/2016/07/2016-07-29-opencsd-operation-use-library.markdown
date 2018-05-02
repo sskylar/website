@@ -1,15 +1,6 @@
 ---
-author: mike.leach
-date: 2016-07-29 21:57:01+00:00
-excerpt: This article will describe the programming and operation of the OpenCSD library
-  in decoding CoreSight™ trace. Starting with a brief review of CoreSight technology
-  and terminology, these elements will be related to the configuration of the library
-  in order to successfully decode a captured trace stream.
-layout: post
-link: /blog/core-dump/opencsd-operation-use-library/
-slug: opencsd-operation-use-library
 title: OpenCSD – Operation and Use of the Library
-wordpress_id: 11243
+date: 2016-07-29 21:57:01 Z
 categories:
 - blog
 tags:
@@ -22,6 +13,14 @@ tags:
 - openCSD
 - OpenCSD library
 - Opensource
+author: mike.leach
+excerpt: This article will describe the programming and operation of the OpenCSD library
+  in decoding CoreSight™ trace. Starting with a brief review of CoreSight technology
+  and terminology, these elements will be related to the configuration of the library
+  in order to successfully decode a captured trace stream.
+layout: post
+link: "/blog/core-dump/opencsd-operation-use-library/"
+wordpress_id: 11243
 ---
 
 {% include image.html name="core-dump.png" lightbox_disabled="True" alt="Core Dump Banner" url="https://wiki.linaro.org/CoreDevelopment" %}

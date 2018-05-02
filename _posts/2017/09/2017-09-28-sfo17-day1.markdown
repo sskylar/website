@@ -1,14 +1,13 @@
 ---
-author: linaro
-date: 2017-09-28 18:27:46+00:00
-layout: post
-link: /blog/sfo17-day1/
-slug: sfo17-day1
 title: Linaro Connect SFO17 kicks off with new 96Boards products, members and technology
   demonstrations
-wordpress_id: 12813
+date: 2017-09-28 18:27:46 Z
 categories:
 - blog
+author: linaro
+layout: post
+link: "/blog/sfo17-day1/"
+wordpress_id: 12813
 ---
 
 The 22nd Linaro Connect began on Monday 25 September with the [keynote](http://connect.linaro.org/resource/sfo17/sfo17-100k1/) given by Linaro CEO George Grey. As usual, Grey packed the opening hour with an update on new Linaro members, key engineering achievements, a look at areas of future interest and a series of demonstrations pulling together various aspects of Linaro’s current activities.

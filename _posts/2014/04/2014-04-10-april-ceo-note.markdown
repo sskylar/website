@@ -1,14 +1,8 @@
 ---
-author: george.grey
+title: Q1 2014 CEO Note
+date: 2014-04-10 19:30:32 Z
 categories:
 - blog
-date: 2014-04-10 19:30:32
-description: Linaro's CEO discusses activities from Q1 2014 including The announcement
-  of five new members at Linaro Connect, Linaro's ARMv8 work, LSK work and the latest
-  Linux Foundation report
-layout: post
-link: /blog/april-ceo-note/
-slug: april-ceo-note
 tags:
 - ARMv8
 - connect
@@ -16,7 +10,12 @@ tags:
 - Linux
 - Linux on ARM
 - LSK
-title: Q1 2014 CEO Note
+author: george.grey
+description: Linaro's CEO discusses activities from Q1 2014 including The announcement
+  of five new members at Linaro Connect, Linaro's ARMv8 work, LSK work and the latest
+  Linux Foundation report
+layout: post
+link: "/blog/april-ceo-note/"
 wordpress_id: 5667
 ---
 

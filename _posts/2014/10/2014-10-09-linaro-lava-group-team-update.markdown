@@ -1,8 +1,17 @@
 ---
-author: jennifer.castelino
+title: Linaro LAVA Group - Team Update
+date: 2014-10-09 13:14:53 Z
 categories:
 - blog
-date: 2014-10-09 13:14:53
+tags:
+- LAVA
+- Connect Events
+- lava
+- Linaro
+- Linaro Connect
+- testing
+- validation
+author: jennifer.castelino
 description: Recap of the sessions and activities of the Linaro Automation Validation
   Architecture (LAVA) team at Linaro Connect USA, as well as a team update
 excerpt: For those that may not be as familiar with Linaro's LAVA team, this team
@@ -14,17 +23,7 @@ excerpt: For those that may not be as familiar with Linaro's LAVA team, this tea
   during the show as well as an interview with the team's director discussing the
   activities the team has been working on and what is coming up.
 layout: post
-link: /blog/linaro-lava-group-team-update/
-slug: linaro-lava-group-team-update
-tags:
-- LAVA
-- Connect Events
-- lava
-- Linaro
-- Linaro Connect
-- testing
-- validation
-title: Linaro LAVA Group - Team Update
+link: "/blog/linaro-lava-group-team-update/"
 wordpress_id: 7051
 ---
 

@@ -1,16 +1,15 @@
 ---
-author: alan.bennett
-date: 2011-11-30 21:31:26+00:00
-layout: post
-link: /blog/hardware-update/lava-at-home/
-slug: lava-at-home
 title: LAVA@Home
-wordpress_id: 965
+date: 2011-11-30 21:31:26 Z
 categories:
 - blog
 tags:
 - Hardware
 - LAVA
+author: alan.bennett
+layout: post
+link: "/blog/hardware-update/lava-at-home/"
+wordpress_id: 965
 ---
 
 {% include image.html name="IMG_3464.jpg" alt="IMG_3464" %}

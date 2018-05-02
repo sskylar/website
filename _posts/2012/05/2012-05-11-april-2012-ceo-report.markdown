@@ -1,19 +1,18 @@
 ---
-author: george.grey
+title: April 2012 CEO Report
+date: 2012-05-11 21:13:36 Z
 categories:
 - blog
-date: 2012-05-11 21:13:36
+tags:
+- Industry
+author: george.grey
 description: Discussion on how Linaro's work affects many segments other than mobile
   and enabling optimized hardware for a particular application, the software platforms
   required to drive them are becoming increasingly complex.
 keywords: Linaro, CEO report, ARM SoC, ARM Architecture, Linux, open-source software,
   ARM,  big.LITTLE
 layout: post
-link: /blog/industry-blog/april-2012-ceo-report/
-slug: april-2012-ceo-report
-tags:
-- Industry
-title: April 2012 CEO Report
+link: "/blog/industry-blog/april-2012-ceo-report/"
 wordpress_id: 1626
 ---
 
